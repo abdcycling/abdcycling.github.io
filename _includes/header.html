@@ -63,7 +63,15 @@
             {% endif %}
                 <div class="container">
                     <h1>{{ page.title }}</h1>
-{% capture year_now %}{{ site.time | date: '%Y' }}{% endcapture %}
+                    {% if page.lead %}
+                    {% if page.slug == 'events' %}
+                    {% capture year_now %}{{ site.time | date: '%Y' }}{% endcapture %}
                     <p class="lead">{{ page.lead | replace: '!YEAR!', year_now }}</p>
+                    {% else %}
+                    <p class="lead">{{ page.lead }}</p>
+                    {% endif %}
+                    {% else %}
+                    <p class="lead">{{ page.date | date: '<span class="glyphicon glyphicon-time"></span> %Y.%m.%d %H:%M:%S' }}</p>
+                    {% endif %}
                 </div>
             </div>
