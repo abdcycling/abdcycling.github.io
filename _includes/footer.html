@@ -9,11 +9,25 @@
             <li><a href="/sponsors/brogans" class="brogans-sm"></a></li>
             <li><a href="/sponsors/hoving" class="hoving-sm"></a></li>
         </ul>
+        <br />
         <p class="text-muted text-center">Copyright &copy; {{ site.time | date: '%Y' }} Athletes By Design</p>
+        <br />
+        <p class="text-muted text-center small">Last Updated: <span class="last-updated"></span></p>
     </div>
 </footer>
 
 <script src="/assets/js/bootstrap.min.js"></script>
+
+<script>
+    $.ajax({
+        type: 'GET',
+        url: "https://api.github.com/repos/abdcycling/abdcycling.github.io",
+        success: function(data) {
+            var date = new Date(data.pushed_at);
+            $('.last-updated').html(date);
+        }
+    });
+</script>
 
 </div><!-- ._body .container -->
 </body>
