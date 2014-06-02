@@ -1,3 +1,33 @@
+- name: "Master's Memorial Day Weekend"
+  loc: "Wood Dale, IL"
+  body: "ABR"
+  date: 2014-05-26
+  url: "https://docs.google.com/spreadsheet/pub?key=0AnbDE-QMMVlRdFMyRGJDTGdlOXpoZ1NhTTFmS2VMaEE&output=html"
+- name: "Indoor Time Trial Series"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: 2014-04-06
+  url: "https://docs.google.com/spreadsheet/pub?key=0AnbDE-QMMVlRdHNHWjdCVW1ic1gtbmtUZkJoSUZFWHc&single=true&gid=24&output=html"
+- name: "Sunrise Park Cyclocross"
+  loc: "Bartlet, IL"
+  body: "USAC"
+  date: 2013-10-27
+  url: "http://www.usacycling.org/results/?permit=2013-3261"
+- name: "Fall Fling"
+  loc: "West Chicago, IL"
+  body: "ABR"
+  date: 2013-09-18
+  url: "https://docs.google.com/spreadsheet/pub?key=0AnbDE-QMMVlRdElNLWpDY29FdUxGSWQwT0JZTVU0cWc&output=html"
+- name: "Winfield Criterium Weekend - ABR Championships"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: 2013-07-28
+  url: "https://docs.google.com/spreadsheet/pub?key=0AnbDE-QMMVlRdEVLNGkyMzA2LWZ6LXhERnphZ3FobUE&output=html"
+- name: "Winfield Criterium Weekend - Twilight"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: 2013-07-27
+  url: "https://docs.google.com/spreadsheet/pub?key=0AnbDE-QMMVlRdG1ESHR2RWJ1NHpVNGVOTC1KY05BclE&output=html"
 - name: "Indoor Time Trial Series"
   loc: "Winfield, IL"
   body: "ABR"
