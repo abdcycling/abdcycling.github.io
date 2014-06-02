@@ -1,0 +1,55 @@
+---
+layout: default
+title: Events
+slug: events
+lead: "!YEAR! event schedule"
+keywords: "cycling, bicycle, racing, road, cyclocross, events"
+---
+<h3>Races</h3>
+<div class="list-group events-list">
+    {% for event in site.data.events %}
+    <a href="{{ event.url }}" class="list-group-item">
+        <h4 class="list-group-item-heading">{{ event.name }}</h4>
+        <p class="list-group-item-text">
+            <span class="glyphicon glyphicon-calendar"></span>
+            {% for _date in event.dates %}
+            {% if forloop.first %}
+            <time datetime="{{ _date | date: '%Y-%m-%d' }}">{{ _date | date: '%b. %d' }}</time>
+            {% else %}
+            &nbsp;|&nbsp;&nbsp;<time datetime="{{ _date | date: '%Y-%m-%d' }}">{{ _date | date: '%b. %d' }}</time>
+            {% endif %}
+            {% endfor %}
+            <br />
+            {{ event.lead }}
+        </p>
+    </a>
+    {% endfor %}
+</div>
+
+<h3>Training Races &amp; Rides</h3>
+<div class="list-group events-list">
+    <a href="/events/wednights/" class="list-group-item">
+        <h4 class="list-group-item-heading">Wednesday Night Training Criteriums</h4>
+        <p class="list-group-item-text">
+            <span class="glyphicon glyphicon-calendar"></span> Every Wednesday, Spring - Fall
+            <br />
+            Criterium-styled training races for riders of all ages and abilities
+        </p>
+    </a>
+    <a href="/events/rides/" class="list-group-item">
+        <h4 class="list-group-item-heading">Monday Night Ride</h4>
+        <p class="list-group-item-text">
+            <span class="glyphicon glyphicon-calendar"></span> Every Monday evening, Spring - Fall
+            <br />
+            14-18 MPH pace, no drop, ride used as recovery or learning how to ride in a pack
+        </p>
+    </a>
+    <a href="/events/rides/" class="list-group-item">
+        <h4 class="list-group-item-heading">BHS Ride</h4>
+        <p class="list-group-item-text">
+            <span class="glyphicon glyphicon-calendar"></span> Every Tuesday/Thursday evening, Spring - Fall
+            <br />
+            Fast-paced, drop, ride for strong riders and racers
+        </p>
+    </a>
+</div>

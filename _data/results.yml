@@ -1,0 +1,735 @@
+- name: "Indoor Time Trial Series"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: 2013-01-20
+  url: "https://docs.google.com/spreadsheet/pub?key=0AnbDE-QMMVlRdGxLM0pKOG1iSm5Db0tjVGR3Q2tmMlE&single=true&gid=17&output=html"
+- name: "John Fraser Memorial Time Trial"
+  loc: "Maple Park, IL"
+  body: "ABR"
+  date: 2013-04-14
+  url: "https://docs.google.com/spreadsheet/pub?key=0AnbDE-QMMVlRdE1xRnF1UE9kdzNWYWt1VFFTLWVldXc&output=html"
+- name: "Memorial Day Masters Weekend"
+  loc: "Wood Dale, IL"
+  body: "ABR"
+  date: 2012-05-26
+  url: "https://docs.google.com/spreadsheet/pub?key=0AnbDE-QMMVlRdGMtM0EtdHktaVU3Q0hITGxOVzVYdWc&output=html"
+- name: "ABD Indoor Time Trial Series"
+  loc: "Batavia, IL"
+  body: "ABR"
+  date: 2012-01-22
+  url: "https://docs.google.com/spreadsheet/pub?key=0AnbDE-QMMVlRdDg1eHRVa1JCZUJYRFY2Qm43OXpUbHc&output=html"
+- name: "Winfield Twilight Criterium"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: 2011-08-13
+  url: "https://docs.google.com/spreadsheet/pub?hl=en_US&hl=en_US&key=0AogcIWe-6cDZdGVGcm84RE1ZeDB6bVE0UnI2U3FXYVE&output=html"
+- name: "Memorial Day Masters Weekend"
+  loc: "Wood Dale, IL"
+  body: "ABR"
+  date: 2011-05-27
+  url: "https://spreadsheets.google.com/spreadsheet/pub?hl=en_US&hl=en_US&key=0AnbDE-QMMVlRdFN5NkhvUThmYkpjc1g1dVNqME1MdGc&output=html"
+- name: "ABD TT Series Overall"
+  loc: "Various"
+  body: "ABR"
+  date: 2011-04-11
+  url: "https://spreadsheets.google.com/pub?key=0AnbDE-QMMVlRdEhZZE8wQVE5a3JnWFVpX3FtbFlFSlE&single=true&gid=0&output=html"
+- name: "John Fraser Memorial Time Trial"
+  loc: "Maple Park, IL"
+  body: "ABR"
+  date: 2011-04-10
+  url: "https://spreadsheets.google.com/pub?hl=en&hl=en&key=0AnbDE-QMMVlRdFB3NVFNcUZ4VWR3dU1XNFhMM1ZfRkE&single=true&gid=0&output=html"
+- name: "ABD Indoor Time Trial #3"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: 2011-03-19
+  url: "/results/2011/indoorttseries/tt3results.pdf"
+- name: "ABD Indoor Time Trial #2"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: 2011-02-20
+  url: "/results/2011/indoorttseries/tt2results.pdf"
+- name: "ABD Indoor Time Trial #1"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: 2011-01-23
+  url: "/results/2011/indoorttseries/tt1results.pdf"
+- name: "Sunrise Park Cyclocross Race"
+  loc: "Bartlett, IL"
+  body: "USAC"
+  date: 2010-10-24
+  url: "https://spreadsheets.google.com/pub?key=0AogcIWe-6cDZdGp6bUtKZF9ORHRXS2hGcVRES080b1E&hl=en&output=html"
+- name: "Fall Fling Overall Results"
+  loc: "Various"
+  body: "ABR"
+  date: 2010-10-03
+  url: "https://spreadsheets.google.com/pub?key=0AnbDE-QMMVlRdDQ0SDEtZ3VMd0V0TjJpU1p0MXd5bmc&hl=en&output=html"
+- name: "Fall Fling Stage #4 - Circuit Race"
+  loc: "Wood Dale, IL"
+  body: "ABR"
+  date: 2010-10-03
+  url: "https://spreadsheets.google.com/pub?key=0AogcIWe-6cDZdGVtZVdzU1FQME9WQ1lqS19QejllVXc&hl=en&output=html"
+- name: "Fall Fling Stage #3 - Circuit Race"
+  loc: "West Chicago, IL"
+  body: "ABR"
+  date: 2010-10-02
+  url: "https://spreadsheets.google.com/pub?key=0AogcIWe-6cDZdG5pRm90UmNUd3l4ZVJZRWlWWUdQU2c&hl=en&output=html"
+- name: "Fall Fling Stage #2 - Time Trial"
+  loc: "Maple Park, IL"
+  body: "ABR"
+  date: 2010-09-26
+  url: "https://spreadsheets.google.com/pub?key=0AogcIWe-6cDZdGpsRV9FbnpFbkZlVUVuNjNWS2V5S2c&hl=en&single=true&gid=0&output=html"
+- name: "Fall Fling Stage #1 - Criterium"
+  loc: "West Chicago, IL"
+  body: "ABR"
+  date: 2010-09-25
+  url: "https://spreadsheets.google.com/pub?key=0AogcIWe-6cDZdFdEU1hZNVpnSEJNRGtfdjdTdzVhWVE&hl=en&output=html"
+- name: "ABR National Criterium Championship"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: 2010-08-22
+  url: "https://spreadsheets.google.com/pub?key=0AogcIWe-6cDZdGp6bUtKZF9ORHRXS2hGcVRES080b1E&hl=en&output=html"
+- name: "Winfield Twilight Criterium"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: 2010-08-21
+  url: "https://spreadsheets.google.com/pub?key=0AogcIWe-6cDZdEl0QzJmVW1adU9qVENER0FoLW1UR1E&hl=en&output=html"
+- name: "Memorial Day Weekend Masters Races"
+  loc: "Wood Dale, IL"
+  body: "ABR"
+  date: 2010-05-31
+  url: "http://spreadsheets.google.com/pub?key=t6eh4oUftNbHYBNpRPSH--w&output=html"
+- name: "ABD Time Trial Series Overall"
+  loc: "Various"
+  body: "ABR"
+  date: 2010-04-11
+  url: "/results/2010/indoorttseries/overall.pdf"
+- name: "John Fraser Memorial Time Trial"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: 2010-04-11
+  url: "/results/2010/indoorttseries/JFMTTresults.pdf"
+- name: "ABD Indoor TT #3"
+  loc: "Bartlett, IL"
+  body: "ABR"
+  date: 2010-03-20
+  url: "/results/2010/indoorttseries/tt3results.pdf"
+- name: "ABD Indoor TT #2"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: 2010-02-21
+  url: "/results/2010/indoorttseries/tt2results.pdf"
+- name: "ABD Indoor TT #1"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: 2010-01-24
+  url: "/results/2010/indoorttseries/tt1results.pdf"
+- name: "Sunrise Park Cyclocross Race"
+  loc: "Bartlett, IL"
+  body: "USAC"
+  date: 2009-10-04
+  url: "http://illinoiscycling.org/index.php?module=Page&tid=2&filter=eventPermit:eq:2009-1737&orderby=category,class,age&pubcnt=0"
+- name: "Fall Fling 2009 Overall"
+  loc: "Various"
+  body: "ABR"
+  date: 2009-10-04
+  url: "http://spreadsheets.google.com/pub?key=tQyUtXK8L09nsx0joAisbqw&output=html"
+- name: "Fall Fling 2009 Stage 4-Circuit Race"
+  loc: "West Chicago, IL"
+  body: "ABR"
+  date: 2009-10-04
+  url: "http://spreadsheets.google.com/pub?key=t8zgFx0f0B1N33DwltpBD4g&output=html"
+- name: "Fall Fling 2009 Stage 3-Time Trial"
+  loc: "Maple Park, IL"
+  body: "ABR"
+  date: 2009-10-03
+  url: "http://spreadsheets.google.com/pub?key=tL50YS6ugKZs9Uf1buSjJdQ&output=html"
+- name: "Fall Fling 2009 Stage 1-Road Race"
+  loc: "Crete, IL"
+  body: "ABR"
+  date: 2009-09-27
+  url: "http://spreadsheets.google.com/pub?key=tViWlNpIRfDHbJ8OFXn1rnw&output=html"
+- name: "Fall Fling 2009 Stage 1-Criterium"
+  loc: "West Chicago, IL"
+  body: "ABR"
+  date: 2009-09-26
+  url: "http://spreadsheets.google.com/pub?key=t14XOCWNPi1cdS1Kn3mCINw&output=html"
+- name: "ABR National Criterium Championship"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: 2009-06-07
+  url: "http://spreadsheets.google.com/pub?key=ri1TxxN52Snm1ofuXvpgDTg&output=html"
+- name: "Winfield Twilight Criterium"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: 2009-06-06
+  url: "http://spreadsheets.google.com/pub?key=rzrj_3rmF5o6idGgxIvb3_g&output=html"
+- name: "Memorial Day Weekend Masters Overall"
+  loc: "Wood Dale, IL"
+  body: "ABR"
+  date: 2009-05-25
+  url: "http://spreadsheets.google.com/pub?key=rDbFyAbDxCS_oFfM9STM3ZA&output=html"
+- name: "Memorial Day Weekend Masters Crit #3"
+  loc: "Wood Dale, IL"
+  body: "ABR"
+  date: 2009-05-25
+  url: "http://spreadsheets.google.com/pub?key=rMF9Pe0MbGdqi6GcDbgrgFA&output=html"
+- name: "Memorial Day Weekend Masters Crit #2"
+  loc: "Wood Dale, IL"
+  body: "ABR"
+  date: 2009-05-24
+  url: "http://spreadsheets.google.com/pub?key=rCjonl7g-e1Otmt9JUj2VVg&output=html"
+- name: "Memorial Day Weekend Masters Crit #1"
+  loc: "Wood Dale, IL"
+  body: "ABR"
+  date: 2009-05-23
+  url: "http://spreadsheets.google.com/pub?key=rf4rfd7sT0WJJpNPp6HXIlQ&output=html"
+- name: "ABD Two-Person TT (MATTS)"
+  loc: "Garden Prairie, IL"
+  body: "ABR"
+  date: 2009-05-09
+  url: "/results/2009/40kTTT/ABD_2PersonTT.pdf"
+- name: "Indoor TT Series IX Overall"
+  loc: "Various"
+  body: "ABR"
+  date: 2009-05-02
+  url: "/results/2009/indoorttseries/overall.pdf"
+- name: "Indoor TT Series IX (JFMTT)"
+  loc: "Maple Park, IL"
+  body: "ABR"
+  date: 2009-05-02
+  url: "/results/2009/indoorttseries/tt5results.pdf"
+- name: "Indoor TT Series IX (Race #4)"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: 2009-03-14
+  url: "/results/2009/indoorttseries/tt4results.pdf"
+- name: "Indoor TT Series IX (Race #3)"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: 2009-02-22
+  url: "/results/2009/indoorttseries/tt3results.pdf"
+- name: "Indoor TT Series IX (Race #2)"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: 2009-02-01
+  url: "/results/2009/indoorttseries/tt2results.pdf"
+- name: "Indoor TT Series IX (Race #1)"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: 2009-01-11
+  url: "/results/2009/indoorttseries/tt1results.pdf"
+- name: "Sunrise Park Cyclocross"
+  loc: "Bartlett, IL"
+  body: "USAC"
+  date: 2008-10-26
+  url: "http://www.usacycling.org/results/?permit=2008-2579"
+- name: "Fall Fling 2008 Overall"
+  loc: "Various"
+  body: "ABR"
+  date: 2008-10-05
+  url: "/racesevents/2008/Fling/flinginfo.htm"
+- name: "Fall Fling 2008 Stage 4 - Criterium #2"
+  loc: "Wood Dale, IL"
+  body: "ABR"
+  date: 2008-10-05
+  url: "http://spreadsheets.google.com/pub?key=pD2UGnLl-8p_1zdAoms1MIw"
+- name: "Fall Fling 2008 Stage 3 - Time Trial"
+  loc: "Maple Park, IL"
+  body: "ABR"
+  date: 2008-10-04
+  url: "http://spreadsheets.google.com/pub?key=pD2UGnLl-8p__WM3EUt74Kw"
+- name: "Fall Fling 2008 Stage 2 - Criterium #1"
+  loc: "Wood Dale, IL"
+  body: "ABR"
+  date: 2008-09-28
+  url: "/racesevents/2008/Fling/crit1_results.htm"
+- name: "Fall Fling 2008 Stage 1 - Road Race"
+  loc: "Maple Park, IL"
+  body: "ABR"
+  date: 2008-09-27
+  url: "/racesevents/2008/Fling/rr_results.htm"
+- name: "ABR National Criterium Championship"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: 2008-06-01
+  url: "/racesevents/2008/WinfieldCrit/results_sunday.html"
+- name: "Winfield Twilight Criterium"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: 2008-05-31
+  url: "/racesevents/2008/WinfieldCrit/results_twilight.html"
+- name: "Memorial Day Weekend Masters Crit"
+  loc: "Batavia, IL"
+  body: "ABR"
+  date: 2008-05-26
+  url: "/events/2007/MastersCrit07.htm"
+- name: "Memorial Day Weekend Masters Crit"
+  loc: "Wood Dale, IL"
+  body: "ABR"
+  date: 2008-05-25
+  url: "/racesevents/2008/MastersWKND/results_sun.html"
+- name: "Memorial Day Weekend Masters Crit"
+  loc: "Wood Dale, IL"
+  body: "ABR"
+  date: 2008-05-24
+  url: "/racesevents/2008/MastersWKND/results_sat.html"
+- name: "ABD Two-Person TT (MATTS)"
+  loc: "Garden Prairie, IL"
+  body: "ABR"
+  date: 2008-05-10
+  url: "/results/2008/40k_ttt/ABD40KTTTresults.pdf"
+- name: "Indoor Time Trial Series Overall"
+  loc: "Various"
+  body: "ABR"
+  date: 2008-04-06
+  url: "/results/2008/indoorttseries/overall.pdf"
+- name: "Indoor Time Trial Series VIII (JFMTT)"
+  loc: "Maple, Park, IL"
+  body: "ABR"
+  date: 2008-04-06
+  url: "/results/2008/indoorttseries/JFMTTresults.pdf"
+- name: "Indoor Time Trial Series VIII (Race #4)"
+  loc: "Winfield, IL "
+  body: "ABR"
+  date: 2008-03-08
+  url: "/results/2008/indoorttseries/tt4results.pdf"
+- name: "Indoor Time Trial Series VIII (Race #3)"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: 2008-02-17
+  url: "/results/2008/indoorttseries/tt3results.pdf"
+- name: "Indoor Time Trial Series VIII (Race #2)"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: 2008-01-27
+  url: "/results/2008/indoorttseries/tt2results.pdf"
+- name: "Indoor Time Trial Series VIII (Race #1)"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: 2008-01-06
+  url: "/results/2008/indoorttseries/tt1results.pdf"
+- name: "Sunrise Park Cyclocross"
+  loc: "Bartlett, IL"
+  body: "USAC"
+  date: 2007-10-28
+  url: "http://chicrosscup.com/results07/ABD_Oct_29_2007.htm"
+- name: "Fall Fling 2007 (Overall Series Results)"
+  loc: "Various"
+  body: "ABR"
+  date: 2007-10-07
+  url: "/racesevents/2007/FallFling/OverallStandings4.htm"
+- name: "Fall Fling 2007 (Race #4-Criterium)"
+  loc: "Lombard, IL"
+  body: "ABR"
+  date: 2007-10-07
+  url: "/racesevents/2007/FallFling/Crit2_PREresults.htm"
+- name: "Fall Fling 2007 (Race #3-Road Race)"
+  loc: "Westlake Village, IL"
+  body: "ABR"
+  date: 2007-10-06
+  url: "/racesevents/2007/FallFling/RR_PreResults.htm"
+- name: "Fall Fling 2007 (Race #2-Criterium)"
+  loc: "Lombard, IL"
+  body: "ABR"
+  date: 2007-09-30
+  url: "/racesevents/2007/FallFling/Crit1_PREresults.htm"
+- name: "Fall Fling 2007 (Race #1-Time Trial)"
+  loc: "Maple Park, IL"
+  body: "ABR"
+  date: 2007-09-29
+  url: "/racesevents/2007/FallFling/TT_PREresults.htm"
+- name: "MAJORS (Father's Day)"
+  loc: "Elgin, IL"
+  body: "ABR"
+  date: 2007-06-17
+  url: "/results/2007/MaJORS/MaJORS061707.htm"
+- name: "ABR National Criterium Championship"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: 2007-06-03
+  url: "/results/2007/WinCrit/WinCrit07.htm"
+- name: "Winfield Twilight Criterium"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: 2007-06-02
+  url: "/results/2007/WinCrit/TwilightCrit07.htm"
+- name: "Memorial Day Weekend Masters Crit"
+  loc: "Lombard, IL"
+  body: "ABR"
+  date: 2007-05-26
+  url: "/results/2007/MastersCrit07.htm"
+- name: "ABD Two-Person TT (MATTS)"
+  loc: "Garden Prairie, IL"
+  body: "ABR"
+  date: 2007-05-12
+  url: "/results/2007/40k_ttt/two_men_40k_results1.html"
+- name: "Indoor Time Trial Series Overall"
+  loc: "Various"
+  body: "ABR"
+  date: 2007-04-01
+  url: "/results/2007/indoorttseries/overall.pdf"
+- name: "Indoor Time Trial Series VII (JFMTT)"
+  loc: "Maple, Park, IL"
+  body: "ABR"
+  date: 2007-04-01
+  url: "/results/2007/JFMTT/jfttresults.pdf"
+- name: "Indoor Time Trial Series VIII (Race #4)"
+  loc: "Winfield, IL "
+  body: "ABR"
+  date: 2007-03-04
+  url: "/results/2007/indoorttseries/tt4results.pdf"
+- name: "Indoor Time Trial Series VIII (Race #3)"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: 2007-02-18
+  url: "/results/2007/indoorttseries/tt3results.pdf"
+- name: "Indoor Time Trial Series VIII (Race #2)"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: 2007-01-28
+  url: "/results/2007/indoorttseries/tt2results.pdf"
+- name: "Indoor Time Trial Series VIII (Race #1)"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: 2007-01-07
+  url: "/results/2007/indoorttseries/tt1results.pdf"
+- name: "Fall Fling 2006 (Overall Series Results)"
+  loc: "Various"
+  body: "ABR"
+  date: 2006-10-08
+  url: "/results/2006/FallFling/fallflingoal.pdf"
+- name: "Fall Fling 2006 (Race #4-Raod Race)"
+  loc: "Westlake Village, IL"
+  body: "ABR"
+  date: 2006-10-08
+  url: "/results/2006/FallFling/fallfling4.pdf"
+- name: "Fall Fling 2006 (Race #3-Raod Race)"
+  loc: "Westlake Village, IL"
+  body: "ABR"
+  date: 2006-10-07
+  url: "/results/2006/FallFling/fallfling3.pdf"
+- name: "Fall Fling 2006 (Race #2-Criterium)"
+  loc: "Lombard, IL"
+  body: "ABR"
+  date: 2006-10-01
+  url: "/results/2006/FallFling/fallfling2.pdf"
+- name: "Fall Fling 2006 (Race #1-Time Trial)"
+  loc: "Maple Park, IL"
+  body: "ABR"
+  date: 2006-09-30
+  url: "/results/2006/FallFling/fallflingtt.pdf"
+- name: "MAJORS #6"
+  loc: "Wood Dale, IL"
+  body: "ABR"
+  date: 2006-09-24
+  url: "/results/2006/MAJORS/majors6.pdf"
+- name: "Winfield Criterium VII"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: 2006-08-27
+  url: "/results/2006/WinfieldCrit/winfieldcritvii.pdf"
+- name: "Winfield Twilight Criterium"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: 2006-08-26
+  url: "/results/2006/WinfieldCrit/winfield%20twilight%20criterium.pdf"
+- name: "MAJORS #5"
+  loc: "Wood Dale, IL"
+  body: "ABR"
+  date: 2006-07-02
+  url: "/results/2006/MAJORS/majors5.pdf"
+- name: "MAJORS #4"
+  loc: "Wood Dale, IL"
+  body: "ABR"
+  date: 2006-06-25
+  url: "/results/2006/MAJORS/majors4.pdf"
+- name: "MAJORS #3"
+  loc: "Wood Dale, IL"
+  body: "ABR"
+  date: 2006-06-18
+  url: "/results/2006/MAJORS/majors3.pdf"
+- name: "Athletes By Design 40K Time Trial"
+  loc: "Garden Prairie, IL"
+  body: "ABR"
+  date: 2006-06-11
+  url: "/results/2006/ABD40kTT/abd40ktt.pdf"
+- name: "Memorial Day Masters Criterium"
+  loc: "Lombard, IL"
+  body: "ABR"
+  date: 2006-05-27
+  url: "/results/2006/MemorialDay/memorialdaymasters.pdf"
+- name: "MAJORS #2"
+  loc: "Wood Dale, IL"
+  body: "ABR"
+  date: 2006-05-14
+  url: "/results/2006/MAJORS/majors2.pdf"
+- name: "MAJORS #1"
+  loc: "Wood Dale, IL"
+  body: "ABR"
+  date: 2006-04-16
+  url: "/results/2006/MAJORS/majors1.pdf"
+- name: "Indoor Time Trial Series VII (Overall)"
+  loc: "Various"
+  body: "ABR"
+  date: 2006-04-09
+  url: "/results/2006/indoorttseries/overall.pdf"
+- name: "John Fraser Memorial Time Trial"
+  loc: "Maple Park, IL"
+  body: "ABR"
+  date: 2006-04-09
+  url: "/results/2006/JFMTT/jfttresults.pdf"
+- name: "Indoor Time Trial Series VII (Race #4)"
+  loc: "West Chicago, IL"
+  body: "ABR"
+  date: 2006-03-18
+  url: "/results/2006/indoorttseries/tt4results.pdf"
+- name: "Indoor Time Trial Series VII (Race #3)"
+  loc: "West Chicago, IL"
+  body: "ABR"
+  date: 2006-02-26
+  url: "/results/2006/indoorttseries/tt3results.pdf"
+- name: "Indoor Time Trial Series VII (Race #2)"
+  loc: "West Chicago, IL"
+  body: "ABR"
+  date: 2006-02-05
+  url: "/results/2006/indoorttseries/tt2results.pdf"
+- name: "Indoor Time Trial Series VII (Race #1)"
+  loc: "West Chicago, IL"
+  body: "ABR"
+  date: 2006-01-15
+  url: "/results/2006/indoorttseries/tt1results.pdf"
+- name: "Athletes By Design 40K Time Trial"
+  loc: "Garden Prairie, IL"
+  body: "ABR"
+  date: 2005-06-12
+  url: "/results/2005/GP40KTT/abd40ktt.pdf"
+- name: "Memorial Day Masters Criterium"
+  loc: "Lombard, IL"
+  body: "ABR"
+  date: 2005-05-28
+  url: "/results/2005/MastersCrit/memorialdaymasters.pdf"
+- name: "Indoor Time Trial Series VI (Overall)"
+  loc: "Various"
+  body: "ABR"
+  date: 2005-04-10
+  url: "/results/2005/indoorttseries/overall.pdf"
+- name: "John Fraser Memorial Time Trial"
+  loc: "Maple Park, IL"
+  body: "ABR"
+  date: 2005-04-10
+  url: "/results/2005/indoorttseries/jfmttresults.pdf"
+- name: "Indoor Time Trial Series VI (Race #5)"
+  loc: "Chicago, IL"
+  body: "ABR"
+  date: 2005-04-03
+  url: "/results/2005/indoorttseries/tt5results.pdf"
+- name: "Indoor Time Trial Series VI (Race #4)"
+  loc: "Wheaton, IL"
+  body: "ABR"
+  date: 2005-03-19
+  url: "/results/2005/indoorttseries/tt4results.pdf"
+- name: "Indoor Time Trial Series VI (Race #3)"
+  loc: "Wheaton, IL"
+  body: "ABR"
+  date: 2005-02-27
+  url: "/results/2005/indoorttseries/tt3results.pdf"
+- name: "Indoor Time Trial Series VI (Race #2)"
+  loc: "Wheaton, IL"
+  body: "ABR"
+  date: 2005-02-06
+  url: "/results/2005/indoorttseries/tt2results.pdf"
+- name: "Indoor Time Trial Series VI (Race #1)"
+  loc: "Wheaton, IL"
+  body: "ABR"
+  date: 2005-01-16
+  url: "/results/2005/indoorttseries/tt1results.pdf"
+- name: "Fall Fling 2004 (Overall)"
+  loc: "Various"
+  body: "ABR"
+  date: 2004-10-10
+  url: "/results/2004/Fall_Fling/overallresults.html"
+- name: "Fall Fling 2004 (Race #4 -Criterium)"
+  loc: "Lombard, IL"
+  body: "ABR"
+  date: 2004-10-10
+  url: "/results/2004/Fall_Fling/finale.html"
+- name: "Fall Fling 2004 (Race #3 - Road Race)"
+  loc: "Westlake Village, IL"
+  body: "ABR"
+  date: 2004-10-09
+  url: "/results/2004/Fall_Fling/westlake.html"
+- name: "Fall Fling 2004 (Race #2-Criterium)"
+  loc: "Lombard, IL"
+  body: "ABR"
+  date: 2004-10-03
+  url: "/results/2004/Fall_Fling/LombardCrit1.html"
+- name: "Fall Fling 2004 (Race #1-Time Trial)"
+  loc: "Maple Park, IL"
+  body: "ABR"
+  date: 2004-10-02
+  url: "/results/2004/Fall_Fling/TimeTrialResults.html"
+- name: "Winfield Criterium V"
+  loc: "Winfield, IL"
+  body: "USAC"
+  date: 2004-08-15
+  url: "/results/2004/WinfieldCrits/WinfieldV_Results.html"
+- name: "Winfield Twilight Criterium"
+  loc: "Winfield, IL"
+  body: "USAC"
+  date: 2004-08-14
+  url: "/results/2004/WinfieldCrits/TwilightResults.html"
+- name: "Athletes By Design 40K Time Trial"
+  loc: "Garden Prairie, IL"
+  body: "ABR"
+  date: 2004-06-13
+  url: "/results/2004/abdGP40k/ABD40KResults.pdf"
+- name: "Indoor Time Trial Series V (Overall)"
+  loc: "Various"
+  body: "ABR"
+  date: 2004-04-04
+  url: "/results/2004/indoorttseries/2004timetrloalresults.pdf"
+- name: "John Fraser Memorial Time Trial"
+  loc: "Maple Park, IL"
+  body: "ABR"
+  date: 2004-04-04
+  url: "/results/2004/indoorttseries/2004timetrljfmresults.pdf"
+- name: "Indoor Time Trial Series V (Race #5)"
+  loc: "Wheaton, IL"
+  body: "ABR"
+  date: 2004-03-27
+  url: "/results/2004/indoorttseries/2004timetrl5results.pdf"
+- name: "Indoor Time Trial Series V (Race #4)"
+  loc: "Wheaton, IL"
+  body: "ABR"
+  date: 2004-03-07
+  url: "/results/2004/indoorttseries/2004timetrl4reslts.pdf"
+- name: "Indoor Time Trial Series V (Race #3)"
+  loc: "Wheaton, IL"
+  body: "ABR"
+  date: 2004-02-22
+  url: "/results/2004/indoorttseries/2004timetrl3reslts.pdf"
+- name: "Indoor Time Trial Series V (Race #2)"
+  loc: "Wheaton, IL"
+  body: "ABR"
+  date: 2004-02-01
+  url: "/results/2004/indoorttseries/2004timetrl2reslts.pdf"
+- name: "Indoor Time Trial Series V (Race #1)"
+  loc: "Wheaton, IL"
+  body: "ABR"
+  date: 2004-01-11
+  url: "/results/2004/indoorttseries/2004timetrl1reslts.pdf"
+- name: "Fall Fling 2003 (Overall)"
+  loc: "Various"
+  body: "ABR"
+  date: 2003-10-05
+  url: "/results/2003/fallfling/finalFallFling.pdf"
+- name: "Fall Fling 2003 (Race #3-Road Race)"
+  loc: "Westlake Village, IL"
+  body: "ABR"
+  date: 2003-10-05
+  url: "/results/2003/fallfling/fallfling3.pdf"
+- name: "Fall Fling 2003 (Race #2-Time Trial)"
+  loc: "Garden Prairie, IL"
+  body: "ABR"
+  date: 2003-10-04
+  url: "/results/2003/fallfling/fallfling2.pdf"
+- name: "Fall Fling 2003 (Race #1-Criterium)"
+  loc: "Lombard, IL"
+  body: "ABR"
+  date: 2003-09-21
+  url: "/results/2003/fallfling/fallfling1.pdf"
+- name: "Winfield Criterium IV"
+  loc: "Winfield, IL"
+  body: "USAC"
+  date: 2003-08-10
+  url: "/results/2003/winfieldcrits/winfieldcriterium.pdf"
+- name: "Brian's Charhouse Twilight Criterium"
+  loc: "Winfield, IL"
+  body: "USAC"
+  date: 2003-08-09
+  url: "/results/2003/winfieldcrits/twilightcrit.pdf"
+- name: "MATTS ABD 40km Time Trial"
+  loc: "Garden Prairie, IL"
+  body: "ABR"
+  date: 2003-06-14
+  url: "/results/2003/matts40ktt/ABDMatts40kTT.pdf"
+- name: "Indoor Time Trial Series IV (Overall)"
+  loc: "Various"
+  body: "ABR"
+  date: 2003-04-06
+  url: "/results/2003/indoorttseries/FinalOAL_Intt.pdf"
+- name: "John Fraser Memorial Time Trial"
+  loc: "Maple Park, IL"
+  body: "ABR"
+  date: 2003-04-06
+  url: "/results/2003/indoorttseries/finalJohnFraser.pdf"
+- name: "Indoor Time Trial Series IV (Race #4)"
+  loc: "Wheaton, IL"
+  body: "ABR"
+  date: 2003-03-15
+  url: "/results/2003/indoorttseries/2003timetrl4reslts.pdf"
+- name: "Indoor Time Trial Series IV (Race #3)"
+  loc: "Wheaton, IL"
+  body: "ABR"
+  date: 2003-02-23
+  url: "/results/2003/indoorttseries/2003timetrl3reslts.pdf"
+- name: "Indoor Time Trial Series IV (Race #2)"
+  loc: "Wheaton, IL"
+  body: "ABR"
+  date: 2003-02-02
+  url: "/results/2003/indoorttseries/2003timetrl2reslts.pdf"
+- name: "Indoor Time Trial Series IV (Race #1)"
+  loc: "Wheaton, IL"
+  body: "ABR"
+  date: 2003-01-12
+  url: "/results/2003/indoorttseries/2003timetrl1reslts.pdf"
+- name: "Winfield Criterium III"
+  loc: "Winfield, IL"
+  body: "USAC"
+  date: 2002-08-11
+  url: "/results/2002/winfieldcrits/wincrit.pdf"
+- name: "Oakfield Charhouse Twilight Criterium"
+  loc: "Winfield, IL"
+  body: "USAC"
+  date: 2002-08-10
+  url: "/results/2002/winfieldcrits/oakcrit.pdf"
+- name: "Indoor Time Trial Series III (Overall)"
+  loc: "Various"
+  body: "ABR"
+  date: 2002-04-07
+  url: "/results/2002/indoorttseries/overall.pdf"
+- name: "Maple Park Time Trial"
+  loc: "Maple Park, IL"
+  body: "ABR"
+  date: 2002-04-07
+  url: "/results/2002/indoorttseries/maplepark.pdf"
+- name: "Indoor Time Trial Series III (Race #4)"
+  loc: "Wheaton, IL"
+  body: "ABR"
+  date: 2002-03-16
+  url: "/results/2002/indoorttseries/timetrl4.pdf"
+- name: "Indoor Time Trial Series III (Race #3)"
+  loc: "Wheaton, IL"
+  body: "ABR"
+  date: 2002-02-24
+  url: "/results/2002/indoorttseries/timetrl3.pdf"
+- name: "Indoor Time Trial Series III (Race #2)"
+  loc: "Wheaton, IL"
+  body: "ABR"
+  date: 2002-02-03
+  url: "/results/2002/indoorttseries/timetrl2.pdf"
+- name: "Indoor Time Trial Series III (Race #1)"
+  loc: "Wheaton, IL"
+  body: "ABR"
+  date: 2002-01-13
+  url: "/results/2002/indoorttseries/timetrl1.pdf"
+- name: "Winfield Criterium III"
+  loc: "Winfield, IL"
+  body: "USCF"
+  date: 2001-08-12
+  url: "/results/2001/winfieldcrit/winfieldcrit.pdf"
+- name: "Indoor Time Trial Series II (Race #1)"
+  loc: "Wheaton, IL"
+  body: "ABR"
+  date: 2001-01-14
+  url: "/results/2001/indoorttseries/2001indoortt1.pdf"
