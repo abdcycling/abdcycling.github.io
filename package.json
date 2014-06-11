@@ -1,0 +1,32 @@
+{
+  "name": "abdcycling",
+  "description": "Athletes By Design website",
+  "version": "20.14.1",
+  "homepage": "http://www.abdcycling.com/",
+  "author": "Athletes By Design",
+  "style": "assets/css/abdcycling.min.css",
+  "less": "_assets/less/abdcycling.less",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abdcycling/abdcycling.github.io"
+  },
+  "bugs": {
+    "url": "https://github.com/abdcycling/abdcycling.github.io/issues"
+  },
+  "license": {
+    "type": "CC-BY-SA-4.0",
+    "url": "http://creativecommons.org/licenses/by-sa/4.0/legalcode"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-autoprefixer": "~0.7.2",
+    "grunt-banner": "~0.2.2",
+    "grunt-contrib-csslint": "~0.2.0",
+    "grunt-contrib-cssmin": "~0.9.0",
+    "grunt-contrib-less": "~0.11.0",
+    "grunt-csscomb": "~2.0.1",
+    "grunt-sed": "~0.1.1",
+    "load-grunt-tasks": "~0.4.0",
+    "time-grunt": "~0.3.1"
+  }
+}

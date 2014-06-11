@@ -1,0 +1,12 @@
+{% include header.html %}
+<div class="container page-content-container">
+  <div class="row page-content-row">
+    <div class="col-sm-9 col-md-9 page-content-column" role="main">
+      {{ content }}
+    </div> <!-- .page-content-column -->
+    <div class="col-sm-3 col-md-3 sidebar" role="complementary">
+      {% include sidebar.html %}
+    </div> <!-- .sidebar -->
+  </div> <!-- .page-content-row -->
+</div> <!-- .page-content-container -->
+{% include footer.html %}

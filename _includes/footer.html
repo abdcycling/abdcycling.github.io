@@ -1,0 +1,34 @@
+<footer role="contentinfo">
+  <div class="container">
+    <ul class="sponsors">
+      <li><a href="/sponsors/ppc/" class="ppc-sm"></a></li>
+      <li><a href="/sponsors/trek/" class="trek-sm"></a></li>
+      <li><a href="/sponsors/bontrager/" class="bontrager-sm"></a></li>
+      <li><a href="/sponsors/pactimo/" class="pactimo-sm"></a></li>
+      <li><a href="/sponsors/orange/" class="orange-sm"></a></li>
+      <li><a href="/sponsors/brogans/" class="brogans-sm"></a></li>
+      <li><a href="/sponsors/hoving/" class="hoving-sm"></a></li>
+    </ul>
+    <br />
+    <p class="text-muted text-center">Copyright &copy; {{ site.time | date: '%Y' }} Athletes By Design</p>
+    <br />
+    <p class="text-muted text-center small">Last Updated: <span class="last-updated"></span></p>
+  </div> <!-- .container -->
+</footer>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+
+<script>
+  $.ajax({
+    type: 'GET',
+    url: 'https://api.github.com/repos/abdcycling/abdcycling.github.io',
+    success: function(data) {
+      $('.last-updated').html(data.pushed_at);
+    }
+  });
+</script>
+
+</div> <!-- .page-body -->
+</body>
+</html>
