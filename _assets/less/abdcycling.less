@@ -26,7 +26,7 @@
 //@import "badges.less";
 @import "jumbotron.less";
 @import "thumbnails.less";
-//@import "alerts.less";
+@import "alerts.less";
 //@import "progress-bars.less";
 @import "media.less";
 @import "list-group.less";
@@ -72,9 +72,27 @@ body {
   }
 }
 
+//---- Common
 a:hover {
   text-decoration: none;
   .transition(all .3s ease);
+}
+
+.table {
+  > thead,
+  > tbody {
+    > tr {
+      > th,
+      > td {
+        vertical-align: middle;
+      }
+    }
+  }
+}
+
+//---- Google Maps Embed Fix
+img[src*="google.com/"] {
+  max-width: none;
 }
 
 //---- Mixins
