@@ -5,7 +5,7 @@
 @import "mixins.less";
 @import "normalize.less";
 @import "print.less";
-//@import "glyphicons.less";
+@import "glyphicons.less";
 @import "scaffolding.less";
 @import "type.less";
 //@import "code.less";
@@ -167,6 +167,25 @@ a:hover {
     }
     .lead {
       font-size: 24px;
+    }
+  }
+  .pagehead {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    font-size: 24px;
+    text-align: left;
+    h1 {
+      font-size: 60px;
+      line-height: 1;
+    }
+  }
+}
+@media (min-width: 992px) {
+  .fourOhfourhead,
+  .masthead {
+    .lead {
+      width: 80%;
+      font-size: 30px;
     }
   }
 }

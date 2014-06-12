@@ -5,11 +5,24 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ page.description }}">
-    <meta name="keywords" content="{{ page.keywords }}">
     <meta name="author" content="Athletes By Design">
     <meta name="no-email-collection" content="http://www.unspam.com/noemailcollection">
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:type" content="{% if page.slug == "home" %}website{% else %}article{% endif %}">
+    <meta property="og:image" content="{{ site.url }}/assets/img/logo.png">
+    <meta property="og:description" content="{{ page.description }}">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@abdcycling">
+    <meta name="twitter:creator" content="{{ site.title }}">
+    <meta name="twitter:title" content="{{ page.title }}">
+    <meta name="twitter:description" content="{{ page.description }}">
+    <meta name="twitter:image" content="{{ site.url }}/assets/img/logo.png">
+    <meta itemprop="name" content="{{ page.title }}">
+    <meta itemprop="description" content="{{ page.description }}">
+    <meta itemprop="image" content="{{ site.url }}/assets/img/logo.png">
+    <link rel="publisher" href="http://www.google.com/+Abdcyclingteam">
     <title>
-      {% if page.title == site.title %}{{ site.title }}
+      {% if page.slug == "home" %}{{ site.title }}
       {% else %}{{ page.title }} &middot; {{ site.title }}{% endif %}
     </title>
     <link href="/assets/css/abdcycling.min.css" rel="stylesheet">
@@ -44,9 +57,12 @@
               <li{% if page.slug == "home" %} class="active"{% endif %}><a href="/">Home</a></li>
               <li{% if page.slug == "news" %} class="active"{% endif %}><a href="/news/">News</a></li>
               <li{% if page.slug == "about" %} class="active"{% endif %}><a href="/about/">About</a></li>
-              <li{% if page.slug == "membership" %} class="active"{% endif %}><a href="/membership/">Membership</a></li>
+              <li{% if page.slug == "join" %} class="active"{% endif %}><a href="/join/">Join</a></li>
+              <li{% if page.slug == "roster" %} class="active"{% endif %}><a href="/roster/">Roster</a></li>
               <li{% if page.slug == "events" %} class="active"{% endif %}><a href="/events/">Events</a></li>
+              <li{% if page.slug == "results" %} class="active"{% endif %}><a href="/results/">Results</a></li>
               <li{% if page.slug == "sponsors" %} class="active"{% endif %}><a href="/sponsors/">Sponsors</a></li>
+              <li{% if page.slug == "contact" %} class="active"{% endif %}><a href="/contact/">Contact</a></li>
             </ul>
           </nav>
         </div> <!-- .container -->
@@ -61,10 +77,14 @@
       {% endif %}
       {% endif %}
         <div class="container">
+          {% if page.slug == "home" %}
+          <h1>{{ site.title }}</h1>
+          {% else %}
           <h1>{{ page.title }}</h1>
+          {% endif %}
           {% if page.lead %}
           {% if page.slug == "events" %}
-          {% capture year_now %}{{ site.time | data: '%Y' }}{% endcapture %}
+          {% capture year_now %}{{ site.time | date: '%Y' }}{% endcapture %}
           <p class="lead">{{ page.lead | replace: '!YEAR!', year_now }}</p>
           {% else %}
           <p class="lead">{{ page.lead }}</p>

@@ -1,0 +1,36 @@
+- slug: indoortt
+  name: "Indoor Time Trial Series"
+  lead: "The Mid America Time Trial (MATTS) season-opening events"
+  dates:
+      - 2014-01-12
+      - 2014-02-02
+      - 2014-02-23
+      - 2014-03-15
+      - 2014-04-06
+  url: "/events/indoortt"
+- slug: masters
+  name: "Master&rsquo;s Memorial Day Weekend"
+  lead: "Master-level races for riders 30 years and older at all ability levels"
+  dates:
+      - 2014-05-24
+      - 2014-05-25
+      - 2014-05-26
+  url: "/events/masters/"
+- slug: winfield
+  name: "Winfield Twilight Criterium"
+  lead: "Races for riders of all ages and ability levels through a cycling-friendly neighborhood"
+  dates:
+      - 2014-07-12
+  url: "http://www.winfieldcriterium.com/"
+- slug: fallfling
+  name: "Fall Fling"
+  lead: "Road-cycling season finale races for riders of all ages and ability levels"
+  dates:
+      - TBD
+  url: "/events/fallfling/"
+- slug: sunrise
+  name: "Sunrise Park Cyclocross"
+  lead: "Stop #6 in the 13-race Chicago Cyclocross Cup"
+  dates:
+      - 2014-10-26
+  url: "/events/sunrise/"

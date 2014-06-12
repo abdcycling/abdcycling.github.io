@@ -77,7 +77,15 @@ module.exports = function (grunt) {
         expand: true,
         cwd: '_assets/css/',
         src: ['*.css', '!*.min.css'],
-        dest: 'assets/css/'
+        dest: '_assets/css/'
+      }
+    },
+    copy: {
+      fonts: {
+        expand: true,
+        cwd: process.env.HOME + '/mystuff/dev/src/bootstrap/dist/fonts/',
+        src: 'glyphicons-*',
+        dest: 'assets/fonts/'
       }
     },
     sed: {
@@ -95,6 +103,6 @@ module.exports = function (grunt) {
   require('time-grunt')(grunt);
   grunt.registerTask('less-compile', ['less:core']);
   grunt.registerTask('dist-css', ['less-compile', 'autoprefixer', 'usebanner', 'csscomb', 'cssmin']);
-  grunt.registerTask('default', ['dist-css']);
+  grunt.registerTask('default', ['dist-css', 'copy:fonts']);
   grunt.registerTask('change-version-number', 'sed');
 };
