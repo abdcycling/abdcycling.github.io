@@ -170,25 +170,24 @@ img[src*="google.com/"] {
 .pagehead {
   font-size: 20px;
   h1 {
-    margin-top: 0;
     color: #fff;
   }
   p {
     margin-bottom: 0;
     font-weight: 300;
     line-height: 1.4;
-    color: #fff;
+   // color: #fff;
   }
   .container {
     position: relative;
   }
 }
-
 @media (min-width: 768px) {
+  .pagehead,
   .fourOhfourhead,
   .masthead {
     padding-top: 80px;
-    padding-bottom: 80px;
+    padding-bottom: 20px;
     h1 {
       font-size: 60px;
     }
@@ -197,13 +196,10 @@ img[src*="google.com/"] {
     }
   }
   .pagehead {
-    padding-top: 60px;
-    padding-bottom: 60px;
-    font-size: 24px;
+    padding-bottom: 0;
     text-align: left;
     h1 {
-      font-size: 60px;
-      line-height: 1;
+      margin-top: 0;
     }
   }
 }

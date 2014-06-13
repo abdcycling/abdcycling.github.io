@@ -63,6 +63,7 @@
               <li{% if page.slug == "events" %} class="active"{% endif %}><a href="/events/">Events</a></li>
               <li{% if page.slug == "results" %} class="active"{% endif %}><a href="/results/">Results</a></li>
               <li{% if page.slug == "sponsors" %} class="active"{% endif %}><a href="/sponsors/">Sponsors</a></li>
+              <li{% if page.slug == "media" %} class="active"{% endif %}><a href="/media/">Media</a></li>
               <li{% if page.slug == "contact" %} class="active"{% endif %}><a href="/contact/">Contact</a></li>
             </ul>
           </nav>
@@ -91,7 +92,7 @@
           <p class="lead">{{ page.lead }}</p>
           {% endif %}
           {% else %}
-          <p class="lead">{{ page.date | date: %Y.%m.%d %H:%M:%S' }}</p>
+          <p class="lead">{{ page.date | date: '<span class="glyphicon glyphicon-time"></span> %Y.%m.%d @ %H:%M:%S' }}</p>
           {% endif %}
         </div> <!-- .container -->
       </div> <!-- .masthead || .fourOhfourhead || pagehead -->
