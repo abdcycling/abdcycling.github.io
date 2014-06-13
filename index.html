@@ -7,13 +7,13 @@ description: "One of the largest &amp; most successful cycling clubs in the midw
 ---
 <div class="row">
   <div class="col-md-6">
-    <div class="panel panel-default last-5">
+    <div class="panel panel-default quickies">
       <div class="panel-heading">
         <h3 class="panel-title">Latest News</h3>
       </div>
       <div class="panel-body">
         {% for post in site.posts limit: 5 %}
-        <span class="last-5-date">{{ post.date | date: '%Y.%m.%d' }}</span>
+        <span class="quickies-date">{{ post.date | date: '%Y.%m.%d' }}</span>
         <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
         {% endfor %}
         <p class="read-more"><a href="/news/">Read more &rarr;</a></p>
@@ -21,12 +21,22 @@ description: "One of the largest &amp; most successful cycling clubs in the midw
     </div>
   </div>
   <div class="col-md-6">
-    <div class="panel panel-default upcoming-events">
+    <div class="panel panel-default quickies">
       <div class="panel-heading">
         <h3 class="panel-title">Upcoming Events</h3>
       </div>
       <div class="panel-body">
-        <p>Get next events...</p>
+        {% for event in site.data.events %}
+        {% for _date in event.dates %}
+        {% capture eventtime %}{{ _date | date: '%s' }}{% endcapture %}
+        {% capture nowtime %}{{ site.time | date: '%s' }}{% endcapture %}
+        {% if eventtime > nowtime %}
+        <span class="quickies-date">{{ _date | date: '%Y.%m.%d' }}</span>
+        <h5><a href="{{ event.url }}">{{ event.name }}</a></h5>
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
+        <p class="read-more"><a href="/events/">See all events &rarr;</a></p>
       </div>
     </div>
   </div>

@@ -5,3 +5,57 @@ slug: contact
 lead: "Get in touch with us"
 description: "Get in touch with the Athletes By Design Cycling Club and share your questions or suggestions."
 ---
+<form role="form">
+  <div class="row">
+    <div class="col-md-6">
+      <div class="form-group">
+        <label for="subject" class="required">Purpose of contact</label>
+          <select class="form-control subject" name="subject">
+            <option selected disabled>Select the purpose of contact...</option>
+            <option value="membership">Membership</option>
+            <option value="event">Event</option>
+            <option value="complaint">Complaint</option>
+            <option value="web">Website</option>
+          </select>
+        </div>
+    </div>
+    <div class="col-md-6">
+      <div class="form-group event-select hidden">
+        <label for="event_name" class="required">Event name</label>
+          <select class="form-control" name="event_name">
+            <option value="indoortt">Indoor Time Trial Series</option>
+            <option value="wednesday">Wednesday Night Training Criterium</option>
+            <option value="masters">Master&rsquo;s Memorial Day Weekend</option>
+            <option value="winfield">Winfield Criterium</option>
+            <option value="fallfling">Fall Fling</option>
+            <option value="cyclocross">Sunrise Park Cyclocross</option>
+          </select>
+        </div>
+    </div>
+  </div>
+  <div class="form-group">
+    <label for="from_name" class="required">Name</label>
+    <input type="text" class="form-control" id="from_name" name="from_name" placeholder="Enter your full name">
+  </div>
+  <div class="form-group">
+    <label for="from_email" class="required">Email address</label>
+    <input type="email" class="form-control" id="from_email" name="from_email" placeholder="Enter you email address">
+  </div>
+  <div class="form-group">
+    <label for="message" class="required">Message</label>
+    <textarea class="form-control" rows="5" id="message" name="message"></textarea>
+  </div>
+  <button type="submit" class="btn btn-primary" disabled>Submit</button>
+</form>
+
+<script>
+  $(document).ready(function () {
+    $('.subject').change(function() {
+      if ($(this).val() == 'event') {
+        $('.event-select').removeClass('hidden');
+      } else {
+        $('.event-select').addClass('hidden');
+      }
+    });
+  });
+</script>

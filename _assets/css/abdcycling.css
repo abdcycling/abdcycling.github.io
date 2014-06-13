@@ -4910,6 +4910,11 @@ img[src*="google.com/"] {
 .pointer {
   cursor: pointer;
 }
+.required:after {
+  font-weight: 300;
+  color: #f00;
+  content: "\002A";
+}
 .read-more {
   font-size: 85%;
   text-align: right;
@@ -4918,12 +4923,12 @@ img[src*="google.com/"] {
   width: 100px;
   margin: 40px auto;
 }
-.hr-style-one {
-  height: 6px;
+.hr-style1 {
+  height: 4px;
   background: #000;
   border: 0;
   border-top: 2px solid #f00;
-  border-bottom: 4px solid #ff7300;
+  border-bottom: 2px solid #ff7300;
 }
 .navbar-default {
   margin-bottom: 0;
@@ -5055,12 +5060,12 @@ footer .sponsors li a:hover {
     margin-bottom: 0;
   }
 }
-.last-5 .last-5-date {
+.quickies .quickies-date {
   padding: 4px 4px 2px 4px;
   color: #f00;
   background-color: #eee;
 }
-.last-5 h5 {
+.quickies h5 {
   padding-left: 8px;
 }
 .post .post-title {
@@ -5071,6 +5076,14 @@ footer .sponsors li a:hover {
   padding-top: 0;
   padding-bottom: 20px;
   margin-top: 0;
+}
+.list-group img {
+  text-align: center;
+}
+.list-group .sponsor-url {
+  font-size: 85%;
+  color: #ff7300;
+  text-align: center;
 }
 .bontrager-sm {
   width: 115px;

@@ -100,22 +100,31 @@ img[src*="google.com/"] {
   cursor: pointer;
 }
 
+.required {
+  &:after {
+    color: #ff0000;
+    font-weight: 300;
+    content: "\002A";
+  }
+}
+
 .read-more {
   text-align: right;
   font-size: 85%;
 }
 
+//---- HR
 .half-rule {
   width: 100px;
   margin: 40px auto;
 }
 
-.hr-style-one {
-  height: 6px;
+.hr-style1 {
+  height: 4px;
   border: 0;
   background: #000;
   border-top: 2px solid @link-hover-color;
-  border-bottom: 4px solid @link-color;
+  border-bottom: 2px solid @link-color;
 }
 
 //---- Navbar
@@ -259,8 +268,8 @@ footer {
 }
 
 //---- Content
-.last-5 {
-  .last-5-date {
+.quickies {
+  .quickies-date {
     padding: 4px 4px 2px 4px;
     background-color: @gray-lighter;
     color: @link-hover-color;
@@ -281,6 +290,18 @@ footer {
     padding-bottom: 20px;
   }
   .post-content {
+  }
+}
+
+//---- Sponsors Page
+.list-group {
+  img {
+    text-align: center;
+  }
+  .sponsor-url {
+    text-align: center;
+    font-size: 85%;
+    color: @link-color;
   }
 }
 

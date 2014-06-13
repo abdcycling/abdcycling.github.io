@@ -16,7 +16,9 @@ description: "News, articles, &amp; press releases for Athletes By Design events
       {{ post.content }}
     </div>
   </div>
-  <hr class="style-one" />
+  {% unless forloop.last %}
+  <hr class="hr-style1" />
+  {% endunless %}
   {% endfor %}
 </div>
 
