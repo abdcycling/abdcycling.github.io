@@ -18,6 +18,15 @@ module.exports = function (grunt) {
             ' * Copyright 2014 <%= pkg.author %>\n' +
             ' * Licensed under <%= pkg.license.type %> (<%= pkg.license.url %>)\n' +
             ' */\n',
+    uglify: {
+      options: {
+        preserveComments: 'some'
+      },
+      plusgallery: {
+        src: '_assets/js/plusgallery.js',
+        dest: 'assets/js/plusgallery.min.js'
+      }
+    },
     less: {
       core: {
         options: {
@@ -31,6 +40,18 @@ module.exports = function (grunt) {
         files: {
           '_assets/css/<%= pkg.name %>.css': '_assets/less/<%= pkg.name %>.less'
         }
+      },
+      plusgallery: {
+        options: {
+          strictMath: true,
+          sourceMap: true,
+          outputSourceFiles: true,
+          sourceMapURL: 'plusgallery.css.map',
+          sourceMapFilename: '_assets/css/plusgallery.css.map',
+        },
+        files: {
+          '_assets/css/plusgallery.css': '_assets/less/plusgallery.less'
+        }
       }
     },
     autoprefixer: {
@@ -42,13 +63,22 @@ module.exports = function (grunt) {
           map: true
         },
         src: '_assets/css/<%= pkg.name %>.css'
+      },
+      plusgallery: {
+        options: {
+          map: true
+        },
+        src: '_assets/css/plusgallery.css'
       }
     },
     csslint: {
       options: {
         csslintrc: '_assets/less/.csslintrc'
       },
-      src: '_assets/css/<%= pkg.name %>.css'
+      src: [
+        '_assets/css/<%= pkg.name %>.css',
+        '_assets/css/plusgallery.css'
+      ]
     },
     cssmin: {
       options: {
@@ -58,6 +88,10 @@ module.exports = function (grunt) {
       core: {
         src: '_assets/css/<%= pkg.name %>.css',
         dest: 'assets/css/<%= pkg.name %>.min.css'
+      },
+      plusgallery: {
+        src: '_assets/css/plusgallery.css',
+        dest: 'assets/css/plusgallery.min.css'
       }
     },
     usebanner: {
@@ -101,8 +135,9 @@ module.exports = function (grunt) {
   });
   require('load-grunt-tasks')(grunt, { scope: 'devDependencies' });
   require('time-grunt')(grunt);
-  grunt.registerTask('less-compile', ['less:core']);
+  grunt.registerTask('dist-js', ['uglify']);
+  grunt.registerTask('less-compile', ['less:core', 'less:plusgallery']);
   grunt.registerTask('dist-css', ['less-compile', 'autoprefixer', 'usebanner', 'csscomb', 'cssmin']);
-  grunt.registerTask('default', ['dist-css', 'copy:fonts']);
+  grunt.registerTask('default', ['dist-js', 'dist-css', 'copy:fonts']);
   grunt.registerTask('change-version-number', 'sed');
 };

@@ -1,4 +1,7 @@
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
 {% if page.slug == "roster" or page.slug == "results" %}
+<script src="//cdn.datatables.net/1.10.0/js/jquery.dataTables.js"></script>
 <script>
   $(document).ready(function () {
     $('table').dataTable({
@@ -7,6 +10,69 @@
     });
   });
 </script>
+{% endif %}
+{% if page.slug == "media" %}
+<script src="/assets/js/plusgallery.min.js"></script>
+<script>
+  $(document).ready(function() {
+    $('#plusgallery').plusGallery();
+
+    var playlistId, nextPageToken, prevPageToken;
+    function handleAPILoaded() {
+      requestUserUploadsPlaylistId();
+    }
+    function requestUserUploadsPlaylistId() {
+      var request = gapi.client.youtube.channels.list( {
+        forUsername: 'abdcycling',
+        part: 'contentDetails'
+      });
+      request.execute(function(response) {
+        playlistId = response.result.items[0].contentDetails.relatedPlaylists.uploads;
+        requestVideoPlaylist(playlistId);
+      });
+    }
+    function requestVideoPlaylist(playlistId, pageToken) {
+      $('#video-container').html('');
+      var requestOptions = {
+        playlistId: playlistId,
+        part: 'snippet',
+        maxResults: 10
+      };
+      if (pageToken) {
+        requestOptions.pageToken = pageToken;
+      }
+      var request = gapi.client.youtube.playlistItems.list(requestOptions);
+      request.execute(function(response) {
+        nextPageToken = response.result.nextPageToken;
+        var nextVis = nextPageToken ? 'visible' : 'hidden';
+        $('#next-button').css('visibility', nextVis);
+        prevPageToken = response.result.prevPageToken;
+        var prevVis = prevPageToken ? 'visible' : 'hidden';
+        $('#prev-button').css('visibility', prevVis);
+        var playlistItems = response.result.items;
+        if (playlistItems) {
+          $.each(playlistItems, function(index, item) {
+            displayResult(item.snippet);
+          });
+        } else {
+          $('#video-container').html('Sorry you have no uploaded videos');
+        }
+      });
+    }
+    function displayResult(videoSnippet) {
+      var title = videoSnippet.title;
+      var videoId = videoSnippet.resourceId.videoId;
+      $('#video-container').append('<p>' + title + ' - ' + videoId + '</p>');
+    }
+    function nextPage() {
+      requestVideoPlaylist(playlistId, nextPageToken);
+    }
+    function previousPage() {
+      requestVideoPlaylist(playlistId, prevPageToken);
+    }
+  });
+</script>
+<script src="https://apis.google.com/js/client.js?onload=googleApiClientReady"></script>
 {% endif %}
 
 <script>

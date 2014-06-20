@@ -16,7 +16,10 @@ author:
   name: Athletes By Design
   email: abdcycling@gmail.com
   github: abdcycling
-  twitter: abdcycling
+  twitter: 'http://www.twitter.com/abdcycling'
+  facebook: 'http://www.facebook.com/abdcycling'
+  googleplus: 'https://plus.google.com/b/112886249020749336787?rel=author'
+  youtube: 'http://www.youtube.com/abdcycling'
 version: 20.14.1
 github:
   repo: github.com/abdcycling/abdcycling.github.io

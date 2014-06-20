@@ -26,7 +26,13 @@
       {% else %}{{ page.title }} &middot; {{ site.title }}{% endif %}
     </title>
     <link href="/assets/css/abdcycling.min.css" rel="stylesheet" type="text/css">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    {% if page.slug == "roster" or page.slug == "results" %}
     <link href="//cdn.datatables.net/1.10.0/css/jquery.dataTables.css" rel="stylesheet" type="text/css">
+    {% endif %}
+    {% if page.slug == "media" %}
+    <link href="/assets/css/plusgallery.min.css" rel="stylesheet" type="text/css">
+    {% endif %}
     <!--[if lt IE 9]>
     <script src="/assets/js/ie8-responsive-file-warning.js"></script>
     <![endif]-->

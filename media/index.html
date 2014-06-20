@@ -5,6 +5,22 @@ slug: media
 lead: "Latest photos and videos"
 description: "Photographs and videos from events Athletes By Design hosts."
 ---
-<div class="alert alert-info">
-  <strong>Photographs and Videos Coming Soon!</strong>
+<ul class="nav nav-tabs nav-justified">
+  <li class="active"><a href="#photos" data-toggle="tab">Photos</a></li>
+  <li><a href="#videos" data-toggle="tab">Videos</a></li>
+</ul>
+
+<div class="tab-content">
+  <div class="tab-pane fade in active" id="photos">
+    <br />
+    <div id="plusgallery" data-type="google" data-userid="112886249020749336787"></div>
+  </div>
+  <div class="tab-pane fade" id="videos">
+    <br />
+    <div id="video-container"></div>
+    <div class="button-container">
+      <button id="prev-button" class="paging-button" onclick="previousPage();">Previous Page</button>
+      <button id="next-button" class="paging-button" onclick="nextPage();">Next Page</button>
+    </div>
+  </div>
 </div>
