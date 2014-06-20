@@ -22,16 +22,6 @@
 
 {% include scripts.html %}
 
-<script>
-  $.ajax({
-    type: 'GET',
-    url: 'https://api.github.com/repos/abdcycling/abdcycling.github.io',
-    success: function(data) {
-      $('.last-updated').html(data.pushed_at);
-    }
-  });
-</script>
-
 </div> <!-- .page-body -->
 </body>
 </html>

@@ -5087,10 +5087,6 @@ img[src*="google.com/"] {
 }
 .sidebar .sidebar-widget .social li a {
   display: block;
-  opacity: .3;
-}
-.sidebar .sidebar-widget .social li a:hover {
-  opacity: 1;
 }
 .sidebar .sidebar-widget .social li a i {
   padding: 0 10px 0 10px;
