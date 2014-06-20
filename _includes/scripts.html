@@ -1,0 +1,20 @@
+{% if page.slug == "roster" or page.slug == "results" %}
+<script>
+  $(document).ready(function () {
+    $('table').dataTable({
+      paging: false,
+      searching: false
+    });
+  });
+</script>
+{% endif %}
+
+<script>
+  $.ajax({
+    type: 'GET',
+    url: 'https://api.github.com/repos/abdcycling/abdcycling.github.io',
+    success: function(data) {
+      $('.last-updated').html(data.pushed_at);
+    }
+  });
+</script>
