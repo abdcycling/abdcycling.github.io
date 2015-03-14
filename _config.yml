@@ -1,4 +1,3 @@
-highlighter: null
 exclude: [
   'Gemfile',
   'Gemfile.lock',
