@@ -1,3 +1,8 @@
+- name: "Indoor Time Trial Series"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: "2015-01-11"
+  url: "https://docs.google.com/spreadsheets/d/1G-BGrNg5NUszRfUWx768nM8S_WAReY7vrJ3FL6lRaec/pubhtml"
 - name: "Master's Memorial Day Weekend"
   loc: "Wood Dale, IL"
   body: "ABR"
