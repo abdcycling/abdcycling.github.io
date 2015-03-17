@@ -3,6 +3,11 @@
   body: "ABR"
   date: "2015-01-11"
   url: "https://docs.google.com/spreadsheets/d/1G-BGrNg5NUszRfUWx768nM8S_WAReY7vrJ3FL6lRaec/pubhtml"
+- name: "Sunrise Park Cyclocross"
+  loc: "Bartlet, IL"
+  body: "USAC"
+  date: 2014-10-26
+  url: "https://www.usacycling.org/results/index.php?year=2014&id=3009"
 - name: "Master's Memorial Day Weekend"
   loc: "Wood Dale, IL"
   body: "ABR"

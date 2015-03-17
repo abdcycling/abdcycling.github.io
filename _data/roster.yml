@@ -56,7 +56,7 @@
   d: 1966-03-30
 - l: Cannella
   f: Jim
-  c: 4
+  c: 40+/4
   d: 1965-01-23
 - l: Cerwin
   f: Jennifer
@@ -82,10 +82,10 @@
   f: Art
   c:
   d: 1964-3-17
-- l: Derderian
-  f: Alex
-  c: 5
-  d: 1956-08-03
+- l: Davis
+  f: Michael
+  c: 55+
+  d:
 - l: DiVito
   f: Larry
   c:
@@ -108,11 +108,11 @@
   d: 1947-03-03
 - l: Farrell
   f: Mike
-  c: 1
+  c: 50+/1
   d:
 - l: Flechsig
   f: Jim
-  c: 4
+  c: 3
   d: 1968-11-23
 - l: Fraser
   f: David
@@ -170,13 +170,17 @@
   f: Mark
   c: 5
   d: 1954-06-04
+- l: Hibbler
+  f: James
+  c: 65+
+  d:
 - l: Hill
   f: William "Jack"
-  c:
+  c: 50+
   d: 1956-09-06
 - l: Homann
   f: Craig
-  c:
+  c: 50+
   d: 1959-07-18
 - l: Huntzinger
   f: Mark
@@ -184,7 +188,7 @@
   d: 1959-03-31
 - l: Janes
   f: Donald
-  c:
+  c: 60+
   d: 1950-10-29
 - l: Johnson
   f: Rich
@@ -196,15 +200,23 @@
   d: 1949-12-22
 - l: Jungels
   f: Robert
-  c:
+  c: 2
   d:
 - l: Kallas
   f: Bill
   c: 3
   d: 1946-10-01
+- l: Keck
+  f: Dan
+  c:
+  d:
+- l: Kula
+  f: Angelina
+  c:
+  d:
 - l: Kula
   f: Gary
-  c:
+  c: 55+/4
   d: 1955-11-23
 - l: Leibman
   f: Adam
@@ -218,9 +230,13 @@
   f: Scott
   c: 2
   d: 1950-06-29
+- l: Lund
+  f: James
+  c: 4
+  d:
 - l: Madsen
   f: Daniel
-  c: 3
+  c: 60+/3
   d: 1952-04-11
 - l: Mascarella
   f: Katrina
@@ -230,9 +246,13 @@
   f: Mark
   c: 5
   d: 1967-12-06
+- l: Maxey
+  f: James
+  c: 5
+  d:
 - l: McKenzie
   f: Craig
-  c:
+  c: 60+
   d: 1954-08-07
 - l: McKenzie
   f: Donna
@@ -248,7 +268,7 @@
   d:
 - l: Miller
   f: Lori
-  c: 5
+  c: 50+/5
   d: 1963-11-05
 - l: Montfort
   f: Ludwig
@@ -258,25 +278,33 @@
   f: Agnieszka
   c:
   d: 1964-5-17
+- l: Mouw
+  f: Natalie
+  c: 4
+  d:
 - l: Murphy
   f: Pat
   c: 1
   d: 1933-11-07
 - l: Nowak
   f: Jim
-  c: 3
+  c: 40+/3
   d: 1967-3-14
 - l: Othick
   f: Justin
   c:
   d: 1982-12-23
+- l: Pavlovcik
+  f: Mark
+  c: 3
+  d:
 - l: Pena
   f: Lisa
   c: 5
   d:
 - l: Peterson
   f: Gary
-  c: 4
+  c: 3
   d: 1964-02-18
 - l: Philip
   f: David
@@ -300,11 +328,11 @@
   d: 1963-08-28
 - l: Ross
   f: David
-  c: 3
+  c: 2
   d:
 - l: Rulo
   f: Gary
-  c: 4
+  c: 55+/4
   d: 1959-03-17
 - l: Senffner
   f: Jason
@@ -316,7 +344,7 @@
   d:
 - l: Stehlik
   f: Jon
-  c:
+  c: 4
   d: 1995-04-06
 - l: Stoops
   f: Walter
@@ -348,8 +376,12 @@
   d: 1972-08-22
 - l: Urban
   f: Brianna
-  c:
+  c: Jr
   d: 2003-10-24
+- l: Urban
+  f: Catlin
+  c: 4
+  d:
 - l: Wachholz
   f: Billy
   c:
@@ -396,5 +428,5 @@
   d: 1951-03-13
 - l: Yoder
   f: Fred
-  c:
+  c: 70+
   d: 1944-07-17
