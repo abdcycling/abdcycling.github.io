@@ -45,6 +45,7 @@
  * CUSTOMIZATIONS FOR ABDCYCLING
  ******************************************************************************/
 //---- Variables
+@grid-float-breakpoint: @screen-md;
 @link-color: #ff7300;
 @link-hover-color: #ff0000;
 @navbar-default-link-color: @link-color;
@@ -143,12 +144,11 @@ img[src*="google.com/"] {
 .pagehead,
 .masthead {
   position: relative;
-  padding: 30px 15px;
+  padding: 80px 15px;
   margin-bottom: 40px;
   color: #fff;
   text-align: center;
   text-shadow: 0 1px 0 rgba(0,0,0,.1);
-  background-image: data-uri('../../assets/img/page-head-bg.jpg');
   background-size: cover;
   border-bottom: 5px solid @link-color;
   h1 {
@@ -161,6 +161,11 @@ img[src*="google.com/"] {
     font-size: 20px;
     color: #fff;
   }
+}
+
+.pagehead,
+.masthead {
+  background-image: data-uri('../../assets/img/page-head-bg.jpg');
 }
 
 .fourOhfourhead {
@@ -182,17 +187,25 @@ img[src*="google.com/"] {
     position: relative;
   }
 }
+@media (min-width: @screen-sm-min) {
+  .masthead {
+    .container {
+      img {
+        padding-top: 25px;
+      }
+    }
+  }
+}
 @media (min-width: 768px) {
   .pagehead,
   .fourOhfourhead,
   .masthead {
-    padding-top: 80px;
-    padding-bottom: 20px;
     h1 {
       font-size: 60px;
     }
     .lead {
       font-size: 24px;
+      margin: 0 auto;
     }
   }
   .pagehead {
