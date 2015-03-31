@@ -91,6 +91,9 @@
           <h1>{{ page.title }}</h1>
           {% endif %}
           {% if page.lead %}
+          {% if page.slug == "home" %}
+          <img src="/assets/img/sponsors/ppc.png" />
+          {% endif %}
           {% if page.slug == "events" %}
           {% capture year_now %}{{ site.time | date: '%Y' }}{% endcapture %}
           <p class="lead">{{ page.lead | replace: '!YEAR!', year_now }}</p>
