@@ -26,7 +26,7 @@ description: "One of the largest &amp; most successful cycling clubs in the midw
         <h3 class="panel-title">Upcoming Events</h3>
       </div>
       <div class="panel-body">
-        {% for event in site.data.events limit: 5 %}
+        {% for event in site.data.events limit: 10 %}
         {% for _date in event.dates %}
         {% capture eventtime %}{{ _date | date: '%s' }}{% endcapture %}
         {% capture nowtime %}{{ site.time | date: '%s' }}{% endcapture %}
@@ -36,7 +36,7 @@ description: "One of the largest &amp; most successful cycling clubs in the midw
         {% endif %}
         {% endfor %}
         {% endfor %}
-        <p class="read-more"><a href="/events/">.See all events &rarr;</a></p>
+        <p class="read-more"><a href="/events/">See all events &rarr;</a></p>
       </div>
     </div>
   </div>
