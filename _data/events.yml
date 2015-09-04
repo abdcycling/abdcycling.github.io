@@ -32,7 +32,9 @@
   lead: "Road-cycling season finale races for riders of all ages and ability levels"
   dates:
       - 2015-09-19
+      - 2015-09-20
       - 2015-09-26
+      - 2015-09-27
   url: "/events/fallfling/"
 - slug: abdcross
   name: "Sunrise Park Cyclocross"
