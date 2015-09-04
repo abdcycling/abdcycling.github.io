@@ -1,3 +1,8 @@
+- name: "Fall Fling"
+  loc: "West Chicago, IL"
+  body: "ABR"
+  date: 2015-09-19
+  url: "https://docs.google.com/spreadsheets/d/1Cy-FRiZWNX5eEMwnVPjHkOG8zIpMngwc5LyEzEGGL4I/pubhtml"
 - name: "Master's Memorial Day Weekend"
   loc: "Wood Dale, IL"
   body: "ABR"
