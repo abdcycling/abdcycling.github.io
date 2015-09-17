@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ page.description }}">
     <meta name="author" content="Athletes By Design">
-    <meta name="no-email-collection" content="http://www.unspam.com/noemailcollection">
+    <meta name="no-email-collection" content="https://www.unspam.com/noemailcollection">
     <meta property="og:title" content="{{ page.title }}">
     <meta property="og:type" content="{% if page.slug == "home" %}website{% else %}article{% endif %}">
     <meta property="og:image" content="{{ site.url }}/assets/img/logo.png">
@@ -20,7 +20,8 @@
     <meta itemprop="name" content="{{ page.title }}">
     <meta itemprop="description" content="{{ page.description }}">
     <meta itemprop="image" content="{{ site.url }}/assets/img/logo.png">
-    <link rel="publisher" href="http://www.google.com/+Abdcyclingteam">
+    <link rel="publisher" href="https://www.google.com/+Abdcyclingteam">
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}">
     <title>
       {% if page.slug == "home" %}{{ site.title }}
       {% else %}{{ page.title }} &middot; {{ site.title }}{% endif %}
