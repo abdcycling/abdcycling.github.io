@@ -6,16 +6,13 @@
   "author": "Athletes By Design",
   "style": "assets/css/abdcycling.min.css",
   "less": "_assets/less/abdcycling.less",
+  "license": "UNLICENSED",
   "repository": {
     "type": "git",
     "url": "https://github.com/abdcycling/abdcycling.github.io"
   },
   "bugs": {
     "url": "https://github.com/abdcycling/abdcycling.github.io/issues"
-  },
-  "license": {
-    "type": "CC-BY-SA-4.0",
-    "url": "http://creativecommons.org/licenses/by-sa/4.0/legalcode"
   },
   "devDependencies": {
     "grunt": "~0.4.4",
