@@ -428,7 +428,7 @@ description: "Four Indoor TT in Winfield and the John Fraiser Memorial TT in Map
   <div class="tab-pane fade" id="registration">
     <br />
     <h1 style="text-align:center;">PRE-REGISTRATION</h1>
-    <p>Registration is on a first-come-first-serve basis, so register
+    <p class="text-justify">Registration is on a first-come-first-serve basis, so register
     ASAP to secure the best possible time for you. Registration closes
     the week prior to each event online. If you send in the
     registration form via US Mail, the postage date on the envelope
@@ -437,7 +437,6 @@ description: "Four Indoor TT in Winfield and the John Fraiser Memorial TT in Map
     $3 for the late fee. If the $3 isn't added and it is postmarked
     after the closing date, your registration will not be
     processed.</p>
-    <link rel="stylesheet" type="text/css" media="all" href="//www.activenetwork.com/res/button/css/button-v4.css" />
     <script>
       function toggleDiv(id) {
         if (document.getElementById(id).style.display == 'none') {
@@ -447,26 +446,19 @@ description: "Four Indoor TT in Winfield and the John Fraiser Memorial TT in Map
         }
       }
     </script>
-    <table style="margin-left:auto;margin-right:auto;">
-      <tbody>
-        <tr>
-          <td style="text-align:center;">
-            <div id="btn_div" class="btn-g207-greenbtn">
-              <ul>
-                <li><a id="btn_link" href="https://www.truesport.com/matts/" target="_blank"><span id="btn_txt">Secure Online Registration</span></a></li>
-              </ul>
-            </div>
-          </td>
-          <td style="text-align:center;">
-            <div id="btn_div" class="btn-g204-greenbtn" style="cursor:pointer;">
-              <ul>
-                <li onclick="toggleDiv('regdiv');"><a id="btn_link"><span id="btn_txt">Download &amp; Mail-In Registration</span></a></li>
-              </ul>
-            </div>
-          </td>
-        </tr>
-      </tbody>
-    </table>
+    <ul class="list-inline text-center">
+      <li>
+        <a class="btn btn-primary btn-lg" href="https://www.truesport.com/matts/" target="_blank">
+          <span class="glyphicon glyphicon-lock" aria-hidden="true"></span> Secure Online Registration
+        </a>
+      </li>
+      <li>
+        <a class="btn btn-primary btn-lg" href="#" onclick="toggleDiv('regdiv');">
+          <span class="glyphicon glyphicon-download" aria-hidden="true"></span> Download Mail-In Form
+        </a>
+      </li>
+    </ul>
+
     <div id="regdiv" style="display:none;">
       <p style="text-align:center;"><a href="/public/pdf/Form-2016-Indoors-Registration.pdf">Download the registration</a> and send via US Mail.</p>
       <p style="text-align:center;">Make check or money order payable to <strong>ABD Cycle Club</strong></p>
