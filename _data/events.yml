@@ -2,43 +2,43 @@
   name: "Indoor Time Trial Series"
   lead: "The Mid America Time Trial (MATTS) season-opening events"
   dates:
-      - 2015-01-11
-      - 2015-02-01
-      - 2015-02-22
-      - 2015-03-14
+      - 2016-01-10
+      - 2016-01-31
+      - 2016-02-21
+      - 2016-03-11
   url: "/events/indoortt"
 - slug: jfmtt
   name: "Indoor Time Trial Series - JFMTT"
   lead: "The Mid America Time Trial (MATTS) season-opening events"
   dates:
-      - 2015-04-12
+      - 2016-04-10
   url: "/events/indoortt"  
 - slug: masters
   name: "Master&rsquo;s Memorial Day Weekend"
   lead: "Master-level races for riders 30 years and older at all ability levels"
   dates:
-      - 2015-05-28
-      - 2015-05-29
-      - 2015-05-30
+      - 2016-05-28
+      - 2016-05-29
+      - 2016-05-30
   url: "/events/masters/"
 - slug: winfield
   name: "Winfield Twilight Criterium"
   lead: "Races for riders of all ages and ability levels through a cycling-friendly neighborhood"
   dates:
-      - 2015-07-11
+      - TBD
   url: "http://www.winfieldcriterium.com/"
 - slug: fallfling
   name: "Fall Fling Weekend"
   lead: "Road-cycling season finale races for riders of all ages and ability levels"
   dates:
-      - 2015-09-19
-      - 2015-09-20
-      - 2015-09-26
-      - 2015-09-27
+      - TBD
+      - TBD
+      - TBD
+      - TBD
   url: "/events/fallfling/"
 - slug: abdcross
   name: "Sunrise Park Cyclocross"
   lead: "Stop &#35;5 in the 12-race Chicago Cyclocross Cup"
   dates:
-      - 2015-10-25
+      - TBD
   url: "/events/abdcross"
