@@ -25,3 +25,4 @@ github:
   repo: github.com/abdcycling/abdcycling.github.io
 gems:
 - jekyll-sitemap
+- jekyll-paginate

@@ -1,4 +1,5 @@
 Gemfile.lock
 Makefile
+npm-debug.log
 node_modules/
 _site/
