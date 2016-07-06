@@ -1,3 +1,13 @@
+- name: "Master's Memorial Day Weekend"
+  loc: "Wood Dale, IL"
+  body: "ABR"
+  date: 2016-05-29
+  url: "https://docs.google.com/spreadsheets/d/1wsb2x0l4zzB_os67I50etcgiaE00zM_1Caf_fgiWo5o/pubhtml"
+- name: "Indoor Time Trial Series"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: 2016-04-10
+  url: "https://docs.google.com/spreadsheets/d/1z4Bhwv96Dx2_Hqw7B5AHrztYbz7qjQ7NOz6MaC0HH9E/pubhtml"
 - name: "Fall Fling"
   loc: "West Chicago, IL"
   body: "ABR"
