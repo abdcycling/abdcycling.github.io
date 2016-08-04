@@ -1,7 +1,7 @@
 {
   "name": "abdcycling",
   "description": "Athletes By Design website",
-  "version": "2015.3.25",
+  "version": "2016.8.3",
   "homepage": "http://www.abdcycling.com/",
   "author": "Athletes By Design",
   "style": "assets/css/abdcycling.min.css",
@@ -22,10 +22,9 @@
     "grunt-contrib-csslint": "~1.0.0",
     "grunt-contrib-cssmin": "~1.0.1",
     "grunt-contrib-less": "~1.3.0",
-    "grunt-contrib-uglify": "~1.0.1",
+    "grunt-contrib-uglify": "~2.0.0",
     "grunt-csscomb": "~3.1.0",
-    "grunt-sed": "~0.1.1",
     "load-grunt-tasks": "~3.5.0",
-    "time-grunt": "~1.3.0"
+    "time-grunt": "~1.4.0"
   }
 }

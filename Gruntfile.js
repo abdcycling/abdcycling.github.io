@@ -35,7 +35,7 @@ module.exports = function (grunt) {
           outputSourceFiles: true,
           sourceMapURL: '<%= pkg.name %>.css.map',
           sourceMapFilename: '_assets/css/<%= pkg.name %>.css.map',
-          paths: ["/home/nixternal/mystuff/dev/src/bootstrap/less"]
+          paths: ["/home/rich/mystuff/dev/bootstrap/less"]
         },
         files: {
           '_assets/css/<%= pkg.name %>.css': '_assets/less/<%= pkg.name %>.less'
@@ -117,19 +117,9 @@ module.exports = function (grunt) {
     copy: {
       fonts: {
         expand: true,
-        cwd: process.env.HOME + '/mystuff/dev/src/bootstrap/dist/fonts/',
+        cwd: process.env.HOME + '/mystuff/dev/bootstrap/dist/fonts/',
         src: 'glyphicons-*',
         dest: 'assets/fonts/'
-      }
-    },
-    sed: {
-      versionNumber: {
-        pattern: (function () {
-          var old = grunt.option('oldver');
-          return old ? RegExp.quote(old) : old;
-        })(),
-        replacement: grunt.option('newver'),
-        recursive: true
       }
     }
   });
@@ -139,5 +129,4 @@ module.exports = function (grunt) {
   grunt.registerTask('less-compile', ['less:core', 'less:plusgallery']);
   grunt.registerTask('dist-css', ['less-compile', 'autoprefixer', 'usebanner', 'csscomb', 'cssmin']);
   grunt.registerTask('default', ['dist-js', 'dist-css', 'copy:fonts']);
-  grunt.registerTask('change-version-number', 'sed');
 };

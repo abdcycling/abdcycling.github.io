@@ -31,10 +31,10 @@
   name: "Fall Fling Weekend"
   lead: "Road-cycling season finale races for riders of all ages and ability levels"
   dates:
-      - TBD
-      - TBD
-      - TBD
-      - TBD
+      - 2016-09-17
+      - 2016-09-18
+      - 2016-09-24
+      - 2016-09-25
   url: "/events/fallfling/"
 - slug: abdcross
   name: "Sunrise Park Cyclocross"
