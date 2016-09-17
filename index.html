@@ -30,7 +30,7 @@ description: "One of the largest &amp; most successful cycling clubs in the midw
         {% for _date in event.dates %}
         {% capture eventtime %}{{ _date | date: '%F' }}{% endcapture %}
         {% capture nowtime %}{{ site.time | date: '%F' }}{% endcapture %}
-        {% if eventtime != "TBD" and eventtime > nowtime %}
+        {% if eventtime != "TBD" and eventtime >= nowtime %}
         <span class="quickies-date">{{ _date | date: '%Y.%m.%d' }}</span>
         <h5><a href="{{ event.url }}">{{ event.name }}</a></h5>
         {% endif %}
