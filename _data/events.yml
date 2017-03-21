@@ -17,16 +17,15 @@
   name: "Master&rsquo;s Memorial Day Weekend"
   lead: "Master-level races for riders 30 years and older at all ability levels"
   dates:
-      - TBD
-      - TBD
-      - TBD
-      - TBD
+      - 2017-05-27
+      - 2017-05-28
+      - 2017-05-29
   url: "/events/masters/"
 - slug: winfield
   name: "Winfield Criterium - Racing for a Cause"
   lead: "Races for riders of all ages and ability levels through a cycling-friendly neighborhood"
   dates:
-      - TBD
+      - 2017-08-20
   url: "http://www.winfieldcriterium.com/"
 - slug: fallfling
   name: "Fall Fling Weekend"
