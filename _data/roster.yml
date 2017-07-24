@@ -1,3 +1,11 @@
+- l: Abraham
+  f: Karyn
+  c: 2
+  d:
+- l: Bambalas
+  f: Jason
+  c:
+  d:
 - l: Beam
   f: Gerald
   c: 75+
@@ -154,6 +162,10 @@
   f: Steven
   c:
   d: 1956-01-10
+- l: Grubart
+  f: Larry
+  c: 4
+  d:
 - l: Hawco
   f: Robert
   c: 3
@@ -178,6 +190,14 @@
   f: William "Jack"
   c: 50+
   d: 1956-09-06
+- l: Holzhauer
+  f: Kevin
+  c:
+  d:
+- l: Holzhauer
+  f: Will
+  c:
+  d:
 - l: Homann
   f: Craig
   c: 50+
@@ -190,6 +210,10 @@
   f: Donald
   c: 60+
   d: 1950-10-29
+- l: Jazo
+  f: Lois
+  c:
+  d:
 - l: Johnson
   f: Rich
   c: 5
@@ -218,6 +242,10 @@
   f: Gary
   c: 55+/4
   d: 1955-11-23
+- l: Lapas
+  f: Tom
+  c:
+  d:
 - l: Leibman
   f: Adam
   c: 3
@@ -234,10 +262,18 @@
   f: James
   c: 4
   d:
+- l: Lupino
+  f: Justin
+  c:
+  d:
 - l: Madsen
   f: Daniel
   c: 60+/3
   d: 1952-04-11
+- l: Maiorano
+  f: Mario
+  c: 60+
+  d:
 - l: Mascarella
   f: Katrina
   c: 4
@@ -262,6 +298,10 @@
   f: Lori
   c: 50+/5
   d: 1963-11-05
+- l: Minalga
+  f: Erik
+  c:
+  d:
 - l: Montfort
   f: Ludwig
   c:
@@ -272,6 +312,18 @@
   d: 1964-5-17
 - l: Mouw
   f: Natalie
+  c: 4
+  d:
+- l: Mryzglod
+  f: Brian
+  c: 4
+  d:
+- l: Mryzglod
+  f: Dawn
+  c: 4
+  d:
+- l: Mryzglod
+  f: Raymond
   c: 4
   d:
 - l: Murphy
@@ -318,6 +370,10 @@
   f: Valerie
   c:
   d: 1963-08-28
+- l: Richier
+  f: Mark
+  c: 4
+  d:
 - l: Rulo
   f: Gary
   c: 55+/4
@@ -334,6 +390,10 @@
   f: Jon
   c: 4
   d: 1995-04-06
+- l: Stone
+  f: Pam
+  c:
+  d:
 - l: Stoops
   f: Walter
   c: 3
