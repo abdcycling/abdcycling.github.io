@@ -1,3 +1,28 @@
+- name: "Fall Fling"
+  loc: "West Chicago, IL"
+  body: "ABR"
+  date: 2017-09-16
+  url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQkNt7Hh3UJy8h0-AMGygioVxAQXZodpFZy3ogmIeZIMN46cM0K2-IbHq2EzMWX78rKBs9mo0CeJfJa/pubhtml"
+- name: "Winfield Criterium"
+  loc: "Winfield, IL"
+  body: "USAC/ABR"
+  date: 2017-08-20
+  url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSqWNWVgEprtRdUqjb6Kf298JIEoKlw1d9icg5zs8rzDD2cOooEmazkxMyJpEyiYvNS4_q9qqt7nNIX/pubhtml"
+- name: "Master's Memorial Day Weekend"
+  loc: "West Chicago, IL"
+  body: "ABR"
+  date: 2017-05-27
+  url: "https://docs.google.com/spreadsheets/d/17JbphGCkWDIftZwXdJlfGjPdgEELBQBgaeRaKce399U/pubhtml"
+- name: "Indoor Time Trial Series"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: 2017-01-08
+  url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQRNtLWANdYq53x7OqQkkhxSCGE1NaMXO7WecknsuKF4tdT2nyA_HKGK9F-Y63A2G788O6pP0VWCNd4/pubhtml"
+- name: "Fall Fling"
+  loc: "West Chicago, IL"
+  body: "ABR"
+  date: 2016-09-17
+  url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQMZifdApzvIXB089SaAcJ1udlZEroK_cA2kYflPkjhR5yZuZIlQJCnx1ha1gIMjSAfE5oq1_VPjk2q/pubhtml"
 - name: "Winfield Criterium"
   loc: "Winfield, IL"
   body: "ABR"
