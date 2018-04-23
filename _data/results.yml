@@ -1,3 +1,8 @@
+- name: "Indoor Time Trial Series"
+  loc: "Winfield, IL"
+  body: "ABR"
+  date: 2018-01-14
+  url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ6N1YUGLGWO0EWpP5ADD2y59t_KH48iyIkyMyDPcHwMA07LYae3Ti1U3gKa6jcwQf22fe7fUlzjMnn/pubhtml"
 - name: "Fall Fling"
   loc: "West Chicago, IL"
   body: "ABR"

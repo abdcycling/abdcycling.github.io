@@ -17,28 +17,28 @@
   name: "Master&rsquo;s Memorial Day Weekend"
   lead: "Master-level races for riders 30 years and older at all ability levels"
   dates:
-      - 2017-05-27
-      - 2017-05-28
-      - 2017-05-29
+      - 2018-05-26
+      - 2018-05-27
+      - 2018-05-28
   url: "/events/masters/"
 - slug: winfield
   name: "Winfield Criterium"
   lead: "Races for riders of all ages and ability levels through a cycling-friendly neighborhood"
   dates:
-      - 2017-08-20
+      - 2018-09-09
   url: "http://www.winfieldcriterium.com/"
 - slug: fallfling
   name: "Fall Fling Weekend"
   lead: "Road-cycling season finale races for riders of all ages and ability levels"
   dates:
-      - 2017-09-16
-      - 2017-09-17
+      - 2017-09-22
       - 2017-09-23
-      - 2017-09-24
+      - 2017-09-29
+      - 2017-09-30
   url: "/events/fallfling/"
 - slug: abdcross
   name: "Sunrise Park Cyclocross"
   lead: "Stop &#35;5 in the 12-race Chicago Cyclocross Cup"
   dates:
-      - 2017-10-22
+      - 2018-10-21
   url: "/events/abdcross"
