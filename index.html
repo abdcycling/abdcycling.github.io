@@ -13,7 +13,7 @@ description: "One of the largest &amp; most successful cycling clubs in the midw
       </div>
       <div class="panel-body">
         <span class="quickies-date">Every Wednesday Evening</span>
-        <h5><a href="/events/trainingcrits/">Wednesday Evening Training Criteriums</a></h5>
+        <!--<h5><a href="/events/trainingcrits/">Wednesday Evening Training Criteriums</a></h5>-->
         {% for event in site.data.events limit: 10 %}
         {% for _date in event.dates %}
         {% capture eventtime %}{{ _date | date: '%F' }}{% endcapture %}
