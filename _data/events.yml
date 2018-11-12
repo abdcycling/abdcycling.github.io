@@ -41,3 +41,9 @@
   dates:
       - 2018-10-21
   url: "/events/abdcross"
+- slug: wiilbanquet
+  name: "2018 WIIL Banquet"
+  lead: "2018 Wisconsin &amp; Illinois Bicycle Racing Awards Banquet"
+  dates:
+      - 2018-11-17
+  url: "/public/pdf/Flyer-2018-WIILBanquet.pdf"
