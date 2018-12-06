@@ -35,13 +35,13 @@
     <link href="/assets/css/plusgallery.min.css" rel="stylesheet" type="text/css">
     {% endif %}
     <!--[if lt IE 9]>
-    <script src="/assets/js/ie8-responsive-file-warning.js"></script>
+      <script src="/assets/js/ie8-responsive-file-warning.js"></script>
     <![endif]-->
     <script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
     <script src="/assets/js/ie-emulation-modes-warning.js"></script>
     <!--[if lt IE 9]>
-    <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-    <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     <link rel="apple-touch-icon" sizes="57x57" href="/assets/ico/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="/assets/ico/apple-icon-60x60.png">
@@ -62,6 +62,14 @@
     <meta name="theme-color" content="#ffffff">
   </head>
   <body>
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2';
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
     <div class="page-body">
       <a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
       <header class="navbar navbar-fixed-top navbar-default" id="top" role="banner">
@@ -93,28 +101,28 @@
       </header>
       {% if page.slug == "home" %}
       <div class="masthead" id="content">
-      {% else %}
-      {% if page.slug == 404 %}
-      <div class="fourOhfourhead" id="content">
-      {% else %}
-      <div class="pagehead" id="content">
-      {% endif %}
-      {% endif %}
-        <div class="container">
-          {% if page.slug == "home" %}
-          <img src="/assets/img/biglogo.png" />
+        {% else %}
+        {% if page.slug == 404 %}
+        <div class="fourOhfourhead" id="content">
           {% else %}
-          <h1>{{ page.title }}</h1>
-          {% endif %}
-          {% if page.lead %}
-          {% if page.slug == "events" %}
-          {% capture year_now %}{{ site.time | date: '%Y' }}{% endcapture %}
-          <p class="lead">{{ page.lead | replace: '!YEAR!', year_now }}</p>
-          {% else %}
-          <p class="lead">{{ page.lead }}</p>
-          {% endif %}
-          {% else %}
-          <p class="lead">{{ page.date | date: '<span class="glyphicon glyphicon-time"></span> %Y.%m.%d @ %H:%M:%S' }}</p>
-          {% endif %}
-        </div> <!-- .container -->
-      </div> <!-- .masthead || .fourOhfourhead || pagehead -->
+          <div class="pagehead" id="content">
+            {% endif %}
+            {% endif %}
+            <div class="container">
+              {% if page.slug == "home" %}
+              <img src="/assets/img/biglogo.png" />
+              {% else %}
+              <h1>{{ page.title }}</h1>
+              {% endif %}
+              {% if page.lead %}
+              {% if page.slug == "events" %}
+              {% capture year_now %}{{ site.time | date: '%Y' }}{% endcapture %}
+              <p class="lead">{{ page.lead | replace: '!YEAR!', year_now }}</p>
+              {% else %}
+              <p class="lead">{{ page.lead }}</p>
+              {% endif %}
+              {% else %}
+              <p class="lead">{{ page.date | date: '<span class="glyphicon glyphicon-time"></span> %Y.%m.%d @ %H:%M:%S' }}</p>
+              {% endif %}
+            </div> <!-- .container -->
+          </div> <!-- .masthead || .fourOhfourhead || pagehead -->
