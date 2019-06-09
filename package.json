@@ -1,7 +1,7 @@
 {
   "name": "abdcycling",
   "description": "Athletes By Design website",
-  "version": "2019.03.27",
+  "version": "2019.06.09",
   "homepage": "http://www.abdcycling.com/",
   "author": "Athletes By Design",
   "style": "assets/css/abdcycling.min.css",
@@ -24,7 +24,7 @@
     "grunt-contrib-less": "~2.0.0",
     "grunt-contrib-uglify": "~4.0.0",
     "grunt-csscomb": "~4.0.0",
-    "load-grunt-tasks": "~4.0.0",
+    "load-grunt-tasks": "~5.0.0",
     "time-grunt": "~2.0.0"
   }
 }
