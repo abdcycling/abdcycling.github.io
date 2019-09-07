@@ -1,3 +1,8 @@
+- name: "Winfield Criterium"
+  loc: "Winfield, IL"
+  body: "USAC/ABR"
+  date: "2019-09-07"
+  url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTDPhHkkRvKkTJAVPciUh74hdZhSP2mSoYWSfm7akeLqdPkK2_tS61514x5INBvaZiOGrjhJXjytkZO/pubhtml"
 - name: "Master's Memorial Day Weekend"
   loc: "Wood Dale, IL"
   body: "ABR"
