@@ -1,3 +1,8 @@
+- name: "Fall Fling"
+  loc: "Wood Dale, IL"
+  body: "ABR"
+  date: "2019-09-29"
+  url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSBLyyYqpQWb26Va8-u_A_Ml8yaIfOSx16TvvPSfQyzUeb0FPy6bGW-2WRR0F4DtvpdDdFOjtNDOt9t/pubhtml"
 - name: "Winfield Criterium"
   loc: "Winfield, IL"
   body: "USAC/ABR"
@@ -17,7 +22,7 @@
   loc: "West Chicago, IL"
   date: 2018-09-10
   body: "ABR"
-  url: https://docs.google.com/spreadsheets/d/e/2PACX-1vTlcLVG7lEuutcp2s5rcQqEPj1XwBCXJLew-oYEcySzhLOEI6pacBjADXGC1vqllYICfH_KWx8HikQl/pubhtml
+  url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTlcLVG7lEuutcp2s5rcQqEPj1XwBCXJLew-oYEcySzhLOEI6pacBjADXGC1vqllYICfH_KWx8HikQl/pubhtml"
 - name: "Winfield Criterium"
   loc: "Winfield, IL"
   body: "USAC/ABR"
