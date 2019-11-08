@@ -2,48 +2,48 @@
   name: "Indoor Time Trial Series"
   lead: "The Mid America Time Trial (MATTS) season-opening events"
   dates:
-      - 2019-01-13
-      - 2019-02-10
-      - 2019-03-10
+      - 2020-01-12
+      - 2020-02-09
+      - 2020-03-08
   url: "/events/indoortt"
 - slug: jfmtt
   name: "Indoor Time Trial Series - JFMTT"
   lead: "The Mid America Time Trial (MATTS) season-opening events"
   dates:
-      - 2019-04-07
+      - 2020-04-05
   url: "/events/indoortt"  
 - slug: masters
   name: "Master&rsquo;s Memorial Day Weekend"
   lead: "Master-level races for riders 30 years and older at all ability levels"
   dates:
-      - 2019-05-25
-      - 2019-05-26
-      - 2019-05-27
+      - TBD
+      - TBD
+      - TBD
   url: "/events/masters/"
 - slug: winfield
   name: "Winfield Criterium"
   lead: "Races for riders of all ages and ability levels through a cycling-friendly neighborhood"
   dates:
-      - 2019-09-07
+      - TBD
   url: "http://www.winfieldcriterium.com/"
 - slug: fallfling
   name: "Fall Fling Weekend"
   lead: "Road-cycling season finale races for riders of all ages and ability levels"
   dates:
-      - 2019-09-21
-      - 2019-09-22
-      - 2019-09-28
-      - 2019-09-29
+      - TBD
+      - TBD
+      - TBD
+      - TBD
   url: "/events/fallfling/"
 - slug: abdcross
   name: "Sunrise Park Cyclocross"
   lead: "Stop &#35;5 in the 12-race Chicago Cyclocross Cup"
   dates:
-      - 2019-10-27
+      - TBD
   url: "/events/abdcross"
 - slug: wiilbanquet
   name: "2019 WIIL Banquet"
   lead: "2019 Wisconsin &amp; Illinois Bicycle Racing Awards Banquet"
   dates:
-      - 2019-11-09
+      - TBD
   url: "/public/pdf/Flyer-2019-WIILBanquet.pdf"
