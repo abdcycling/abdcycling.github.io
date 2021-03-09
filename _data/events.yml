@@ -7,7 +7,8 @@
     - 2020-03-08
   url: "/events/indoortt"
 - slug: jfmtt
-  name: "Indoor Time Trial Series - JFMTT"
+  #name: "Indoor Time Trial Series - JFMTT"
+  name: "John Fraser Memorial Time Trial"
   lead: "The Mid America Time Trial (MATTS) season-opening events"
   dates:
     - 2021-04-11
