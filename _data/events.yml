@@ -2,9 +2,7 @@
   name: "Indoor Time Trial Series"
   lead: "The Mid America Time Trial (MATTS) season-opening events"
   dates:
-    - 2020-01-12
-    - 2020-02-09
-    - 2020-03-08
+    - TBD
   url: "/events/indoortt"
 - slug: jfmtt
   #name: "Indoor Time Trial Series - JFMTT"
@@ -39,11 +37,11 @@
     - TBD
   url: "/events/abdcross"
 - slug: wiilbanquet
-  name: "2020 WIIL Banquet"
-  lead: "2020 Wisconsin &amp; Illinois Bicycle Racing Awards Banquet"
+  name: "2021 WIIL Banquet"
+  lead: "2021 Wisconsin &amp; Illinois Bicycle Racing Awards Banquet"
   dates:
-    - TBD
-  url: "/public/pdf/Flyer-2020-WIILBanquet.pdf"
+    - 2021-11-13
+  url: "/public/pdf/Flyer-2021-WIILBanquet.pdf"
 - slug: kaneville16k
   name: "2020 ABD Kaneville 16k Time Trial"
   lead: "2020 ABR Season Finale"
