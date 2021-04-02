@@ -39,7 +39,11 @@ description: "One of the largest &amp; most successful cycling clubs in the midw
         {% if event.url contains '://' %}
         <h5><a href="{{ event.url }}" target="_blank" rel="noopener noreferrer">{{ event.name }}</a></h5>
         {% else %}
+        {% if event.startlist contains '://' %}
+        <h5><a href="{{ event.url }}">{{ event.name }}</a> - <a href="{{ event.startlist }}">Start List</a></h5>
+        {% else %}
         <h5><a href="{{ event.url }}">{{ event.name }}</a></h5>
+        {% endif %}
         {% endif %}
         {% endif %}
         {% endfor %}
