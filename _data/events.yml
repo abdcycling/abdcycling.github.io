@@ -13,6 +13,16 @@
   url: "/public/pdf/Flyer-2021-JFMTT.pdf"
   startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRneDHs3IsQOQ2oKtBCrD_3d0g5G_kCTZD_A88LnepvDsgXj7HuMLdUkwWzCG4VYh6h8D4ZjgYVK7XB/pubhtml"
   #url: "/events/indoortt"  
+- slug: kaneville
+  name: "Kaneville Time Trials"
+  lead: "5 Time Trial Series"
+  dates:
+    - 2021-05-16
+    - 2021-06-20
+    - 2021-07-25
+    - 2021-08-22
+    - 2021-09-26
+  url: "/public/pdf/Flyer-2021-KanevilleTT.pdf"
 - slug: masters
   name: "Master&rsquo;s Memorial Day Weekend"
   lead: "Master-level races for riders 30 years and older at all ability levels"
