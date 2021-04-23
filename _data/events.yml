@@ -16,6 +16,7 @@
 - slug: kaneville
   name: "Kaneville Time Trials"
   lead: "5 Time Trial Series"
+  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vT7kd2BAy_r3H9VjN7aYIP08oFTSeQlAULg7VCn9kYJgR50Jf_EeYNvEwPQTvehxF5HoyBLIk9KlZJ4/pubhtml"
   dates:
     - 2021-05-16
     - 2021-06-20

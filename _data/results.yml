@@ -1,27 +1,32 @@
+- name: "Kaneville Time Trial Series"
+  loc: "Kaneville, IL"
+  body: "ABR"
+  date: 2021-05-16
+  url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vT7kd2BAy_r3H9VjN7aYIP08oFTSeQlAULg7VCn9kYJgR50Jf_EeYNvEwPQTvehxF5HoyBLIk9KlZJ4/pubhtml"
 - name: "John Fraser Memorial Time Trial"
   loc: "Maple Park, IL"
   body: "ABR"
-  date: "2021-04-11"
+  date: 2021-06-06
   url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRneDHs3IsQOQ2oKtBCrD_3d0g5G_kCTZD_A88LnepvDsgXj7HuMLdUkwWzCG4VYh6h8D4ZjgYVK7XB/pubhtml"
 - name: "Fall Fling"
   loc: "Wood Dale, IL"
   body: "ABR"
-  date: "2019-09-29"
+  date: 2019-09-29
   url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSBLyyYqpQWb26Va8-u_A_Ml8yaIfOSx16TvvPSfQyzUeb0FPy6bGW-2WRR0F4DtvpdDdFOjtNDOt9t/pubhtml"
 - name: "Winfield Criterium"
   loc: "Winfield, IL"
   body: "USAC/ABR"
-  date: "2019-09-07"
+  date: 2019-09-07
   url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTDPhHkkRvKkTJAVPciUh74hdZhSP2mSoYWSfm7akeLqdPkK2_tS61514x5INBvaZiOGrjhJXjytkZO/pubhtml"
 - name: "Master's Memorial Day Weekend"
   loc: "Wood Dale, IL"
   body: "ABR"
-  date: "2019-05-26"
+  date: 2019-05-26
   url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vR5I5HTmelb2ckNan4Pwb2reIsbxuq0H1F9t23TQk3_SNozA-8hOMirF8PT4-bTwsebn5FR5j8gFUEH/pubhtml"
 - name: "Indoor Time Trial Series"
   loc: "Winfield, IL"
   body: "ABR"
-  date: "2019-01-13"
+  date: 2019-01-13
   url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTlhD3ov2jmeQUAe7NBYkl81QCpLF34_5TW216XxtjQ8VCOsGiBDU8Pv3KZTMKVsjAglBe4WUh1f6qc/pubhtml"
 - name: "Fall Fling"
   loc: "West Chicago, IL"
