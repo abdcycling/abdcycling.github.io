@@ -34,8 +34,9 @@
   name: "Winfield Criterium"
   lead: "Races for riders of all ages and ability levels through a cycling-friendly neighborhood"
   dates:
-    - TBD
-  url: "http://www.winfieldcriterium.com/"
+    - 2021-07-18
+  #url: "http://www.winfieldcriterium.com/"
+  url: "http://intelligentsiacup.com/schedule/winfield/"
 - slug: fallfling
   name: "Fall Fling Weekend"
   lead: "Road-cycling season finale races for riders of all ages and ability levels"
