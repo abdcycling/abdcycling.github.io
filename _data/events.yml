@@ -55,3 +55,9 @@
   dates:
     - 2021-11-13
   url: "/public/pdf/Flyer-2021-WIILBanquet.pdf"
+- slug: auroramasters
+  name: "North Aurora Master's Criterium"
+  lead: "Master's only races, 30 years and older"
+  dates:
+    - 2021-10-03
+  url: "/public/pdf/Flyer-2021-AuroraMasters.pdf"
