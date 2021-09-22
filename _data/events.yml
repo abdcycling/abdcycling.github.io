@@ -46,6 +46,7 @@
 - slug: auroramasters
   name: "North Aurora Master's Criterium"
   lead: "Master's only races, 30 years and older"
+  reglink: "https://www.truesport.com/index.php/events/truesport_event/951"
   dates:
     - 2021-10-03
   url: "/public/pdf/Flyer-2021-AuroraMasters.pdf"
