@@ -35,7 +35,7 @@ module.exports = function (grunt) {
           outputSourceFiles: true,
           sourceMapURL: '<%= pkg.name %>.css.map',
           sourceMapFilename: '_assets/css/<%= pkg.name %>.css.map',
-          paths: ["/home/rich/mystuff/dev/bootstrap-v3/less"]
+          paths: ["_assets/bootstrap-v3/less"]
         },
         files: {
           '_assets/css/<%= pkg.name %>.css': '_assets/less/<%= pkg.name %>.less'
@@ -117,7 +117,7 @@ module.exports = function (grunt) {
     copy: {
       fonts: {
         expand: true,
-        cwd: process.env.HOME + '/mystuff/dev/bootstrap-v3/dist/fonts/',
+        cwd: process.env.HOME + '_assets/bootstrap-v3/dist/fonts/',
         src: 'glyphicons-*',
         dest: 'assets/fonts/'
       }
