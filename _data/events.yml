@@ -9,7 +9,10 @@
   name: "John Fraser Memorial Time Trial"
   lead: "The Mid America Time Trial (MATTS) season-opening events"
   dates:
-    - 2021-06-06
+    - TBD
+    #- 2021-01-06
+    #- 2021-02-06
+    #- 2021-03-06
   url: "/public/pdf/Flyer-2021-JFMTT.pdf"
   startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRneDHs3IsQOQ2oKtBCrD_3d0g5G_kCTZD_A88LnepvDsgXj7HuMLdUkwWzCG4VYh6h8D4ZjgYVK7XB/pubhtml"
   #url: "/events/indoortt"  
@@ -18,11 +21,7 @@
   lead: "5 Time Trial Series"
   startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vT7kd2BAy_r3H9VjN7aYIP08oFTSeQlAULg7VCn9kYJgR50Jf_EeYNvEwPQTvehxF5HoyBLIk9KlZJ4/pubhtml"
   dates:
-    - 2021-05-16
-    - 2021-06-20
-    - 2021-07-25
-    - 2021-08-22
-    - 2021-09-26
+    - TBD
   url: "/public/pdf/Flyer-2021-KanevilleTT.pdf"
 - slug: masters
   name: "Master&rsquo;s Memorial Day Weekend"
@@ -34,7 +33,7 @@
   name: "Winfield Criterium"
   lead: "Races for riders of all ages and ability levels through a cycling-friendly neighborhood"
   dates:
-    - 2021-07-18
+    - TBD
   #url: "http://www.winfieldcriterium.com/"
   url: "http://intelligentsiacup.com/schedule/winfield/"
 - slug: fallfling
@@ -48,18 +47,18 @@
   lead: "Master's only races, 30 years and older"
   reglink: "https://www.truesport.com/index.php/events/truesport_event/951"
   dates:
-    - 2021-10-03
+    - TBD
   url: "/public/pdf/Flyer-2021-AuroraMasters.pdf"
 - slug: abdcross
   name: "Sunrise Park Cyclocross"
   lead: "Stop &#35;5 in the 12-race Chicago Cyclocross Cup"
   dates:
-    - 2021-10-24
+    - TBD
   #url: "/events/abdcross"
   url: "/public/pdf/Flyer-2021-SunriseParkCX.pdf"
 - slug: wiilbanquet
   name: "2021 WIIL Banquet"
   lead: "2021 Wisconsin &amp; Illinois Bicycle Racing Awards Banquet"
   dates:
-    - 2021-11-13
+    - TBD
   url: "/public/pdf/Flyer-2021-WIILBanquet.pdf"
