@@ -62,3 +62,10 @@
   dates:
     - TBD
   url: "/public/pdf/Flyer-2021-WIILBanquet.pdf"
+- slug: winterraces
+  name: "2022 Virtual Winter Races"
+  lead: "2022 Zwift Races Hosted By Athletes By Design"
+  dates:
+    - 2022-01-22
+    - 2022-02-19
+  url: "/public/pdf/Flyer-2022-Virtual-Winter-Races.pdf"
