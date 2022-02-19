@@ -14,8 +14,9 @@
     #- 2021-02-06
     #- 2021-03-06
   url: "/public/pdf/Flyer-2022-JFMTT.pdf"
-  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRneDHs3IsQOQ2oKtBCrD_3d0g5G_kCTZD_A88LnepvDsgXj7HuMLdUkwWzCG4VYh6h8D4ZjgYVK7XB/pubhtml"
+  #startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRneDHs3IsQOQ2oKtBCrD_3d0g5G_kCTZD_A88LnepvDsgXj7HuMLdUkwWzCG4VYh6h8D4ZjgYVK7XB/pubhtml"
   #url: "/events/indoortt"  
+  reglink: "https://www.bikereg.com/john-fraser-memorial-time-trail"
 - slug: kaneville
   name: "Kaneville Time Trials"
   lead: "5 Time Trial Series"
