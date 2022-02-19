@@ -9,11 +9,11 @@
   name: "John Fraser Memorial Time Trial"
   lead: "The Mid America Time Trial (MATTS) season-opening events"
   dates:
-    - TBD
+    - 2022-04-10
     #- 2021-01-06
     #- 2021-02-06
     #- 2021-03-06
-  url: "/public/pdf/Flyer-2021-JFMTT.pdf"
+  url: "/public/pdf/Flyer-2022-JFMTT.pdf"
   startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRneDHs3IsQOQ2oKtBCrD_3d0g5G_kCTZD_A88LnepvDsgXj7HuMLdUkwWzCG4VYh6h8D4ZjgYVK7XB/pubhtml"
   #url: "/events/indoortt"  
 - slug: kaneville
