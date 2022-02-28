@@ -20,10 +20,12 @@
 - slug: kaneville
   name: "Kaneville Time Trials"
   lead: "5 Time Trial Series"
-  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vT7kd2BAy_r3H9VjN7aYIP08oFTSeQlAULg7VCn9kYJgR50Jf_EeYNvEwPQTvehxF5HoyBLIk9KlZJ4/pubhtml"
+  #startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vT7kd2BAy_r3H9VjN7aYIP08oFTSeQlAULg7VCn9kYJgR50Jf_EeYNvEwPQTvehxF5HoyBLIk9KlZJ4/pubhtml"
   dates:
-    - TBD
-  url: "/public/pdf/Flyer-2021-KanevilleTT.pdf"
+    - 2022-05-29
+    - 2022-06-26
+    - 2022-08-21
+  url: "/public/pdf/Flyer-2022-KanevilleTT.pdf"
 - slug: masters
   name: "Master&rsquo;s Memorial Day Weekend"
   lead: "Master-level races for riders 30 years and older at all ability levels"
