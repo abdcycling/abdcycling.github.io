@@ -67,6 +67,12 @@
   name: "2022 Virtual Winter Races"
   lead: "2022 Zwift Races Hosted By Athletes By Design"
   dates:
-    - 2022-01-22
-    - 2022-02-19
+    - TBD
   url: "/public/pdf/Flyer-2022-Virtual-Winter-Races.pdf"
+- slug: virtualtt
+  name: "2022 MATTS ABD Virtual Time Trial"
+  lead: "2022 ABD Unofficial Illinois eCycling State Time Trial Championship"
+  dates:
+    - 2022-03-19
+  url: "/public/pdf/Flyer-2022-Virtual-TT.pdf"
+  reglink: "http://www.bikereg.com/abdvirtualtt"
