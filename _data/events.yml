@@ -4,6 +4,13 @@
   dates:
     - TBD
   url: "/events/indoortt"
+- slug: virtualtt
+  name: "2022 MATTS ABD Virtual Time Trial"
+  lead: "2022 ABD Unofficial Illinois eCycling State Time Trial Championship"
+  dates:
+    - 2022-03-19
+  url: "/public/pdf/Flyer-2022-Virtual-TT.pdf"
+  reglink: "https://www.bikereg.com/abdvirtualtt"
 - slug: jfmtt
   #name: "Indoor Time Trial Series - JFMTT"
   name: "John Fraser Memorial Time Trial"
@@ -17,15 +24,27 @@
   #startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRneDHs3IsQOQ2oKtBCrD_3d0g5G_kCTZD_A88LnepvDsgXj7HuMLdUkwWzCG4VYh6h8D4ZjgYVK7XB/pubhtml"
   #url: "/events/indoortt"  
   reglink: "https://www.bikereg.com/john-fraser-memorial-time-trail"
-- slug: kaneville
-  name: "Kaneville Time Trials"
-  lead: "5 Time Trial Series"
-  #startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vT7kd2BAy_r3H9VjN7aYIP08oFTSeQlAULg7VCn9kYJgR50Jf_EeYNvEwPQTvehxF5HoyBLIk9KlZJ4/pubhtml"
+- slug: kaneville1
+  name: "Kaneville Time Trial 1"
+  lead: "3 Time Trial Series"
   dates:
     - 2022-05-29
+  url: "/public/pdf/Flyer-2022-KanevilleTT.pdf"
+  reglink: "https://www.bikereg.com/abdkanevillett1"
+- slug: kaneville2
+  name: "Kaneville Time Trial 2"
+  lead: "3 Time Trial Series"
+  dates:
     - 2022-06-26
+  url: "/public/pdf/Flyer-2022-KanevilleTT.pdf"
+  reglink: "https://www.bikereg.com/abdkanevillett2"
+- slug: kaneville3
+  name: "Kaneville Time Trial 3"
+  lead: "3 Time Trial Series"
+  dates:
     - 2022-08-21
   url: "/public/pdf/Flyer-2022-KanevilleTT.pdf"
+  reglink: "https://www.bikereg.com/abdkanevillett3"
 - slug: masters
   name: "Master&rsquo;s Memorial Day Weekend"
   lead: "Master-level races for riders 30 years and older at all ability levels"
@@ -65,10 +84,3 @@
   dates:
     - TBD
   url: "/public/pdf/Flyer-2021-WIILBanquet.pdf"
-- slug: virtualtt
-  name: "2022 MATTS ABD Virtual Time Trial"
-  lead: "2022 ABD Unofficial Illinois eCycling State Time Trial Championship"
-  dates:
-    - 2022-03-19
-  url: "/public/pdf/Flyer-2022-Virtual-TT.pdf"
-  reglink: "https://www.bikereg.com/abdvirtualtt"
