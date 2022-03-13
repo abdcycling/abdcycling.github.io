@@ -1,9 +1,3 @@
-- slug: indoortt
-  name: "Indoor Time Trial Series"
-  lead: "The Mid America Time Trial (MATTS) season-opening events"
-  dates:
-    - TBD
-  url: "/events/indoortt"
 - slug: virtualtt
   name: "2022 MATTS ABD Virtual Time Trial"
   lead: "2022 ABD Unofficial Illinois eCycling State Time Trial Championship"
@@ -17,13 +11,17 @@
   lead: "The Mid America Time Trial (MATTS) season-opening events"
   dates:
     - 2022-04-10
-    #- 2021-01-06
-    #- 2021-02-06
-    #- 2021-03-06
   url: "/public/pdf/Flyer-2022-JFMTT.pdf"
   #startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRneDHs3IsQOQ2oKtBCrD_3d0g5G_kCTZD_A88LnepvDsgXj7HuMLdUkwWzCG4VYh6h8D4ZjgYVK7XB/pubhtml"
   #url: "/events/indoortt"  
   reglink: "https://www.bikereg.com/john-fraser-memorial-time-trail"
+- slug: auroramasters
+  name: "North Aurora Master's Criterium"
+  lead: "Master's only races, 30 years and older"
+  reglink: "https://www.bikereg.com/northauroracriterium"
+  dates:
+    - 2022-05-28
+  url: "/public/pdf/Flyer-2022-AuroraMasters.pdf"
 - slug: kaneville1
   name: "Kaneville Time Trial 1"
   lead: "3 Time Trial Series"
@@ -45,42 +43,41 @@
     - 2022-08-21
   url: "/public/pdf/Flyer-2022-KanevilleTT.pdf"
   reglink: "https://www.bikereg.com/abdkanevillett3"
-- slug: masters
-  name: "Master&rsquo;s Memorial Day Weekend"
-  lead: "Master-level races for riders 30 years and older at all ability levels"
-  dates:
-    - TBD
-  url: "/events/masters/"
-- slug: winfield
-  name: "Winfield Criterium"
-  lead: "Races for riders of all ages and ability levels through a cycling-friendly neighborhood"
-  dates:
-    - TBD
-  #url: "http://www.winfieldcriterium.com/"
-  url: "http://intelligentsiacup.com/schedule/winfield/"
-- slug: fallfling
-  name: "Fall Fling Weekend"
-  lead: "Road-cycling season finale races for riders of all ages and ability levels"
-  dates:
-    - TBD
-  url: "/events/fallfling/"
-- slug: auroramasters
-  name: "North Aurora Master's Criterium"
-  lead: "Master's only races, 30 years and older"
-  reglink: "https://www.truesport.com/index.php/events/truesport_event/951"
-  dates:
-    - TBD
-  url: "/public/pdf/Flyer-2021-AuroraMasters.pdf"
-- slug: abdcross
-  name: "Sunrise Park Cyclocross"
-  lead: "Stop &#35;5 in the 12-race Chicago Cyclocross Cup"
-  dates:
-    - TBD
-  #url: "/events/abdcross"
-  url: "/public/pdf/Flyer-2021-SunriseParkCX.pdf"
-- slug: wiilbanquet
-  name: "2022 WIIL Banquet"
-  lead: "2022 Wisconsin &amp; Illinois Bicycle Racing Awards Banquet"
-  dates:
-    - TBD
-  url: "/public/pdf/Flyer-2021-WIILBanquet.pdf"
+#- slug: indoortt
+#  name: "Indoor Time Trial Series"
+#  lead: "The Mid America Time Trial (MATTS) season-opening events"
+#  dates:
+#    - TBD
+#  url: "/events/indoortt"
+#- slug: masters
+#  name: "Master&rsquo;s Memorial Day Weekend"
+#  lead: "Master-level races for riders 30 years and older at all ability levels"
+#  dates:
+#    - TBD
+#  url: "/events/masters/"
+#- slug: winfield
+#  name: "Winfield Criterium"
+#  lead: "Races for riders of all ages and ability levels through a cycling-friendly neighborhood"
+#  dates:
+#    - TBD
+#  #url: "http://www.winfieldcriterium.com/"
+#  url: "http://intelligentsiacup.com/schedule/winfield/"
+#- slug: fallfling
+#  name: "Fall Fling Weekend"
+#  lead: "Road-cycling season finale races for riders of all ages and ability levels"
+#  dates:
+#    - TBD
+#  url: "/events/fallfling/"
+#- slug: abdcross
+#  name: "Sunrise Park Cyclocross"
+#  lead: "Stop &#35;5 in the 12-race Chicago Cyclocross Cup"
+#  dates:
+#    - TBD
+#  #url: "/events/abdcross"
+#  url: "/public/pdf/Flyer-2021-SunriseParkCX.pdf"
+#- slug: wiilbanquet
+#  name: "2022 WIIL Banquet"
+#  lead: "2022 Wisconsin &amp; Illinois Bicycle Racing Awards Banquet"
+#  dates:
+#    - TBD
+#  url: "/public/pdf/Flyer-2021-WIILBanquet.pdf"
