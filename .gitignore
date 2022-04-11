@@ -3,3 +3,4 @@ Makefile
 npm-debug.log
 node_modules/
 _site/
+package-lock.json
