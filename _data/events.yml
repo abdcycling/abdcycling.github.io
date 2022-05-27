@@ -22,14 +22,14 @@
   dates:
     - 2022-05-28
   url: "/public/pdf/Flyer-2022-AuroraMasters.pdf"
+  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRdhhwjR_GFdQ45S8uM9KoG4mIizgJyS9ZAfSztv7DJFxGW_C4QgeFVkQBx3sNjLYhKs1wYmCtJwXwF/pubhtml"
 - slug: kaneville1
   name: "Kaneville Time Trial 1"
   lead: "3 Time Trial Series"
   dates:
     - 2022-05-29
   url: "/public/pdf/Flyer-2022-KanevilleTT.pdf"
-  #reglink: "https://www.bikereg.com/abdkanevillett1"
-  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRdhhwjR_GFdQ45S8uM9KoG4mIizgJyS9ZAfSztv7DJFxGW_C4QgeFVkQBx3sNjLYhKs1wYmCtJwXwF/pubhtml"
+  reglink: "https://www.bikereg.com/abdkanevillett1"
 - slug: kaneville2
   name: "Kaneville Time Trial 2"
   lead: "3 Time Trial Series"
