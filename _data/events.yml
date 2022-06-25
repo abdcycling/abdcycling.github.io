@@ -37,7 +37,8 @@
   dates:
     - 2022-06-26
   url: "/public/pdf/Flyer-2022-KanevilleTT.pdf"
-  reglink: "https://www.bikereg.com/abdkanevillett2"
+  #reglink: "https://www.bikereg.com/abdkanevillett2"
+  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vT64j0W4L8RyXDKk3KcAFWqREfjplRdDQ934SDjPlEr2LfhpM5Uh2pI6yotzKPSjqiYM_ztQ0YNpFih/pubhtml"
 - slug: kaneville3
   name: "Kaneville Time Trial 3"
   lead: "3 Time Trial Series"
