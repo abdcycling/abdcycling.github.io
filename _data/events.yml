@@ -50,20 +50,20 @@
   name: "Fall Fling Maple Park Time Trial"
   lead: "Road-cycling season finale races for rider of all ages and ability levels"
   dates:
-    - 2022-10-18
+    - 2022-09-18
   startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQobZijUZX5BEkbpWmcppWXWGyaD6w5gGFz_jjpcMIhL4LZt7VN6rFtvaISCki0GL1KV_QmeFs1JoDi/pubhtml"
   url: "/public/pdf/Flyer-2022-FallFlingMapleParkTT.pdf"
 - slug: fallflingcrit1
   name: "Fall Fling North Aurora Criterium"
   lead: "Road-cycling season finale races for rider of all ages and ability levels"
   dates:
-    - 2022-10-24
+    - 2022-09-24
   url: "/public/pdf/Flyer-2022-FallFlingNorthAuroraCrit.pdf"
 - slug: fallflingcrit2
   name: "Fall Fling Wood Dale Criterium"
   lead: "Road-cycling season finale races for rider of all ages and ability levels"
   dates:
-    - 2022-10-25
+    - 2022-09-25
   url: "/public/pdf/Flyer-2022-FallFlingWoodDaleCrit.pdf"
 #- slug: indoortt
 #  name: "Indoor Time Trial Series"
