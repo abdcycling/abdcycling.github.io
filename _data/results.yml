@@ -1,3 +1,8 @@
+- name: "Kaneville Time Trial Series"
+  loc: "Kaneville, IL"
+  body: "ABR"
+  date: 2022-08-21
+  url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vT64j0W4L8RyXDKk3KcAFWqREfjplRdDQ934SDjPlEr2LfhpM5Uh2pI6yotzKPSjqiYM_ztQ0YNpFih/pubhtml"
 - name: "ABD eCycling Illinois State Championship TT"
   loc: "Online"
   body: "ABR"

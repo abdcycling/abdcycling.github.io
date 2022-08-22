@@ -59,12 +59,14 @@
   dates:
     - 2022-09-24
   url: "/public/pdf/Flyer-2022-FallFlingNorthAuroraCrit.pdf"
+  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vR4EtzXcnfDtdMU2l1zTLXTgy1KwjUW5SLjHUGQBCAwwKYaWUFw8AwaDA4JLodwGoce6LVE2KyDUCXp/pubhtml"
 - slug: fallflingcrit2
   name: "Fall Fling Wood Dale Criterium"
   lead: "Road-cycling season finale races for rider of all ages and ability levels"
   dates:
     - 2022-09-25
   url: "/public/pdf/Flyer-2022-FallFlingWoodDaleCrit.pdf"
+  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vT-GojetaaafJX_omComYFqXfjDdOKBkZmpdPzIwUQ3LxNPTG7eps3_6hU1eH3FJFWZ5jRJdHjySkqT/pubhtml"
 #- slug: indoortt
 #  name: "Indoor Time Trial Series"
 #  lead: "The Mid America Time Trial (MATTS) season-opening events"
