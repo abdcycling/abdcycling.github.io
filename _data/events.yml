@@ -1,3 +1,10 @@
+- slug: alstearn2022
+  name: "Al Stearn Road Race"
+  dates:
+    - 2022-09-17
+  url: "/public/pdf/Flyer-2022-Al-Stearn.pdf"
+  #reglink: "https://www.bikereg.com/alsternroadrace"
+  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSgkeEC_NaGehJEebP8iiJnFtcXOAxPN6zNpF6_V8rr5W6psAGy_DIFsSPRqM6Z9AXGCj90Jh_5gL8d/pubhtml"
 - slug: virtualtt
   name: "2022 MATTS ABD Virtual Time Trial"
   lead: "2022 ABD Unofficial Illinois eCycling State Time Trial Championship"
@@ -72,7 +79,8 @@
   dates:
     - 2022-09-17
   url: "/public/pdf/Flyer-2022-Al-Stearn.pdf"
-  reglink: "https://www.bikereg.com/alsternroadrace"
+  #reglink: "https://www.bikereg.com/alsternroadrace"
+  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSgkeEC_NaGehJEebP8iiJnFtcXOAxPN6zNpF6_V8rr5W6psAGy_DIFsSPRqM6Z9AXGCj90Jh_5gL8d/pubhtml"
 #- slug: indoortt
 #  name: "Indoor Time Trial Series"
 #  lead: "The Mid America Time Trial (MATTS) season-opening events"
