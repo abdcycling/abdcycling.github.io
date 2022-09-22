@@ -1,3 +1,8 @@
+- name: "Fall Fling"
+  loc: "Kane County, IL"
+  body: "ABR"
+  date: 2022-09-25
+  url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRBqhawbmlCtR7zvlFnfHZVg_mjhFoicn_LepBS9IJwtiX72HXUdVvVzE3Fl0PeAWMQWH_IGxY5Eyet/pubhtml"
 - name: "Kaneville Time Trial Series"
   loc: "Kaneville, IL"
   body: "ABR"
