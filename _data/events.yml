@@ -74,13 +74,6 @@
     - 2022-09-25
   url: "/public/pdf/Flyer-2022-FallFlingWoodDaleCrit.pdf"
   startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vT-GojetaaafJX_omComYFqXfjDdOKBkZmpdPzIwUQ3LxNPTG7eps3_6hU1eH3FJFWZ5jRJdHjySkqT/pubhtml"
-- slug: alstearn2022
-  name: "Al Stearn Road Race"
-  dates:
-    - 2022-09-17
-  url: "/public/pdf/Flyer-2022-Al-Stearn.pdf"
-  #reglink: "https://www.bikereg.com/alsternroadrace"
-  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSgkeEC_NaGehJEebP8iiJnFtcXOAxPN6zNpF6_V8rr5W6psAGy_DIFsSPRqM6Z9AXGCj90Jh_5gL8d/pubhtml"
 #- slug: indoortt
 #  name: "Indoor Time Trial Series"
 #  lead: "The Mid America Time Trial (MATTS) season-opening events"
