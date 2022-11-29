@@ -23,6 +23,6 @@ author:
 version: 2019.06.09
 github:
   repo: github.com/abdcycling/abdcycling.github.io
-gems:
+plugins:
 - jekyll-sitemap
 - jekyll-paginate
