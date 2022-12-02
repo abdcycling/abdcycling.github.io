@@ -74,12 +74,15 @@
     - 2022-09-25
   url: "/public/pdf/Flyer-2022-FallFlingWoodDaleCrit.pdf"
   startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vT-GojetaaafJX_omComYFqXfjDdOKBkZmpdPzIwUQ3LxNPTG7eps3_6hU1eH3FJFWZ5jRJdHjySkqT/pubhtml"
-#- slug: indoortt
-#  name: "Indoor Time Trial Series"
-#  lead: "The Mid America Time Trial (MATTS) season-opening events"
-#  dates:
-#    - TBD
-#  url: "/events/indoortt"
+- slug: indoortt
+  name: "eSports Indoor Time Trial Series"
+  lead: "The Mid America Time Trial (MATTS) season-opening events"
+  dates:
+    - 2023-01-14
+    - 2023-01-28
+    - 2023-02-11
+    - 2023-02-25
+  url: "/events/indoortt"
 #- slug: masters
 #  name: "Master&rsquo;s Memorial Day Weekend"
 #  lead: "Master-level races for riders 30 years and older at all ability levels"
