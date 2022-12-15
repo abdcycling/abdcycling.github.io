@@ -1,79 +1,3 @@
-- slug: alstearn2022
-  name: "Al Stearn Road Race"
-  dates:
-    - 2022-09-17
-  url: "/public/pdf/Flyer-2022-Al-Stearn.pdf"
-  #reglink: "https://www.bikereg.com/alsternroadrace"
-  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSgkeEC_NaGehJEebP8iiJnFtcXOAxPN6zNpF6_V8rr5W6psAGy_DIFsSPRqM6Z9AXGCj90Jh_5gL8d/pubhtml"
-- slug: virtualtt
-  name: "2022 MATTS ABD Virtual Time Trial"
-  lead: "2022 ABD Unofficial Illinois eCycling State Time Trial Championship"
-  dates:
-    - TBD
-  url: "/public/pdf/Flyer-2022-Virtual-TT.pdf"
-  reglink: "https://www.bikereg.com/abdvirtualtt"
-- slug: jfmtt
-  #name: "Indoor Time Trial Series - JFMTT"
-  name: "John Fraser Memorial Time Trial"
-  lead: "The Mid America Time Trial (MATTS) season-opening events"
-  dates:
-    - TBD
-  url: "/public/pdf/Flyer-2022-JFMTT.pdf"
-  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRf7xIBd8U8mLuWgyv_6nVZuhI4s3XP-Hd8U4yvCanwbdR2WbfVhJMxIjGx2kwVtNOad6JNOgacKSvR/pubhtml"
-  #url: "/events/indoortt"  
-  reglink: "https://www.bikereg.com/john-fraser-memorial-time-trail"
-- slug: auroramasters
-  name: "North Aurora Master's Criterium"
-  lead: "Master's only races, 30 years and older"
-  reglink: "https://www.bikereg.com/northauroracriterium"
-  dates:
-    - 2022-05-28
-  url: "/public/pdf/Flyer-2022-AuroraMasters.pdf"
-  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRdhhwjR_GFdQ45S8uM9KoG4mIizgJyS9ZAfSztv7DJFxGW_C4QgeFVkQBx3sNjLYhKs1wYmCtJwXwF/pubhtml"
-- slug: kaneville1
-  name: "Kaneville Time Trial 1"
-  lead: "3 Time Trial Series"
-  dates:
-    - 2022-05-29
-  url: "/public/pdf/Flyer-2022-KanevilleTT.pdf"
-  #reglink: "https://www.bikereg.com/abdkanevillett1"
-  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vT64j0W4L8RyXDKk3KcAFWqREfjplRdDQ934SDjPlEr2LfhpM5Uh2pI6yotzKPSjqiYM_ztQ0YNpFih/pubhtml"
-- slug: kaneville2
-  name: "Kaneville Time Trial 2"
-  lead: "3 Time Trial Series"
-  dates:
-    - 2022-06-26
-  url: "/public/pdf/Flyer-2022-KanevilleTT.pdf"
-  #reglink: "https://www.bikereg.com/abdkanevillett2"
-  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vT64j0W4L8RyXDKk3KcAFWqREfjplRdDQ934SDjPlEr2LfhpM5Uh2pI6yotzKPSjqiYM_ztQ0YNpFih/pubhtml"
-- slug: kaneville3
-  name: "Kaneville Time Trial 3"
-  lead: "3 Time Trial Series"
-  dates:
-    - 2022-08-21
-  url: "/public/pdf/Flyer-2022-KanevilleTT.pdf"
-  reglink: "https://www.bikereg.com/abdkanevillett3"
-- slug: fallflingtt
-  name: "Fall Fling Maple Park Time Trial"
-  lead: "Road-cycling season finale races for rider of all ages and ability levels"
-  dates:
-    - 2022-09-18
-  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQobZijUZX5BEkbpWmcppWXWGyaD6w5gGFz_jjpcMIhL4LZt7VN6rFtvaISCki0GL1KV_QmeFs1JoDi/pubhtml"
-  url: "/public/pdf/Flyer-2022-FallFlingMapleParkTT.pdf"
-- slug: fallflingcrit1
-  name: "Fall Fling North Aurora Criterium"
-  lead: "Road-cycling season finale races for rider of all ages and ability levels"
-  dates:
-    - 2022-09-24
-  url: "/public/pdf/Flyer-2022-FallFlingNorthAuroraCrit.pdf"
-  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vR4EtzXcnfDtdMU2l1zTLXTgy1KwjUW5SLjHUGQBCAwwKYaWUFw8AwaDA4JLodwGoce6LVE2KyDUCXp/pubhtml"
-- slug: fallflingcrit2
-  name: "Fall Fling Wood Dale Criterium"
-  lead: "Road-cycling season finale races for rider of all ages and ability levels"
-  dates:
-    - 2022-09-25
-  url: "/public/pdf/Flyer-2022-FallFlingWoodDaleCrit.pdf"
-  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vT-GojetaaafJX_omComYFqXfjDdOKBkZmpdPzIwUQ3LxNPTG7eps3_6hU1eH3FJFWZ5jRJdHjySkqT/pubhtml"
 - slug: indoortt
   name: "eSports Indoor Time Trial Series"
   lead: "The Mid America Time Trial (MATTS) season-opening events"
@@ -83,6 +7,82 @@
     - 2023-02-11
     - 2023-02-25
   url: "/public/pdf/Flyer-2023-eSport.pdf"
+#- slug: alstearn2022
+#  name: "Al Stearn Road Race"
+#  dates:
+#    - TBD
+#  url: "/public/pdf/Flyer-2022-Al-Stearn.pdf"
+#  #reglink: "https://www.bikereg.com/alsternroadrace"
+#  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSgkeEC_NaGehJEebP8iiJnFtcXOAxPN6zNpF6_V8rr5W6psAGy_DIFsSPRqM6Z9AXGCj90Jh_5gL8d/pubhtml"
+#- slug: virtualtt
+#  name: "2022 MATTS ABD Virtual Time Trial"
+#  lead: "2022 ABD Unofficial Illinois eCycling State Time Trial Championship"
+#  dates:
+#    - TBD
+#  url: "/public/pdf/Flyer-2022-Virtual-TT.pdf"
+#  reglink: "https://www.bikereg.com/abdvirtualtt"
+#- slug: jfmtt
+#  #name: "Indoor Time Trial Series - JFMTT"
+#  name: "John Fraser Memorial Time Trial"
+#  lead: "The Mid America Time Trial (MATTS) season-opening events"
+#  dates:
+#    - TBD
+#  url: "/public/pdf/Flyer-2022-JFMTT.pdf"
+#  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRf7xIBd8U8mLuWgyv_6nVZuhI4s3XP-Hd8U4yvCanwbdR2WbfVhJMxIjGx2kwVtNOad6JNOgacKSvR/pubhtml"
+#  #url: "/events/indoortt"  
+#  reglink: "https://www.bikereg.com/john-fraser-memorial-time-trail"
+#- slug: auroramasters
+#  name: "North Aurora Master's Criterium"
+#  lead: "Master's only races, 30 years and older"
+#  reglink: "https://www.bikereg.com/northauroracriterium"
+#  dates:
+#    - TBD
+#  url: "/public/pdf/Flyer-2022-AuroraMasters.pdf"
+#  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRdhhwjR_GFdQ45S8uM9KoG4mIizgJyS9ZAfSztv7DJFxGW_C4QgeFVkQBx3sNjLYhKs1wYmCtJwXwF/pubhtml"
+#- slug: kaneville1
+#  name: "Kaneville Time Trial 1"
+#  lead: "3 Time Trial Series"
+#  dates:
+#    - TBD
+#  url: "/public/pdf/Flyer-2022-KanevilleTT.pdf"
+#  #reglink: "https://www.bikereg.com/abdkanevillett1"
+#  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vT64j0W4L8RyXDKk3KcAFWqREfjplRdDQ934SDjPlEr2LfhpM5Uh2pI6yotzKPSjqiYM_ztQ0YNpFih/pubhtml"
+#- slug: kaneville2
+#  name: "Kaneville Time Trial 2"
+#  lead: "3 Time Trial Series"
+#  dates:
+#    - TBD
+#  url: "/public/pdf/Flyer-2022-KanevilleTT.pdf"
+#  #reglink: "https://www.bikereg.com/abdkanevillett2"
+#  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vT64j0W4L8RyXDKk3KcAFWqREfjplRdDQ934SDjPlEr2LfhpM5Uh2pI6yotzKPSjqiYM_ztQ0YNpFih/pubhtml"
+#- slug: kaneville3
+#  name: "Kaneville Time Trial 3"
+#  lead: "3 Time Trial Series"
+#  dates:
+#    - TBD
+#  url: "/public/pdf/Flyer-2022-KanevilleTT.pdf"
+#  reglink: "https://www.bikereg.com/abdkanevillett3"
+#- slug: fallflingtt
+#  name: "Fall Fling Maple Park Time Trial"
+#  lead: "Road-cycling season finale races for rider of all ages and ability levels"
+#  dates:
+#    - TBD
+#  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQobZijUZX5BEkbpWmcppWXWGyaD6w5gGFz_jjpcMIhL4LZt7VN6rFtvaISCki0GL1KV_QmeFs1JoDi/pubhtml"
+#  url: "/public/pdf/Flyer-2022-FallFlingMapleParkTT.pdf"
+#- slug: fallflingcrit1
+#  name: "Fall Fling North Aurora Criterium"
+#  lead: "Road-cycling season finale races for rider of all ages and ability levels"
+#  dates:
+#    - TBD
+#  url: "/public/pdf/Flyer-2022-FallFlingNorthAuroraCrit.pdf"
+#  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vR4EtzXcnfDtdMU2l1zTLXTgy1KwjUW5SLjHUGQBCAwwKYaWUFw8AwaDA4JLodwGoce6LVE2KyDUCXp/pubhtml"
+#- slug: fallflingcrit2
+#  name: "Fall Fling Wood Dale Criterium"
+#  lead: "Road-cycling season finale races for rider of all ages and ability levels"
+#  dates:
+#    - TBD
+#  url: "/public/pdf/Flyer-2022-FallFlingWoodDaleCrit.pdf"
+#  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vT-GojetaaafJX_omComYFqXfjDdOKBkZmpdPzIwUQ3LxNPTG7eps3_6hU1eH3FJFWZ5jRJdHjySkqT/pubhtml"
 #- slug: masters
 #  name: "Master&rsquo;s Memorial Day Weekend"
 #  lead: "Master-level races for riders 30 years and older at all ability levels"
