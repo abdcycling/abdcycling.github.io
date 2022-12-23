@@ -8,6 +8,17 @@
     - 2023-02-25
   url: "/public/pdf/Flyer-2023-eSport.pdf"
   reglink: "https://www.bikereg.com/58328"
+- slug: esports
+  name: "ABD eSports Winter Cycling Series"
+  lead: "Road Race Practice Race Schedule"
+  dates:
+    - 2022-12-24
+    - 2022-12-27
+    - 2022-12-29
+    - 2022-12-31
+    - 2023-01-03
+    - 2023-01-05
+  url: "/public/pdf/ABR-eSports-Practice-Schedule-2023.pdf"
 #- slug: alstearn2022
 #  name: "Al Stearn Road Race"
 #  dates:
