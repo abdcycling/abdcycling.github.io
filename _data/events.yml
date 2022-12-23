@@ -1,13 +1,3 @@
-- slug: indoortt
-  name: "eSports Indoor Time Trial Series"
-  lead: "The Mid America Time Trial (MATTS) season-opening events"
-  dates:
-    - 2023-01-14
-    - 2023-01-28
-    - 2023-02-11
-    - 2023-02-25
-  url: "/public/pdf/Flyer-2023-eSport.pdf"
-  reglink: "https://www.bikereg.com/58328"
 - slug: esports
   name: "ABD eSports Winter Cycling Series"
   lead: "Road Race Practice Race Schedule"
@@ -19,6 +9,16 @@
     - 2023-01-03
     - 2023-01-05
   url: "/public/pdf/ABR-eSports-Practice-Schedule-2023.pdf"
+- slug: indoortt
+  name: "eSports Indoor Time Trial Series"
+  lead: "The Mid America Time Trial (MATTS) season-opening events"
+  dates:
+    - 2023-01-14
+    - 2023-01-28
+    - 2023-02-11
+    - 2023-02-25
+  url: "/public/pdf/Flyer-2023-eSport.pdf"
+  reglink: "https://www.bikereg.com/58328"
 #- slug: alstearn2022
 #  name: "Al Stearn Road Race"
 #  dates:
