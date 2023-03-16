@@ -3,9 +3,8 @@
   lead: "The Mid America Time Trial (MATTS) season-opening events"
   dates:
     - 2023-04-16
+  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSuLbPAHxXDVy-jiq-uB2C1Xsioqyb6pf83FJiwKPX5t6xpzjuNU3jxUM6E9U2fomRtislpuWTQlPmN/pubhtml"
 #  url: "/public/pdf/Flyer-2022-JFMTT.pdf"
-#  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRf7xIBd8U8mLuWgyv_6nVZuhI4s3XP-Hd8U4yvCanwbdR2WbfVhJMxIjGx2kwVtNOad6JNOgacKSvR/pubhtml"
-#  url: "/events/indoortt"  
 - slug: auroramasters
   name: "North Aurora Master's Criterium"
   lead: "Master's only races, 30 years and older"
