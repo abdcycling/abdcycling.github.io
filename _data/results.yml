@@ -1,3 +1,12 @@
+- name: "North Aurora Criterium"
+  loc: "Aurora, IL"
+  body: "ABR"
+  date: 2023-05-27
+  url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRBkUT7tmo63Fnlo5QasjkvOjv8p1Px7BOz11fQbhOYYtk7OruLzybH4VsVEOymkPm0cgiUjHqeaQ4K/pubhtml"
+- name: "Kaneville Time Trial"
+  loc: "Kaneville, IL"
+  body: "ABR"
+  url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTgzgv0ZA81qaPerDubE39f8nujHcDJkPgzLZSKtGfdGf6xRy1waR1qRBAel4Y5u7vNIkKMvAI9XgEM/pubhtml"
 - name: "eSports State Final"
   loc: "Aurora, IL"
   body: "ABR"

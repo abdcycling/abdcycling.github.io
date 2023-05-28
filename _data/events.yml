@@ -12,7 +12,7 @@
     - 2023-05-27
 #  reglink: "https://www.bikereg.com/northauroracriterium"
 #  url: "/public/pdf/Flyer-2022-AuroraMasters.pdf"
-#  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRdhhwjR_GFdQ45S8uM9KoG4mIizgJyS9ZAfSztv7DJFxGW_C4QgeFVkQBx3sNjLYhKs1wYmCtJwXwF/pubhtml"
+  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRBkUT7tmo63Fnlo5QasjkvOjv8p1Px7BOz11fQbhOYYtk7OruLzybH4VsVEOymkPm0cgiUjHqeaQ4K/pubhtml"
 - slug: kaneville1
   name: "Kaneville Time Trial 1"
   lead: "3 Time Trial Series"
@@ -20,7 +20,7 @@
     - 2023-05-28
 #  url: "/public/pdf/Flyer-2022-KanevilleTT.pdf"
 #  reglink: "https://www.bikereg.com/abdkanevillett1"
-#  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vT64j0W4L8RyXDKk3KcAFWqREfjplRdDQ934SDjPlEr2LfhpM5Uh2pI6yotzKPSjqiYM_ztQ0YNpFih/pubhtml"
+  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTgzgv0ZA81qaPerDubE39f8nujHcDJkPgzLZSKtGfdGf6xRy1waR1qRBAel4Y5u7vNIkKMvAI9XgEM/pubhtml"
 - slug: kaneville2
   name: "Kaneville Time Trial 2"
   lead: "3 Time Trial Series"
