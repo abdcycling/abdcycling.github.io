@@ -26,7 +26,7 @@
   lead: "3 Time Trial Series"
   dates:
     - 2023-06-25
-#  url: "/public/pdf/Flyer-2022-KanevilleTT.pdf"
+  url: "/public/pdf/Flyer-2023-KanevilleTT.pdf"
 #  reglink: "https://www.bikereg.com/abdkanevillett1"
 #  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vT64j0W4L8RyXDKk3KcAFWqREfjplRdDQ934SDjPlEr2LfhpM5Uh2pI6yotzKPSjqiYM_ztQ0YNpFih/pubhtml"
 - slug: kaneville3
@@ -34,14 +34,14 @@
   lead: "3 Time Trial Series"
   dates:
     - 2023-08-20
-#  url: "/public/pdf/Flyer-2022-KanevilleTT.pdf"
+  url: "/public/pdf/Flyer-2023-KanevilleTT.pdf"
 #  reglink: "https://www.bikereg.com/abdkanevillett1"
 #  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vT64j0W4L8RyXDKk3KcAFWqREfjplRdDQ934SDjPlEr2LfhpM5Uh2pI6yotzKPSjqiYM_ztQ0YNpFih/pubhtml"
 - slug: alstearn2022
   name: "Al Stearn Road Race"
   dates:
     - 2023-09-16
-#  url: "/public/pdf/Flyer-2022-Al-Stearn.pdf"
+  url: "/public/pdf/Flyer-2023-Al-Stearn.pdf"
 #  reglink: "https://www.bikereg.com/alsternroadrace"
 #  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSgkeEC_NaGehJEebP8iiJnFtcXOAxPN6zNpF6_V8rr5W6psAGy_DIFsSPRqM6Z9AXGCj90Jh_5gL8d/pubhtml"
 - slug: fallflingtt
