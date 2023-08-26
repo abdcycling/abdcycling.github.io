@@ -41,7 +41,7 @@
   name: "Al Stearn Road Race"
   dates:
     - 2023-09-16
-  url: "/public/pdf/Flyer-2023-Al-Stearn.pdf"
+  url: "/public/pdf/Flyer-2023-FallFlingAlStearnRoadRace.pdf"
 #  reglink: "https://www.bikereg.com/alsternroadrace"
 #  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSgkeEC_NaGehJEebP8iiJnFtcXOAxPN6zNpF6_V8rr5W6psAGy_DIFsSPRqM6Z9AXGCj90Jh_5gL8d/pubhtml"
 - slug: fallflingtt
@@ -63,7 +63,7 @@
   lead: "Road-cycling season finale races for rider of all ages and ability levels"
   dates:
     - 2023-09-24
-#  url: "/public/pdf/Flyer-2022-FallFlingWoodDaleCrit.pdf"
+  url: "/public/pdf/Flyer-2023-FallFlingWoodDaleCrit.pdf"
 #  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vT-GojetaaafJX_omComYFqXfjDdOKBkZmpdPzIwUQ3LxNPTG7eps3_6hU1eH3FJFWZ5jRJdHjySkqT/pubhtml"
 #- slug: indoortt
 #  name: "eSports Indoor Time Trial Series"
