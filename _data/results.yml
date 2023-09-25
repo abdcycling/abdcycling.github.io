@@ -1,3 +1,13 @@
+- name: "Fall Fling ABR Wood Dale Illinois Criterium Championship"
+  loc: "Wood Dale, IL"
+  body: "ABR"
+  date: 2023-09-24
+  url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTsCV9PG3WWOq-A2UX5ama8iNuCSrm0ZSn922EmWU0w7xO91f6Uw66ykJiKFmMuZukV_HWddjLnd2Aw/pubhtml"
+- name: "North Aurora Fall Fling Criterium"
+  loc: "North Aurora, IL"
+  body: "ABR"
+  date: 2023-09-23
+  url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRtrDg4BqP2TQ-NNJtmwqJeq22LK_cFsuBEYM64zpV1b8we0AVpnFKPAPEQ5IWvC09lY0VEH9oGt72P/pubhtml"
 - name: "Fall Fling Time Trial"
   loc: "Maple Park, IL"
   body: "ABR"
@@ -9,7 +19,7 @@
   date: 2023-09-16
   url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTmjwuf_ZSPTnJyU5Fll4RUqb5kXMSbDSYarPhMn8Xyr-U81w8iUpCbtNbHcSJp14Yw-0RL0ZmG_K9u/pubhtml"
 - name: "North Aurora Criterium"
-  loc: "Aurora, IL"
+  loc: "North Aurora, IL"
   body: "ABR"
   date: 2023-05-27
   url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRBkUT7tmo63Fnlo5QasjkvOjv8p1Px7BOz11fQbhOYYtk7OruLzybH4VsVEOymkPm0cgiUjHqeaQ4K/pubhtml"
@@ -19,7 +29,7 @@
   date: 2023-05-28
   url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTgzgv0ZA81qaPerDubE39f8nujHcDJkPgzLZSKtGfdGf6xRy1waR1qRBAel4Y5u7vNIkKMvAI9XgEM/pubhtml"
 - name: "eSports State Final"
-  loc: "Aurora, IL"
+  loc: "North Aurora, IL"
   body: "ABR"
   date: 2023-02-25
   url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSsesaMFHzqH20Xj50kBkOq6Dzb04CDLI7k2gI8knWUKtIrVaiRhbju8pdr6LN2zA/pubhtml"
