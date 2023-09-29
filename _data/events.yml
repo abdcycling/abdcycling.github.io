@@ -32,7 +32,7 @@
   url: "/public/pdf/Flyer-2022-KanevilleTT.pdf"
   reglink: "https://www.bikereg.com/abdkanevillett1"
   startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTgzgv0ZA81qaPerDubE39f8nujHcDJkPgzLZSKtGfdGf6xRy1waR1qRBAel4Y5u7vNIkKMvAI9XgEM/pubhtml"
- - slug: kaneville2
+- slug: kaneville2
    name: "Kaneville Time Trial 2"
    lead: "3 Time Trial Series"
    dates:
@@ -40,7 +40,7 @@
    url: "/public/pdf/Flyer-2023-KanevilleTT.pdf"
    reglink: "https://www.bikereg.com/abdkanevillett1-2023"
    startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vT64j0W4L8RyXDKk3KcAFWqREfjplRdDQ934SDjPlEr2LfhpM5Uh2pI6yotzKPSjqiYM_ztQ0YNpFih/pubhtml"
- - slug: kaneville3
+- slug: kaneville3
    name: "Kaneville Time Trial 3"
    lead: "3 Time Trial Series"
    dates:
@@ -83,6 +83,12 @@
   dates:
     - 2023-10-22
   url: "/public/pdf/Flyer-2023-SunriseParkCX.pdf"
+- slug: wiilbanquet
+  name: "2023 WIIL Banquet"
+  lead: "2023 Wisconsin &amp; Illinois Bicycle Racing Awards Banquet"
+  dates:
+    - TBD
+  url: "/public/pdf/Flyer-2021-WIILBanquet.pdf"
 #- slug: masters
 #  name: "Master&rsquo;s Memorial Day Weekend"
 #  lead: "Master-level races for riders 30 years and older at all ability levels"
@@ -102,9 +108,3 @@
 #  dates:
 #    - TBD
 #  url: "/events/fallfling/"
-#- slug: wiilbanquet
-#  name: "2022 WIIL Banquet"
-#  lead: "2022 Wisconsin &amp; Illinois Bicycle Racing Awards Banquet"
-#  dates:
-#    - TBD
-#  url: "/public/pdf/Flyer-2021-WIILBanquet.pdf"
