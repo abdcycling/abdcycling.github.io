@@ -1,3 +1,4 @@
+---
 - slug: indoortt
   name: "eSports Indoor Time Trial Series"
   lead: "The Mid America Time Trial (MATTS) season-opening events"
@@ -57,7 +58,7 @@
   startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTmjwuf_ZSPTnJyU5Fll4RUqb5kXMSbDSYarPhMn8Xyr-U81w8iUpCbtNbHcSJp14Yw-0RL0ZmG_K9u/pubhtml"
 - slug: fallflingtt
   name: "Fall Fling Maple Park Time Trial"
-  lead: "Road-cycling season finale races for rider of all ages and ability levels"
+  lead: "Road-cycling season finale for riders of all ages and skill levels"
   dates:
     - 2023-09-17
   reglink: "https://www.bikereg.com/fallflingmapleparktt"
@@ -65,14 +66,14 @@
   startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRrUytt70SXhNtP0DGLyphI8W1AsbEa6CNJcPd2iCV7U4Yxb5EGViI8okt7SBBi1YXEgS9OhOQr3wmS/pubhtml"
 - slug: fallflingcrit1
   name: "Fall Fling North Aurora Criterium"
-  lead: "Road-cycling season finale races for rider of all ages and ability levels"
+  lead: "Road-cycling season finale for riders of all ages and skill levels"
   dates:
     - 2023-09-23
   reglink: "https://www.bikereg.com/northauroracriterium"
   url: "/public/pdf/Flyer-2023-FallFlingNorthAuroraCrit.pdf"
 - slug: fallflingcrit2
   name: "Fall Fling Wood Dale Criterium"
-  lead: "Road-cycling season finale races for rider of all ages and ability levels"
+  lead: "Road-cycling season finale for riders of all ages and skill levels"
   dates:
     - 2023-09-24
   url: "/public/pdf/Flyer-2023-FallFlingWoodDaleCrit.pdf"
@@ -89,22 +90,22 @@
   dates:
     - TBD
   url: "/public/pdf/Flyer-2021-WIILBanquet.pdf"
-#- slug: masters
-#  name: "Master&rsquo;s Memorial Day Weekend"
-#  lead: "Master-level races for riders 30 years and older at all ability levels"
-#  dates:
-#    - TBD
-#  url: "/events/masters/"
-#- slug: winfield
-#  name: "Winfield Criterium"
-#  lead: "Races for riders of all ages and ability levels through a cycling-friendly neighborhood"
-#  dates:
-#    - TBD
-#  #url: "http://www.winfieldcriterium.com/"
-#  url: "http://intelligentsiacup.com/schedule/winfield/"
-#- slug: fallfling
-#  name: "Fall Fling Weekend"
-#  lead: "Road-cycling season finale races for riders of all ages and ability levels"
-#  dates:
-#    - TBD
-#  url: "/events/fallfling/"
+# - slug: masters
+#   name: "Master&rsquo;s Memorial Day Weekend"
+#   lead: "Master-level races for those 30 years and older at all skill levels"
+#   dates:
+#     - TBD
+#   url: "/events/masters/"
+# - slug: winfield
+#   name: "Winfield Criterium"
+#   lead: "Races for riders of all ages and skill levels"
+#   dates:
+#     - TBD
+#   #url: "http://www.winfieldcriterium.com/"
+#   url: "http://intelligentsiacup.com/schedule/winfield/"
+# - slug: fallfling
+#   name: "Fall Fling Weekend"
+#   lead: "Road-cycling season finale for riders of all ages and skill levels"
+#   dates:
+#     - TBD
+#   url: "/events/fallfling/"
