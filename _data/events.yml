@@ -33,21 +33,21 @@
   reglink: "https://www.bikereg.com/abdkanevillett1"
   startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTgzgv0ZA81qaPerDubE39f8nujHcDJkPgzLZSKtGfdGf6xRy1waR1qRBAel4Y5u7vNIkKMvAI9XgEM/pubhtml"
 - slug: kaneville2
-   name: "Kaneville Time Trial 2"
-   lead: "3 Time Trial Series"
-   dates:
-     - 2023-06-25
-   url: "/public/pdf/Flyer-2023-KanevilleTT.pdf"
-   reglink: "https://www.bikereg.com/abdkanevillett1-2023"
-   startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vT64j0W4L8RyXDKk3KcAFWqREfjplRdDQ934SDjPlEr2LfhpM5Uh2pI6yotzKPSjqiYM_ztQ0YNpFih/pubhtml"
+  name: "Kaneville Time Trial 2"
+  lead: "3 Time Trial Series"
+  dates:
+    - 2023-06-25
+  url: "/public/pdf/Flyer-2023-KanevilleTT.pdf"
+  reglink: "https://www.bikereg.com/abdkanevillett1-2023"
+  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vT64j0W4L8RyXDKk3KcAFWqREfjplRdDQ934SDjPlEr2LfhpM5Uh2pI6yotzKPSjqiYM_ztQ0YNpFih/pubhtml"
 - slug: kaneville3
-   name: "Kaneville Time Trial 3"
-   lead: "3 Time Trial Series"
-   dates:
-     - 2023-08-20
-   url: "/public/pdf/Flyer-2023-KanevilleTT.pdf"
-   reglink: "https://www.bikereg.com/abdkanevillett1-2023-aug-20"
-   startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vT64j0W4L8RyXDKk3KcAFWqREfjplRdDQ934SDjPlEr2LfhpM5Uh2pI6yotzKPSjqiYM_ztQ0YNpFih/pubhtml"
+  name: "Kaneville Time Trial 3"
+  lead: "3 Time Trial Series"
+  dates:
+    - 2023-08-20
+  url: "/public/pdf/Flyer-2023-KanevilleTT.pdf"
+  reglink: "https://www.bikereg.com/abdkanevillett1-2023-aug-20"
+  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vT64j0W4L8RyXDKk3KcAFWqREfjplRdDQ934SDjPlEr2LfhpM5Uh2pI6yotzKPSjqiYM_ztQ0YNpFih/pubhtml"
 - slug: alstearn2022
   name: "Al Stearn Road Race"
   dates:
