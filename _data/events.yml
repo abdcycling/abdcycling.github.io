@@ -3,10 +3,7 @@
   name: "eSports Indoor Time Trial Series"
   lead: "The Mid America Time Trial (MATTS) season-opening events"
   dates:
-    - 2023-01-14
-    - 2023-01-28
-    - 2023-02-11
-    - 2023-02-25
+    - TBD
   url: "/public/pdf/Flyer-2023-eSport.pdf"
   startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSsesaMFHzqH20Xj50kBkOq6Dzb04CDLI7k2gI8knWUKtIrVaiRhbju8pdr6LN2zA/pubhtml"
   reglink: "https://www.bikereg.com/58328"
@@ -14,14 +11,14 @@
   name: "John Fraser Memorial Time Trial"
   lead: "The Mid America Time Trial (MATTS) season-opening events"
   dates:
-    - 2023-04-16
+    - TBD
   startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSuLbPAHxXDVy-jiq-uB2C1Xsioqyb6pf83FJiwKPX5t6xpzjuNU3jxUM6E9U2fomRtislpuWTQlPmN/pubhtml"
   url: "/public/pdf/Flyer-2022-JFMTT.pdf"
 - slug: auroramasters
   name: "North Aurora Master's Criterium"
   lead: "Master's only races, 30 years and older"
   dates:
-    - 2023-05-27
+    - TBD
   reglink: "https://www.bikereg.com/northauroracriterium"
   url: "/public/pdf/Flyer-2022-AuroraMasters.pdf"
   startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRBkUT7tmo63Fnlo5QasjkvOjv8p1Px7BOz11fQbhOYYtk7OruLzybH4VsVEOymkPm0cgiUjHqeaQ4K/pubhtml"
@@ -29,7 +26,7 @@
   name: "Kaneville Time Trial 1"
   lead: "3 Time Trial Series"
   dates:
-    - 2023-05-28
+    - TBD
   url: "/public/pdf/Flyer-2022-KanevilleTT.pdf"
   reglink: "https://www.bikereg.com/abdkanevillett1"
   startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTgzgv0ZA81qaPerDubE39f8nujHcDJkPgzLZSKtGfdGf6xRy1waR1qRBAel4Y5u7vNIkKMvAI9XgEM/pubhtml"
@@ -37,7 +34,7 @@
   name: "Kaneville Time Trial 2"
   lead: "3 Time Trial Series"
   dates:
-    - 2023-06-25
+    - TBD
   url: "/public/pdf/Flyer-2023-KanevilleTT.pdf"
   reglink: "https://www.bikereg.com/abdkanevillett1-2023"
   startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vT64j0W4L8RyXDKk3KcAFWqREfjplRdDQ934SDjPlEr2LfhpM5Uh2pI6yotzKPSjqiYM_ztQ0YNpFih/pubhtml"
@@ -45,14 +42,14 @@
   name: "Kaneville Time Trial 3"
   lead: "3 Time Trial Series"
   dates:
-    - 2023-08-20
+    - TBD
   url: "/public/pdf/Flyer-2023-KanevilleTT.pdf"
   reglink: "https://www.bikereg.com/abdkanevillett1-2023-aug-20"
   startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vT64j0W4L8RyXDKk3KcAFWqREfjplRdDQ934SDjPlEr2LfhpM5Uh2pI6yotzKPSjqiYM_ztQ0YNpFih/pubhtml"
 - slug: alstearn2022
   name: "Al Stearn Road Race"
   dates:
-    - 2023-09-16
+    - TBD
   url: "/public/pdf/Flyer-2023-FallFlingAlStearnRoadRace.pdf"
   reglink: "https://www.bikereg.com/alsternroadrace"
   startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTmjwuf_ZSPTnJyU5Fll4RUqb5kXMSbDSYarPhMn8Xyr-U81w8iUpCbtNbHcSJp14Yw-0RL0ZmG_K9u/pubhtml"
@@ -60,7 +57,7 @@
   name: "Fall Fling Maple Park Time Trial"
   lead: "Road-cycling season finale for riders of all ages and skill levels"
   dates:
-    - 2023-09-17
+    - TBD
   reglink: "https://www.bikereg.com/fallflingmapleparktt"
   url: "/public/pdf/Flyer-2023-FallFlingMapleParkTT.pdf"
   startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRrUytt70SXhNtP0DGLyphI8W1AsbEa6CNJcPd2iCV7U4Yxb5EGViI8okt7SBBi1YXEgS9OhOQr3wmS/pubhtml"
@@ -68,27 +65,27 @@
   name: "Fall Fling North Aurora Criterium"
   lead: "Road-cycling season finale for riders of all ages and skill levels"
   dates:
-    - 2023-09-23
+    - TBD
   reglink: "https://www.bikereg.com/northauroracriterium"
   url: "/public/pdf/Flyer-2023-FallFlingNorthAuroraCrit.pdf"
 - slug: fallflingcrit2
   name: "Fall Fling Wood Dale Criterium"
   lead: "Road-cycling season finale for riders of all ages and skill levels"
   dates:
-    - 2023-09-24
+    - TBD
   url: "/public/pdf/Flyer-2023-FallFlingWoodDaleCrit.pdf"
   reglink: "https://www.bikereg.com/wooddalecriterium"
 - slug: abdcross
   name: "Sunrise Park Cyclocross"
   lead: "Part of the Chicago Cyclocross Cup Series"
   dates:
-    - 2023-10-22
+    - TBD
   url: "/public/pdf/Flyer-2023-SunriseParkCX.pdf"
 - slug: wiilbanquet
   name: "2023 WIIL Banquet"
   lead: "2023 Wisconsin &amp; Illinois Bicycle Racing Awards Banquet"
   dates:
-    - 2023-11-18
+    - TBD
   url: "/public/pdf/Flyer-2023-WIILBanquet.pdf"
 # - slug: masters
 #   name: "Master&rsquo;s Memorial Day Weekend"
