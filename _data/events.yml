@@ -9,11 +9,11 @@
   reglink: "https://www.bikereg.com/58328"
 - slug: jfmtt
   name: "John Fraser Memorial Time Trial"
-  lead: "The Mid America Time Trial (MATTS) season-opening events"
+  lead: "The Mid America Time Trial (MATTS) events"
   dates:
-    - TBD
-  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSuLbPAHxXDVy-jiq-uB2C1Xsioqyb6pf83FJiwKPX5t6xpzjuNU3jxUM6E9U2fomRtislpuWTQlPmN/pubhtml"
-  url: "/public/pdf/Flyer-2022-JFMTT.pdf"
+    - 2024-04-21
+  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vShS_bwuY6uDMxr8ioKIZc9r1WFArj6Ggldq945DOjxkNXdzflcyxWnii2st21N8MQhDcesbhWIZF_w/pubhtml"
+  url: "/public/pdf/Flyer-2024-JFMTT.pdf"
 - slug: auroramasters
   name: "North Aurora Master's Criterium"
   lead: "Master's only races, 30 years and older"
