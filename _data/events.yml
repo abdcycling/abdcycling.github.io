@@ -4,9 +4,9 @@
   lead: "The Mid America Time Trial (MATTS) season-opening events"
   dates:
     - TBD
-  url: "/public/pdf/Flyer-2023-eSport.pdf"
   startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSsesaMFHzqH20Xj50kBkOq6Dzb04CDLI7k2gI8knWUKtIrVaiRhbju8pdr6LN2zA/pubhtml"
   reglink: "https://www.bikereg.com/58328"
+  url: "/public/pdf/Flyer-2023-eSport.pdf"
 - slug: jfmtt
   name: "John Fraser Memorial Time Trial"
   lead: "The Mid America Time Trial (MATTS) events"
