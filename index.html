@@ -35,6 +35,7 @@ description: "One of the largest &amp; most successful cycling clubs in the midw
             {% if event.reglink contains '://' %}
             <h5><a href="{{ event.url }}">{{ event.name }}</a> - <a href="{{ event.reglink }}" target="_blank" rel="noopener noreferrer">Registration</a></h5>
             {% endif %}
+            {% endif %}
             {% endfor %}
             {% endfor %}
             <p class="read-more"><a href="/events/">See all events &rarr;</a></p>
