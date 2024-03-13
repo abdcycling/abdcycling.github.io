@@ -12,9 +12,8 @@
   lead: "The Mid America Time Trial (MATTS) events"
   dates:
     - 2024-04-21
-  # startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vShS_bwuY6uDMxr8ioKIZc9r1WFArj6Ggldq945DOjxkNXdzflcyxWnii2st21N8MQhDcesbhWIZF_w/pubhtml"
-  reglink: "https://www.bikereg.com/johnfrasermemorialtt2024"
-  url: "/public/pdf/Flyer-2024-JFMTT.pdf"
+  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vShS_bwuY6uDMxr8ioKIZc9r1WFArj6Ggldq945DOjxkNXdzflcyxWnii2st21N8MQhDcesbhWIZF_w/pubhtml"
+  url: "https://www.bikereg.com/johnfrasermemorialtt2024"
 - slug: auroramasters
   name: "North Aurora Master's Criterium"
   lead: "Master's only races, 30 years and older"
