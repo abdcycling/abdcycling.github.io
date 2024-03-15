@@ -29,24 +29,24 @@
   dates:
     - 2024-05-24
   url: "/public/pdf/Flyer-2024-KanevilleTT.pdf"
-  reglink: "https://www.bikereg.com/abdkanevillett1"
-  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRVJuNu1pHunD8VVsuEB1ffZipDLIycTBnpUlPup5md8QbjxCQFUURxbrPMJCZ81uPwt-Gd6kxzTh5E/pubhtml"
+  reglink: "https://www.bikereg.com/kqokc12024"
+  # startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRVJuNu1pHunD8VVsuEB1ffZipDLIycTBnpUlPup5md8QbjxCQFUURxbrPMJCZ81uPwt-Gd6kxzTh5E/pubhtml"
 - slug: kaneville2
   name: "Kaneville Time Trial 2"
   lead: "3 Time Trial Series"
   dates:
     - 2024-06-30
   url: "/public/pdf/Flyer-2024-KanevilleTT.pdf"
-  reglink: "https://www.bikereg.com/abdkanevillett1-2024"
-  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRVJuNu1pHunD8VVsuEB1ffZipDLIycTBnpUlPup5md8QbjxCQFUURxbrPMJCZ81uPwt-Gd6kxzTh5E/pubhtml"
+  reglink: "https://www.bikereg.com/kqokc2"
+  # startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRVJuNu1pHunD8VVsuEB1ffZipDLIycTBnpUlPup5md8QbjxCQFUURxbrPMJCZ81uPwt-Gd6kxzTh5E/pubhtml"
 - slug: kaneville3
   name: "Kaneville Time Trial 3"
   lead: "3 Time Trial Series"
   dates:
     - 2024-08-18
   url: "/public/pdf/Flyer-2024-KanevilleTT.pdf"
-  reglink: "https://www.bikereg.com/abdkanevillett1-2024"
-  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRVJuNu1pHunD8VVsuEB1ffZipDLIycTBnpUlPup5md8QbjxCQFUURxbrPMJCZ81uPwt-Gd6kxzTh5E/pubhtml"
+  reglink: "https://www.bikereg.com/kqokc3-2024"
+  # startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRVJuNu1pHunD8VVsuEB1ffZipDLIycTBnpUlPup5md8QbjxCQFUURxbrPMJCZ81uPwt-Gd6kxzTh5E/pubhtml"
 - slug: alstearn2022
   name: "Al Stearn Road Race"
   dates:
@@ -59,9 +59,9 @@
   lead: "Road-cycling season finale for riders of all ages and skill levels"
   dates:
     - 2024-10-15
-  reglink: "https://www.bikereg.com/fallflingmapleparktt"
+  reglink: "https://www.bikereg.com/fallflingtt2024"
   url: "/public/pdf/Flyer-2024-FallFlingMapleParkTT.pdf"
-  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRsFh2-ey03RQntgdhVvGngDhF8usT2M8DRvAK5FrTEspdj5KHTEB1F0SoFai6_C22GRoDV4JW3_VAX/pubhtml"
+  # startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRsFh2-ey03RQntgdhVvGngDhF8usT2M8DRvAK5FrTEspdj5KHTEB1F0SoFai6_C22GRoDV4JW3_VAX/pubhtml"
 - slug: fallflingcrit1
   name: "Fall Fling North Aurora Criterium"
   lead: "Road-cycling season finale for riders of all ages and skill levels"
