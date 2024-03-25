@@ -39,6 +39,13 @@
   url: "/public/pdf/Flyer-2024-KanevilleTT.pdf"
   reglink: "https://www.bikereg.com/kqokc2"
   # startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRVJuNu1pHunD8VVsuEB1ffZipDLIycTBnpUlPup5md8QbjxCQFUURxbrPMJCZ81uPwt-Gd6kxzTh5E/pubhtml"
+- slug: velodromett
+  name: "Velodrome 4K Time Trial"
+  lead: "Time Trial on Northbrook's Velodrome"
+  dates:
+    - 2024-08-10
+  url: "/public/pdf/Flyer-2024-VelodromeTT.pdf"
+  reglink: "https://www.bikereg.com/abdpacttracktt2024"
 - slug: kaneville3
   name: "Kaneville Time Trial 3"
   lead: "3 Time Trial Series"
