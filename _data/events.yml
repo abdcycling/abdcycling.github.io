@@ -31,6 +31,18 @@
   url: "/public/pdf/Flyer-2024-KanevilleTT.pdf"
   reglink: "https://www.bikereg.com/kqokc12024"
   # startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRVJuNu1pHunD8VVsuEB1ffZipDLIycTBnpUlPup5md8QbjxCQFUURxbrPMJCZ81uPwt-Gd6kxzTh5E/pubhtml"
+- slug: memorialdayomnium2
+  name: "Memorial Day Omnium #2: N. Aurora Crit"
+  dates:
+    - 2024-05-25
+  url: "/public/pdf/Flyer-2024-MemorialDayOmnium.pdf"
+  reglink: "https://www.bikereg.com/northauroracriterium"
+- slug: memorialdayomnium3
+  name: "Memorial Day Omnium #3: Wood Dale Crit"
+  dates:
+    - 2024-05-26
+  url: "/public/pdf/Flyer-2024-MemorialDayOmnium.pdf"
+  reglink: "https://www.bikereg.com/wooddalecriterium"
 - slug: kaneville2
   name: "Kaneville Time Trial 2"
   lead: "3 Time Trial Series"
@@ -54,18 +66,6 @@
   url: "/public/pdf/Flyer-2024-KanevilleTT.pdf"
   reglink: "https://www.bikereg.com/kqokc3-2024"
   # startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRVJuNu1pHunD8VVsuEB1ffZipDLIycTBnpUlPup5md8QbjxCQFUURxbrPMJCZ81uPwt-Gd6kxzTh5E/pubhtml"
-- slug: memorialdayomnium2
-  name: "Memorial Day Omnium #2: N. Aurora Crit"
-  dates:
-    - 2024-05-25
-  url: "/public/pdf/Flyer-2024-MemorialDayOmnium.pdf"
-  reglink: "https://www.bikereg.com/northauroracriterium"
-- slug: memorialdayomnium3
-  name: "Memorial Day Omnium #3: Wood Dale Crit"
-  dates:
-    - 2024-05-26
-  url: "/public/pdf/Flyer-2024-MemorialDayOmnium.pdf"
-  reglink: "https://www.bikereg.com/wooddalecriterium"
 - slug: alstearn2022
   name: "Al Stearn Road Race"
   dates:
