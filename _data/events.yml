@@ -11,7 +11,7 @@
   name: "John Fraser Memorial Time Trial"
   lead: "The Mid America Time Trial (MATTS) events"
   dates:
-    - 2024-04-21
+    - TBD
   # startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vShS_bwuY6uDMxr8ioKIZc9r1WFArj6Ggldq945DOjxkNXdzflcyxWnii2st21N8MQhDcesbhWIZF_w/pubhtml"
   reglink: "https://www.bikereg.com/johnfrasermemorialtt2024"
   url: "/public/pdf/Flyer-2024-JFMTT.pdf"
@@ -29,20 +29,22 @@
   dates:
     - 2024-05-25
   url: "/public/pdf/Flyer-2024-KanevilleTT.pdf"
-  reglink: "https://www.bikereg.com/kqokc12024"
-  # startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRVJuNu1pHunD8VVsuEB1ffZipDLIycTBnpUlPup5md8QbjxCQFUURxbrPMJCZ81uPwt-Gd6kxzTh5E/pubhtml"
+  #reglink: "https://www.bikereg.com/kqokc12024"
+  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRVJuNu1pHunD8VVsuEB1ffZipDLIycTBnpUlPup5md8QbjxCQFUURxbrPMJCZ81uPwt-Gd6kxzTh5E/pubhtml"
 - slug: memorialdayomnium2
   name: "Memorial Day Omnium #2: N. Aurora Crit"
   dates:
     - 2024-05-25
   url: "/public/pdf/Flyer-2024-MemorialDayOmnium.pdf"
-  reglink: "https://www.bikereg.com/northauroracriterium"
+  #reglink: "https://www.bikereg.com/northauroracriterium"
+  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vS1iNm7G9azaBZiOr9xdUbtvb2R9KH2eLnc75zg4rHcag581LRLgXCqBojFHg64WjgFy9LTu7maz1_n/pubhtml"
 - slug: memorialdayomnium3
   name: "Memorial Day Omnium #3: Wood Dale Crit"
   dates:
     - 2024-05-26
   url: "/public/pdf/Flyer-2024-MemorialDayOmnium.pdf"
-  reglink: "https://www.bikereg.com/wooddalecriterium"
+  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQTKYeoiY8Ary6Zxg6OScVpB1sQqwSmxt3zO5Fo6bSkKKJENP2cXEyZ0QjhBYIqxeHGYmkLBk-bnNLp/pubhtml"
+  #reglink: "https://www.bikereg.com/wooddalecriterium"
 - slug: kaneville2
   name: "Kaneville Time Trial 2"
   lead: "3 Time Trial Series"
