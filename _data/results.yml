@@ -1,3 +1,18 @@
+- name: "ABD Memorial Day Omnium Stage #3 Wood Dale Criterium"
+  loc: "Wood Dale, IL"
+  body: "ABR"
+  date: 2024-05-26
+  url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQTKYeoiY8Ary6Zxg6OScVpB1sQqwSmxt3zO5Fo6bSkKKJENP2cXEyZ0QjhBYIqxeHGYmkLBk-bnNLp/pubhtml"
+- name: "ABD Memorial Day Omnium Stage #2 North Aurora Criterium"
+  loc: "North Aurora, IL"
+  body: "ABR"
+  date: 2024-05-25
+  url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vS1iNm7G9azaBZiOr9xdUbtvb2R9KH2eLnc75zg4rHcag581LRLgXCqBojFHg64WjgFy9LTu7maz1_n/pubhtml"
+- name: "ABD Memorial Day Omnium Stage #1 - King/Queen of Kane Country TT"
+  loc: "Maple Park, IL"
+  body: "ABR"
+  date: 2024-05-25
+  url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRVJuNu1pHunD8VVsuEB1ffZipDLIycTBnpUlPup5md8QbjxCQFUURxbrPMJCZ81uPwt-Gd6kxzTh5E/pubhtml#"
 - name: "John Fraser Memorial Time Trial"
   loc: "Maple Park, IL"
   body: "ABR"
