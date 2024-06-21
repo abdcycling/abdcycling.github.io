@@ -101,8 +101,9 @@
   name: "Sunrise Park Cyclocross"
   lead: "Part of the Chicago Cyclocross Cup Series"
   dates:
-    - TBD
-  url: "/public/pdf/Flyer-2023-SunriseParkCX.pdf"
+    - 2024-10-27
+  # url: "/public/pdf/Flyer-2023-SunriseParkCX.pdf"
+  url: "https://www.chicrosscup.com/"
 - slug: wiilbanquet
   name: "2024 WIIL Banquet"
   lead: "2024 Wisconsin &amp; Illinois Bicycle Racing Awards Banquet"
