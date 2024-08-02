@@ -53,6 +53,12 @@
   url: "/public/pdf/Flyer-2024-KanevilleTT.pdf"
   reglink: "https://www.bikereg.com/kqokc2"
   # startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRVJuNu1pHunD8VVsuEB1ffZipDLIycTBnpUlPup5md8QbjxCQFUURxbrPMJCZ81uPwt-Gd6kxzTh5E/pubhtml"
+- slug: velodromettorientation
+  name: "Velodrome 4K TT Orientation Session 3pm-5pm"
+  lead: "TT on Northbrook's Velodrome - Orientation Session"
+  dates:
+    - 2024-08-03
+  url: "/public/pdf/Flyer-2024-VelodromeTT.pdf"
 - slug: velodromett
   name: "Velodrome 4K Time Trial"
   lead: "Time Trial on Northbrook's Velodrome"
