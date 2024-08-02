@@ -74,13 +74,13 @@
   url: "/public/pdf/Flyer-2024-KanevilleTT.pdf"
   reglink: "https://www.bikereg.com/kqokc3-2024"
   # startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRVJuNu1pHunD8VVsuEB1ffZipDLIycTBnpUlPup5md8QbjxCQFUURxbrPMJCZ81uPwt-Gd6kxzTh5E/pubhtml"
-- slug: alstearn2022
-  name: "Al Stearn Road Race"
+- slug: alstern2022
+  name: "Al Stern Road Race"
   dates:
-    - TBD
-  url: "/public/pdf/Flyer-2023-FallFlingAlStearnRoadRace.pdf"
-  reglink: "https://www.bikereg.com/alsternroadrace"
-  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTmjwuf_ZSPTnJyU5Fll4RUqb5kXMSbDSYarPhMn8Xyr-U81w8iUpCbtNbHcSJp14Yw-0RL0ZmG_K9u/pubhtml"
+    - 2024-09-14
+  url: "/public/pdf/Flyer-2024-FallFlingAlSternRoadRace.pdf"
+  # reglink: "https://www.bikereg.com/alsternroadrace"
+  # startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTmjwuf_ZSPTnJyU5Fll4RUqb5kXMSbDSYarPhMn8Xyr-U81w8iUpCbtNbHcSJp14Yw-0RL0ZmG_K9u/pubhtml"
 - slug: fallflingtt
   name: "Fall Fling Maple Park Time Trial"
   lead: "Road-cycling season finale for riders of all ages and skill levels"
@@ -93,16 +93,16 @@
   name: "Fall Fling North Aurora Criterium"
   lead: "Road-cycling season finale for riders of all ages and skill levels"
   dates:
-    - TBD
-  reglink: "https://www.bikereg.com/northauroracriterium"
-  url: "/public/pdf/Flyer-2023-FallFlingNorthAuroraCrit.pdf"
+    - 2024-09-21
+  # reglink: "https://www.bikereg.com/northauroracriterium"
+  # url: "/public/pdf/Flyer-2024-FallFlingNorthAuroraCrit.pdf"
 - slug: fallflingcrit2
   name: "Fall Fling Wood Dale Criterium"
   lead: "Road-cycling season finale for riders of all ages and skill levels"
   dates:
-    - TBD
-  url: "/public/pdf/Flyer-2023-FallFlingWoodDaleCrit.pdf"
-  reglink: "https://www.bikereg.com/wooddalecriterium"
+    - 2024-09-22
+  # url: "/public/pdf/Flyer-2023-FallFlingWoodDaleCrit.pdf"
+  # reglink: "https://www.bikereg.com/wooddalecriterium"
 - slug: abdcross
   name: "Sunrise Park Cyclocross"
   lead: "Part of the Chicago Cyclocross Cup Series"
