@@ -49,7 +49,7 @@
   name: "Kaneville Time Trial 2"
   lead: "3 Time Trial Series"
   dates:
-    - 2024-06-30
+    - TBD
   url: "/public/pdf/Flyer-2024-KanevilleTT.pdf"
   reglink: "https://www.bikereg.com/kqokc2"
   # startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRVJuNu1pHunD8VVsuEB1ffZipDLIycTBnpUlPup5md8QbjxCQFUURxbrPMJCZ81uPwt-Gd6kxzTh5E/pubhtml"
@@ -57,20 +57,20 @@
   name: "Velodrome 4K TT Orientation Session 3pm-5pm"
   lead: "TT on Northbrook's Velodrome - Orientation Session"
   dates:
-    - 2024-08-03
+    - TBD
   url: "/public/pdf/Flyer-2024-VelodromeTT.pdf"
 - slug: velodromett
   name: "Velodrome 4K Time Trial"
   lead: "Time Trial on Northbrook's Velodrome"
   dates:
-    - 2024-08-10
+    - TBD
   url: "/public/pdf/Flyer-2024-VelodromeTT.pdf"
   reglink: "https://www.bikereg.com/abdpacttracktt2024"
 - slug: kaneville3
   name: "Kaneville Time Trial 3"
   lead: "3 Time Trial Series"
   dates:
-    - 2024-08-18
+    - TBD
   url: "/public/pdf/Flyer-2024-KanevilleTT.pdf"
   reglink: "https://www.bikereg.com/kqokc3-2024"
   # startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRVJuNu1pHunD8VVsuEB1ffZipDLIycTBnpUlPup5md8QbjxCQFUURxbrPMJCZ81uPwt-Gd6kxzTh5E/pubhtml"
@@ -103,6 +103,13 @@
     - 2024-09-22
   # url: "/public/pdf/Flyer-2023-FallFlingWoodDaleCrit.pdf"
   # reglink: "https://www.bikereg.com/wooddalecriterium"
+- slug: gravelrally
+  name: "Sycamore Speedway Gravel Rally"
+  lead: "A unique, fun, and first of its kind, gravel and dirt cycling event"
+  dates:
+    - 2024-09-29
+  url: "/public/pdf/Flyer-2024-SycamoreSpeedwayGravelRally.pdf"
+  reglink: "https://www.bikereg.com/sycamorespeedwaygravelrally"
 - slug: abdcross
   name: "Sunrise Park Cyclocross"
   lead: "Part of the Chicago Cyclocross Cup Series"
