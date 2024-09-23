@@ -93,23 +93,23 @@
   name: "Fall Fling: North Aurora Criterium"
   lead: "Road-cycling season finale for riders of all ages and skill levels"
   dates:
-    - 2024-09-21
+    - TBD
   # reglink: "https://www.bikereg.com/northauroracriterium"
   # url: "/public/pdf/Flyer-2024-FallFlingNorthAuroraCrit.pdf"
 - slug: fallflingcrit2
   name: "Fall Fling: Wood Dale Criterium"
   lead: "Road-cycling season finale for riders of all ages and skill levels"
   dates:
-    - 2024-09-22
+    - TBD
   # url: "/public/pdf/Flyer-2023-FallFlingWoodDaleCrit.pdf"
   # reglink: "https://www.bikereg.com/wooddalecriterium"
 - slug: gravelrally
-  name: "Sycamore Speedway Gravel Rally"
+  name: "CANCELLED: Sycamore Speedway Gravel Rally"
   lead: "A unique, fun, and first of its kind, gravel and dirt cycling event"
   dates:
     - 2024-09-29
-  url: "/public/pdf/Flyer-2024-SycamoreSpeedwayGravelRally.pdf"
-  reglink: "https://www.bikereg.com/sycamorespeedwaygravelrally"
+  # url: "/public/pdf/Flyer-2024-SycamoreSpeedwayGravelRally.pdf"
+  # reglink: "https://www.bikereg.com/sycamorespeedwaygravelrally"
 - slug: abdcross
   name: "Sunrise Park Cyclocross"
   lead: "Part of the Chicago Cyclocross Cup Series"
