@@ -13,8 +13,8 @@
   dates:
     - TBD
   # startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vShS_bwuY6uDMxr8ioKIZc9r1WFArj6Ggldq945DOjxkNXdzflcyxWnii2st21N8MQhDcesbhWIZF_w/pubhtml"
-  reglink: "https://www.bikereg.com/johnfrasermemorialtt2024"
-  url: "/public/pdf/Flyer-2024-JFMTT.pdf"
+  reglink: "https://www.bikereg.com/johnfrasermemorialtt2025"
+  url: "/public/pdf/Flyer-2025-JFMTT.pdf"
 - slug: auroramasters
   name: "North Aurora Master's Criterium"
   lead: "Master's only races, 30 years and older"
@@ -28,21 +28,21 @@
   lead: "3 Time Trial Series"
   dates:
     - TBD
-  url: "/public/pdf/Flyer-2024-KanevilleTT.pdf"
-  #reglink: "https://www.bikereg.com/kqokc12024"
+  url: "/public/pdf/Flyer-2025-KanevilleTT.pdf"
+  #reglink: "https://www.bikereg.com/kqokc12025"
   startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRVJuNu1pHunD8VVsuEB1ffZipDLIycTBnpUlPup5md8QbjxCQFUURxbrPMJCZ81uPwt-Gd6kxzTh5E/pubhtml"
 - slug: memorialdayomnium2
   name: "Memorial Day Omnium #2: N. Aurora Crit"
   dates:
     - TBD
-  url: "/public/pdf/Flyer-2024-MemorialDayOmnium.pdf"
+  url: "/public/pdf/Flyer-2025-MemorialDayOmnium.pdf"
   #reglink: "https://www.bikereg.com/northauroracriterium"
   startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vS1iNm7G9azaBZiOr9xdUbtvb2R9KH2eLnc75zg4rHcag581LRLgXCqBojFHg64WjgFy9LTu7maz1_n/pubhtml"
 - slug: memorialdayomnium3
   name: "Memorial Day Omnium #3: Wood Dale Crit"
   dates:
     - TBD
-  url: "/public/pdf/Flyer-2024-MemorialDayOmnium.pdf"
+  url: "/public/pdf/Flyer-2025-MemorialDayOmnium.pdf"
   startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQTKYeoiY8Ary6Zxg6OScVpB1sQqwSmxt3zO5Fo6bSkKKJENP2cXEyZ0QjhBYIqxeHGYmkLBk-bnNLp/pubhtml"
   #reglink: "https://www.bikereg.com/wooddalecriterium"
 - slug: kaneville2
@@ -50,7 +50,7 @@
   lead: "3 Time Trial Series"
   dates:
     - TBD
-  url: "/public/pdf/Flyer-2024-KanevilleTT.pdf"
+  url: "/public/pdf/Flyer-2025-KanevilleTT.pdf"
   reglink: "https://www.bikereg.com/kqokc2"
   # startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRVJuNu1pHunD8VVsuEB1ffZipDLIycTBnpUlPup5md8QbjxCQFUURxbrPMJCZ81uPwt-Gd6kxzTh5E/pubhtml"
 - slug: velodromettorientation
@@ -58,27 +58,27 @@
   lead: "TT on Northbrook's Velodrome - Orientation Session"
   dates:
     - TBD
-  url: "/public/pdf/Flyer-2024-VelodromeTT.pdf"
+  url: "/public/pdf/Flyer-2025-VelodromeTT.pdf"
 - slug: velodromett
   name: "Velodrome 4K Time Trial"
   lead: "Time Trial on Northbrook's Velodrome"
   dates:
     - TBD
-  url: "/public/pdf/Flyer-2024-VelodromeTT.pdf"
-  reglink: "https://www.bikereg.com/abdpacttracktt2024"
+  url: "/public/pdf/Flyer-2025-VelodromeTT.pdf"
+  reglink: "https://www.bikereg.com/abdpacttracktt2025"
 - slug: kaneville3
   name: "Kaneville Time Trial 3"
   lead: "3 Time Trial Series"
   dates:
     - TBD
-  url: "/public/pdf/Flyer-2024-KanevilleTT.pdf"
-  reglink: "https://www.bikereg.com/kqokc3-2024"
+  url: "/public/pdf/Flyer-2025-KanevilleTT.pdf"
+  reglink: "https://www.bikereg.com/kqokc3-2025"
   # startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRVJuNu1pHunD8VVsuEB1ffZipDLIycTBnpUlPup5md8QbjxCQFUURxbrPMJCZ81uPwt-Gd6kxzTh5E/pubhtml"
 - slug: alstern2022
   name: "Fall Fling: Al Stern Road Race"
   dates:
     - TBD
-  url: "/public/pdf/Flyer-2024-FallFlingAlSternRoadRace.pdf"
+  url: "/public/pdf/Flyer-2025-FallFlingAlSternRoadRace.pdf"
   # reglink: "https://www.bikereg.com/alsternroadrace"
   # startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTmjwuf_ZSPTnJyU5Fll4RUqb5kXMSbDSYarPhMn8Xyr-U81w8iUpCbtNbHcSJp14Yw-0RL0ZmG_K9u/pubhtml"
 - slug: fallflingtt
@@ -86,8 +86,8 @@
   lead: "Road-cycling season finale for riders of all ages and skill levels"
   dates:
     - TBD
-  reglink: "https://www.bikereg.com/fallflingtt2024"
-  url: "/public/pdf/Flyer-2024-FallFlingMapleParkTT.pdf"
+  reglink: "https://www.bikereg.com/fallflingtt2025"
+  url: "/public/pdf/Flyer-2025-FallFlingMapleParkTT.pdf"
   # startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRsFh2-ey03RQntgdhVvGngDhF8usT2M8DRvAK5FrTEspdj5KHTEB1F0SoFai6_C22GRoDV4JW3_VAX/pubhtml"
 - slug: fallflingcrit1
   name: "Fall Fling: North Aurora Criterium"
@@ -95,7 +95,7 @@
   dates:
     - TBD
   # reglink: "https://www.bikereg.com/northauroracriterium"
-  # url: "/public/pdf/Flyer-2024-FallFlingNorthAuroraCrit.pdf"
+  # url: "/public/pdf/Flyer-2025-FallFlingNorthAuroraCrit.pdf"
 - slug: fallflingcrit2
   name: "Fall Fling: Wood Dale Criterium"
   lead: "Road-cycling season finale for riders of all ages and skill levels"
@@ -107,22 +107,22 @@
   name: "CANCELLED: Sycamore Speedway Gravel Rally"
   lead: "A unique, fun, and first of its kind, gravel and dirt cycling event"
   dates:
-    - 2024-09-29
-  # url: "/public/pdf/Flyer-2024-SycamoreSpeedwayGravelRally.pdf"
+    - TBD
+  # url: "/public/pdf/Flyer-2025-SycamoreSpeedwayGravelRally.pdf"
   # reglink: "https://www.bikereg.com/sycamorespeedwaygravelrally"
 - slug: abdcross
   name: "Sunrise Park Cyclocross"
   lead: "Part of the Chicago Cyclocross Cup Series"
   dates:
-    - 2024-10-27
+    - TBD
   # url: "/public/pdf/Flyer-2023-SunriseParkCX.pdf"
   url: "https://www.chicrosscup.com/"
 - slug: wiilbanquet
-  name: "2024 WIIL Banquet"
-  lead: "2024 Wisconsin &amp; Illinois Bicycle Racing Awards Banquet"
+  name: "2025 WIIL Banquet"
+  lead: "2025 Wisconsin &amp; Illinois Bicycle Racing Awards Banquet"
   dates:
     - TBD
-  url: "/public/pdf/Flyer-2023-WIILBanquet.pdf"
+  url: "/public/pdf/Flyer-2025-WIILBanquet.pdf"
 # - slug: masters
 #   name: "Master&rsquo;s Memorial Day Weekend"
 #   lead: "Master-level races for those 30 years and older at all skill levels"
