@@ -1,3 +1,18 @@
+- name: "ABD Memorial Day Omnium Stage #1 Wood Dale Criterium"
+  loc: "Wood Dale, IL"
+  body: "ABR"
+  date: 2025-05-24
+  url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vR1HxltHphk9gbq3LJVf_-PSD2nSAd-D6yikjioE9KltpbIlbBDIpLoN1oIhyhTOPFSgpIACzO28AXw/pubhtml"
+- name: "ABD Memorial Day Omnium Stage #2 TT & Kane County TT #1"
+  loc: "Maple Park, IL"
+  body: "ABR"
+  date: 2025-05-25
+  url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWop14b0nLYuimtNeZja6Xq0IXmEQ8jvbdNs-3N1RQszO16ZLVHd6CjroL240R45DBdPFtmF_poMwL/pubhtml"
+- name: "ABD Memorial Day Omnium Stage #3 Wood Dale Criterium"
+  loc: "Wood Dale, IL"
+  body: "ABR"
+  date: 2025-05-26
+  url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSrQxfRXe0iOivk3FN1UaFyeTCluPCssDkdhlIZv7vE6XW4PRafEdVdPbOWkCgWTu_HZsTfAIzwvNM0/pubhtml"
 - name: "ABD Memorial Day Omnium Stage #3 Wood Dale Criterium"
   loc: "Wood Dale, IL"
   body: "ABR"
