@@ -27,7 +27,7 @@
   lead: "Stage 3 of a 3 Day Weekend Omnium"
   dates:
     - 2025-05-26
-  reglink: "https://www.bikereg.com/25wooddalecriteriumstage3"
+  startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSrQxfRXe0iOivk3FN1UaFyeTCluPCssDkdhlIZv7vE6XW4PRafEdVdPbOWkCgWTu_HZsTfAIzwvNM0/pubhtml"
   url: "/public/pdf/Flyer-2025-MemorialDayWeekendOmnium.pdf"
 - slug: kaneville2
   name: "Kaneville Time Trial 2"
