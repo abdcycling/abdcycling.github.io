@@ -3,7 +3,7 @@
   name: "John Fraser Memorial Time Trial"
   lead: "The Mid America Time Trial (MATTS) events"
   dates:
-    - 2025-04-13
+    - TBD
   # startlist: "https://docs.google.com/spreadsheets/d/1kyrss4U2P2N65ojZdllIhNywpvkz9YuBEQBzYQGbqQM/edit?gid=0#gid=0"
   reglink: "https://www.bikereg.com/johnfrasermemorialtt25"
   url: "/public/pdf/Flyer-2025-JFMTT.pdf"
@@ -11,14 +11,14 @@
   name: "Memorial Day Weekend Omnium Stage 1"
   lead: "Stage 1 of a 3 Day Weekend Omnium"
   dates:
-    - 2025-05-24
+    - TBD
   reglink: "https://www.bikereg.com/25wooddalecriteriumstage1"
   url: "/public/pdf/Flyer-2025-MemorialDayWeekendOmnium.pdf"
 - slug: memorialdayweekend2
   name: "Memorial Day Weekend Omnium Stage 2 - TT"
   lead: "Stage 2 of a 3 Day Weekend Omnium"
   dates:
-    - 2025-05-25
+    - TBD
   # startlist: "https://docs.google.com/spreadsheets/d/1Vh-T-371F3VCrbEUsZyXOK4PeyviCEOVW_X1ALwoEJg/edit?gid=0#gid=0"
   reglink: "https://www.bikereg.com/25abd10mtt1"
   url: "/public/pdf/Flyer-2025-MATTSKaneCountyTTSeries.pdf"
@@ -26,7 +26,7 @@
   name: "Memorial Day Weekend Omnium Stage 3"
   lead: "Stage 3 of a 3 Day Weekend Omnium"
   dates:
-    - 2025-05-26
+    - TBD
   startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSrQxfRXe0iOivk3FN1UaFyeTCluPCssDkdhlIZv7vE6XW4PRafEdVdPbOWkCgWTu_HZsTfAIzwvNM0/pubhtml"
   url: "/public/pdf/Flyer-2025-MemorialDayWeekendOmnium.pdf"
 - slug: kaneville2
