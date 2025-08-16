@@ -33,7 +33,7 @@
   name: "Kaneville Time Trial 2"
   lead: "3 Time Trial Series"
   dates:
-    - 2025-06-29
+    - TBD
   # startlist: "https://docs.google.com/spreadsheets/d/1Vh-T-371F3VCrbEUsZyXOK4PeyviCEOVW_X1ALwoEJg/edit?gid=93875757#gid=93875757"
   url: "/public/pdf/Flyer-2025-MATTSKaneCountyTTSeries.pdf"
   reglink: "https://www.bikereg.com/25abd10mtt2"
@@ -41,7 +41,7 @@
   name: "Velodrome 4K Time Trial"
   lead: "Time Trial on Northbrook's Velodrome"
   dates:
-    - 2025-08-09
+    - TBD
   # startlist: "https://docs.google.com/spreadsheets/d/1tRxRDZliMv6Zb3DMToeZIu70uAMnJLPH_4w5O5u8zzw/edit?gid=0#gid=0"
   url: "/public/pdf/Flyer-2025-VelodromeTT.pdf"
   reglink: "https://www.bikereg.com/25abdpacttracktt"
@@ -85,7 +85,7 @@
   name: "Sunrise Park Cyclocross"
   lead: "Part of the Chicago Cyclocross Cup Series"
   dates:
-    - TBD
+    - 2025-10-26
   url: "https://www.chicrosscup.com/"
 - slug: wiilbanquet
   name: "2025 WIIL Banquet"
