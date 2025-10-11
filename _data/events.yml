@@ -49,7 +49,7 @@
   name: "Kaneville Time Trial 3"
   lead: "3 Time Trial Series"
   dates:
-    - 2025-08-17
+    - TBD
   # startlist: "https://docs.google.com/spreadsheets/d/1Vh-T-371F3VCrbEUsZyXOK4PeyviCEOVW_X1ALwoEJg/edit?gid=1343931578#gid=1343931578"
   url: "/public/pdf/Flyer-2025-MATTSKaneCountyTTSeries.pdf"
   reglink: "https://www.bikereg.com/25abd10mtt3"
@@ -57,27 +57,27 @@
   name: "Fall Fling Stage 1"
   lead: "Road-cycling season finale for riders of all ages and skill levels"
   dates:
-    - 2025-08-30
+    - TBD
   reglink: "https://www.bikereg.com/25ffwooddalecriteriumstage1"
   url: "/public/pdf/Flyer-2025-FallFling.pdf"
 - slug: fallflingcrit2
   name: "Fall Fling Stage 2"
   lead: "Road-cycling season finale for riders of all ages and skill levels"
   dates:
-    - 2025-08-31
+    - TBD
   url: "/public/pdf/Flyer-2025-FallFling.pdf"
   reglink: "https://www.bikereg.com/25ffwooddalecriteriumstage2"
 - slug: alstern2022
   name: "Fall Fling: Al Stern Road Race"
   dates:
-    - 2025-09-13
+    - TBD
   url: "/public/pdf/Flyer-2025-FallFling.pdf"
   reglink: "https://www.bikereg.com/25alsternroadrace"
 - slug: fallflingtt
   name: "Fall Fling: Maple Park Time Trial"
   lead: "Road-cycling season finale for riders of all ages and skill levels"
   dates:
-    - 2025-09-14
+    - TBD
   # startlist: "https://docs.google.com/spreadsheets/d/1beehCMuLqGwYtd2KTexzXjKbWxx3po7JLebfay2oNSw/edit?gid=0#gid=0"
   reglink: "https://www.bikereg.com/25fallflingtt"
   url: "/public/pdf/Flyer-2025-FallFling.pdf"
@@ -91,5 +91,5 @@
   name: "2025 WIIL Banquet"
   lead: "2025 Wisconsin &amp; Illinois Bicycle Racing Awards Banquet"
   dates:
-    - TBD
-  url: "/public/pdf/Flyer-2025-WIILBanquet.pdf"
+    - 2025-10-25
+  url: "https://www.bikereg.com/wiil-season-awards-party2025"
