@@ -82,14 +82,16 @@
   reglink: "https://www.bikereg.com/25fallflingtt"
   url: "/public/pdf/Flyer-2025-FallFling.pdf"
 - slug: wiilbanquet
-  name: "2025 WIIL Banquet"
+  name: "2025 WIIL Banquet @ Sycamore Speedway"
   lead: "2025 Wisconsin &amp; Illinois Bicycle Racing Awards Banquet"
   dates:
     - 2025-10-26
-  url: "https://www.bikereg.com/wiil-season-awards-party2025"
+  url: "https://www.wiilcycle.org/"
+  reglink: "https://www.bikereg.com/wiil-season-awards-party2025"
 - slug: abdcross
-  name: "Sunrise Park Cyclocross"
+  name: "ABD Sycamore Speedway Chi Cross Cup"
   lead: "Part of the Chicago Cyclocross Cup Series"
   dates:
     - 2025-10-26
   url: "https://www.chicrosscup.com/"
+  reglink: "https://www.bikereg.com/abdcycling"
