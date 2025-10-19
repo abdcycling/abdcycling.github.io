@@ -81,6 +81,13 @@
   # startlist: "https://docs.google.com/spreadsheets/d/1beehCMuLqGwYtd2KTexzXjKbWxx3po7JLebfay2oNSw/edit?gid=0#gid=0"
   reglink: "https://www.bikereg.com/25fallflingtt"
   url: "/public/pdf/Flyer-2025-FallFling.pdf"
+- slug: sycamorecxpreview
+  name: "Sycamore Speedway Cyclocross Preview"
+  lead: "Sycamre Speedway Cat 5 WORLDS & Preview Race #3"
+  dates:
+    - 2025-10-25
+  url: "/public/pdf/Flyer-2025-SycamoreCXPreview.pdf"
+  reglink: "https://www.bikereg.com/abdsscxsat2025"
 - slug: wiilbanquet
   name: "WI/IL 2025 Season Awards Party @ Sycamore Speedway"
   lead: "2025 Wisconsin &amp; Illinois Bicycle Racing Awards Banquet"
