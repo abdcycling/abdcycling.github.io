@@ -6,14 +6,14 @@
     - TBD
   # startlist: "https://docs.google.com/spreadsheets/d/1kyrss4U2P2N65ojZdllIhNywpvkz9YuBEQBzYQGbqQM/edit?gid=0#gid=0"
   reglink: "https://www.bikereg.com/johnfrasermemorialtt25"
-  url: "/public/pdf/Flyer-2025-JFMTT.pdf"
+  url: "/public/pdf/Flyer-2026-JFMTT.pdf"
 - slug: memorialdayweekend1
   name: "Memorial Day Weekend Omnium Stage 1"
   lead: "Stage 1 of a 3 Day Weekend Omnium"
   dates:
     - TBD
   reglink: "https://www.bikereg.com/25wooddalecriteriumstage1"
-  url: "/public/pdf/Flyer-2025-MemorialDayWeekendOmnium.pdf"
+  url: "/public/pdf/Flyer-2026-MemorialDayWeekendOmnium.pdf"
 - slug: memorialdayweekend2
   name: "Memorial Day Weekend Omnium Stage 2 - TT"
   lead: "Stage 2 of a 3 Day Weekend Omnium"
@@ -21,21 +21,21 @@
     - TBD
   # startlist: "https://docs.google.com/spreadsheets/d/1Vh-T-371F3VCrbEUsZyXOK4PeyviCEOVW_X1ALwoEJg/edit?gid=0#gid=0"
   reglink: "https://www.bikereg.com/25abd10mtt1"
-  url: "/public/pdf/Flyer-2025-MATTSKaneCountyTTSeries.pdf"
+  url: "/public/pdf/Flyer-2026-MATTSKaneCountyTTSeries.pdf"
 - slug: memorialdayweekend3
   name: "Memorial Day Weekend Omnium Stage 3"
   lead: "Stage 3 of a 3 Day Weekend Omnium"
   dates:
     - TBD
   startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSrQxfRXe0iOivk3FN1UaFyeTCluPCssDkdhlIZv7vE6XW4PRafEdVdPbOWkCgWTu_HZsTfAIzwvNM0/pubhtml"
-  url: "/public/pdf/Flyer-2025-MemorialDayWeekendOmnium.pdf"
+  url: "/public/pdf/Flyer-2026-MemorialDayWeekendOmnium.pdf"
 - slug: kaneville2
   name: "Kaneville Time Trial 2"
   lead: "3 Time Trial Series"
   dates:
     - TBD
   # startlist: "https://docs.google.com/spreadsheets/d/1Vh-T-371F3VCrbEUsZyXOK4PeyviCEOVW_X1ALwoEJg/edit?gid=93875757#gid=93875757"
-  url: "/public/pdf/Flyer-2025-MATTSKaneCountyTTSeries.pdf"
+  url: "/public/pdf/Flyer-2026-MATTSKaneCountyTTSeries.pdf"
   reglink: "https://www.bikereg.com/25abd10mtt2"
 - slug: velodromett
   name: "Velodrome 4K Time Trial"
@@ -43,7 +43,7 @@
   dates:
     - TBD
   # startlist: "https://docs.google.com/spreadsheets/d/1tRxRDZliMv6Zb3DMToeZIu70uAMnJLPH_4w5O5u8zzw/edit?gid=0#gid=0"
-  url: "/public/pdf/Flyer-2025-VelodromeTT.pdf"
+  url: "/public/pdf/Flyer-2026-VelodromeTT.pdf"
   reglink: "https://www.bikereg.com/25abdpacttracktt"
 - slug: kaneville3
   name: "Kaneville Time Trial 3"
@@ -51,7 +51,7 @@
   dates:
     - TBD
   # startlist: "https://docs.google.com/spreadsheets/d/1Vh-T-371F3VCrbEUsZyXOK4PeyviCEOVW_X1ALwoEJg/edit?gid=1343931578#gid=1343931578"
-  url: "/public/pdf/Flyer-2025-MATTSKaneCountyTTSeries.pdf"
+  url: "/public/pdf/Flyer-2026-MATTSKaneCountyTTSeries.pdf"
   reglink: "https://www.bikereg.com/25abd10mtt3"
 - slug: fallflingcrit1
   name: "Fall Fling Stage 1"
@@ -59,19 +59,19 @@
   dates:
     - TBD
   reglink: "https://www.bikereg.com/25ffwooddalecriteriumstage1"
-  url: "/public/pdf/Flyer-2025-FallFling.pdf"
+  url: "/public/pdf/Flyer-2026-FallFling.pdf"
 - slug: fallflingcrit2
   name: "Fall Fling Stage 2"
   lead: "Road-cycling season finale for riders of all ages and skill levels"
   dates:
     - TBD
-  url: "/public/pdf/Flyer-2025-FallFling.pdf"
+  url: "/public/pdf/Flyer-2026-FallFling.pdf"
   reglink: "https://www.bikereg.com/25ffwooddalecriteriumstage2"
 - slug: alstern2022
   name: "Fall Fling: Al Stern Road Race"
   dates:
     - TBD
-  url: "/public/pdf/Flyer-2025-FallFling.pdf"
+  url: "/public/pdf/Flyer-2026-FallFling.pdf"
   reglink: "https://www.bikereg.com/25alsternroadrace"
 - slug: fallflingtt
   name: "Fall Fling: Maple Park Time Trial"
@@ -80,23 +80,23 @@
     - TBD
   # startlist: "https://docs.google.com/spreadsheets/d/1beehCMuLqGwYtd2KTexzXjKbWxx3po7JLebfay2oNSw/edit?gid=0#gid=0"
   reglink: "https://www.bikereg.com/25fallflingtt"
-  url: "/public/pdf/Flyer-2025-FallFling.pdf"
+  url: "/public/pdf/Flyer-2026-FallFling.pdf"
 - slug: sycamorecxpreview
   name: "Sycamore Speedway Cyclocross Preview"
   lead: "Sycamre Speedway Cat 5 WORLDS & Preview Race #3"
   dates:
-    - 2025-10-25
-  url: "/public/pdf/Flyer-2025-SycamoreCXPreview.pdf"
-  reglink: "https://www.bikereg.com/abdsscxsat2025"
+    - TBD
+  url: "/public/pdf/Flyer-2026-SycamoreCXPreview.pdf"
+  reglink: "https://www.bikereg.com/abdsscxsat2026"
 - slug: wiilbanquet
-  name: "WI/IL 2025 Season Awards Party @ Sycamore Speedway"
-  lead: "2025 Wisconsin &amp; Illinois Bicycle Racing Awards Banquet"
+  name: "WI/IL 2026 Season Awards Party @ Sycamore Speedway"
+  lead: "2026 Wisconsin &amp; Illinois Bicycle Racing Awards Banquet"
   dates:
-    - 2025-10-26
-  url: "https://www.wiilcycle.org/event/wi-il-2025-season-awards-party/"
+    - TBD
+  url: "https://www.wiilcycle.org/event/wi-il-2026-season-awards-party/"
 - slug: abdcross
   name: "ABD Sycamore Speedway Chi Cross Cup"
   lead: "Part of the Chicago Cyclocross Cup Series"
   dates:
-    - 2025-10-26
+    - TBD
   url: "https://www.chicrosscup.com/race/abd-sunrise-park/"
