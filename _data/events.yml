@@ -14,7 +14,7 @@
     - 2026-05-24
   startlist: "https://docs.google.com/spreadsheets/d/1Ro8DJiG3Y6SQEfBiCAk8Xg4MN3CfY-EGjRdsIlFM75o/edit?usp=sharing"
   # reglink: ""
-  # url: ""
+  url: "/public/pdf/Flyer-2026-MATTSTT2.pdf"
 - slug: mattsabdtt3
   name: "MATTS TT # 3 p/b ABD Cycling"
   lead: "Stage 3 of 5 TT Series"
@@ -22,7 +22,7 @@
     - 2026-06-07
   startlist: "https://docs.google.com/spreadsheets/d/1prkMOqO5nDDjm056GUHOX9_fgGdJnDIGBHQAqx8ZEcU/edit?usp=sharing"
   # reglink: ""
-  # url: ""
+  url: "/public/pdf/Flyer-2026-MATTSTT3.pdf"
 - slug: velodromett
   name: "Velodrome 4K Time Trial"
   lead: "Time Trial on Northbrook's Velodrome"
@@ -38,7 +38,7 @@
     - 2026-08-16
   startlist: "https://docs.google.com/spreadsheets/d/1wQgDWeJZJV-hn3OW4nedOM3AZX0W4YtmfEgIxuzBlfs/edit?usp=sharing"
   # reglink: ""
-  # url: ""
+  url: "/public/pdf/Flyer-2026-MATTSTT4.pdf"
 - slug: mattsabdtt5
   name: "MATTS TT # 5 p/b ABD Cycling"
   lead: "Stage 5 of 5 TT Series"
@@ -46,7 +46,7 @@
     - 2026-09-13
   startlist: "https://docs.google.com/spreadsheets/d/1OQtQYKCGDWxZh4J-LVNBOj_5rTjRLEp158otsZAiZVM/edit?usp=sharing"
   # reglink: ""
-  # url: ""
+  url: "/public/pdf/Flyer-2026-MATTSTT5.pdf"
 - slug: memorialdayweekend1
   name: "Memorial Day Weekend Omnium Stage 1"
   lead: "Stage 1 of a 3 Day Weekend Omnium"
