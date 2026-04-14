@@ -3,10 +3,50 @@
   name: "John Fraser Memorial Time Trial"
   lead: "The Mid America Time Trial (MATTS) events"
   dates:
-    - 2026-04-12
+    - TBD
   startlist: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRT0_ssE_330G4h-eEz6VBGINFbAIszFjVkM6GOUcTzWTdNE7o8ei4a3I7SNNkXrkZdgSQpyXGJ2OjL/pubhtml"
   # reglink: "https://www.bikereg.com/johnfrasermemorialtt26"
   url: "/public/pdf/Flyer-2026-JFMTT.pdf"
+- slug: mattsabdtt2
+  name: "MATTS TT # 2 p/b ABD Cycling"
+  lead: "Stage 2 of 5 TT Series"
+  dates:
+    - 2026-05-24
+  startlist: "https://docs.google.com/spreadsheets/d/1Ro8DJiG3Y6SQEfBiCAk8Xg4MN3CfY-EGjRdsIlFM75o/edit?usp=sharing"
+  # reglink: ""
+  # url: ""
+- slug: mattsabdtt3
+  name: "MATTS TT # 3 p/b ABD Cycling"
+  lead: "Stage 3 of 5 TT Series"
+  dates:
+    - 2026-06-07
+  startlist: "https://docs.google.com/spreadsheets/d/1prkMOqO5nDDjm056GUHOX9_fgGdJnDIGBHQAqx8ZEcU/edit?usp=sharing"
+  # reglink: ""
+  # url: ""
+- slug: velodromett
+  name: "Velodrome 4K Time Trial"
+  lead: "Time Trial on Northbrook's Velodrome"
+  dates:
+    - 2026-08-08
+  startlist: "https://docs.google.com/spreadsheets/d/1ZjXJdyNUlezqCh5fQYqDlTdFAYBYIve5HrOChYtdHR8/edit?usp=sharing_eil&ts=69dd45fb"
+  # url: "/public/pdf/Flyer-2026-VelodromeTT.pdf"
+  # reglink: "https://www.bikereg.com/25abdpacttracktt"
+- slug: mattsabdtt4
+  name: "MATTS TT # 4 p/b ABD Cycling"
+  lead: "Stage 4 of 5 TT Series"
+  dates:
+    - 2026-08-16
+  startlist: "https://docs.google.com/spreadsheets/d/1wQgDWeJZJV-hn3OW4nedOM3AZX0W4YtmfEgIxuzBlfs/edit?usp=sharing"
+  # reglink: ""
+  # url: ""
+- slug: mattsabdtt5
+  name: "MATTS TT # 5 p/b ABD Cycling"
+  lead: "Stage 5 of 5 TT Series"
+  dates:
+    - 2026-09-13
+  startlist: "https://docs.google.com/spreadsheets/d/1OQtQYKCGDWxZh4J-LVNBOj_5rTjRLEp158otsZAiZVM/edit?usp=sharing"
+  # reglink: ""
+  # url: ""
 - slug: memorialdayweekend1
   name: "Memorial Day Weekend Omnium Stage 1"
   lead: "Stage 1 of a 3 Day Weekend Omnium"
@@ -37,14 +77,6 @@
   # startlist: "https://docs.google.com/spreadsheets/d/1Vh-T-371F3VCrbEUsZyXOK4PeyviCEOVW_X1ALwoEJg/edit?gid=93875757#gid=93875757"
   url: "/public/pdf/Flyer-2026-MATTSKaneCountyTTSeries.pdf"
   reglink: "https://www.bikereg.com/25abd10mtt2"
-- slug: velodromett
-  name: "Velodrome 4K Time Trial"
-  lead: "Time Trial on Northbrook's Velodrome"
-  dates:
-    - TBD
-  # startlist: "https://docs.google.com/spreadsheets/d/1tRxRDZliMv6Zb3DMToeZIu70uAMnJLPH_4w5O5u8zzw/edit?gid=0#gid=0"
-  url: "/public/pdf/Flyer-2026-VelodromeTT.pdf"
-  reglink: "https://www.bikereg.com/25abdpacttracktt"
 - slug: kaneville3
   name: "Kaneville Time Trial 3"
   lead: "3 Time Trial Series"
