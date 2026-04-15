@@ -27,22 +27,12 @@ description: "One of the largest &amp; most successful cycling clubs in the midw
             {% capture nowtime %}{{ site.time | date: '%F' }}{% endcapture %}
             {% if eventtime != "TBD" and eventtime >= nowtime %}
             <span class="quickies-date">{{ _date | date: '%Y.%m.%d' }}</span>
-            {% if event.url contains '://' and event.reglink contains '://' and event.startlist contains '://' %}
-              <h5>
-                <a href="{{ event.url }}">{{ event.name }}</a> -
-                <a href="{{ event.reglink }}" target="_blank" rel="noopener noreferrer">Registration</a> -
-                <a href="{{ event.startlist }}" target="_blank" rel="noopener noreferrer">Start List</a>
-              </h5>
-            {% elsif event.url contains '://' and event.reglink contains '://' %}
-              <h5>
-                <a href="{{ event.url }}">{{ event.name }}</a> -
-                <a href="{{ event.reglink }}" target="_blank" rel="noopener noreferrer">Registration</a>
-              </h5>
-            {% elsif event.url contains '://' and event.startlist contains '://' %}
-              <h5>
-                <a href="{{ event.url }}">{{ event.name }}</a> -
-                <a href="{{ event.startlist }}" target="_blank" rel="noopener noreferrer">Start List</a>
-              </h5>
+            {% if event.url contains '://' %}
+            <h5><a href="{{ event.url }}" target="_blank" rel="noopener noreferrer">{{ event.name }}</a></h5>
+            {% elsif event.startlist contains '://' %}
+            <h5><a href="{{ event.url }}">{{ event.name }}</a> - <a href="{{ event.startlist }}" target="_blank" rel="noopener noreferrer">Start List</a></h5>
+            {% elsif event.reglink contains '://' %}
+            <h5><a href="{{ event.url }}">{{ event.name }}</a> - <a href="{{ event.reglink }}" target="_blank" rel="noopener noreferrer">Registration</a></h5>
             {% else %}
             <h5><a href="{{ event.url }}">{{ event.name }}</a></h5>
             {% endif %}
