@@ -30,10 +30,10 @@ description: "One of the largest &amp; most successful cycling clubs in the midw
             {% if event.url contains '://' %}
             <h5><a href="{{ event.url }}" target="_blank" rel="noopener noreferrer">{{ event.name }}</a>
                 {% if event.reglink contains '://' %}
-            - <a href="{{ event.reglink }}" target="_blank" rel="noopener noreferrer">Registration</a>
+                - <a href="{{ event.reglink }}" target="_blank" rel="noopener noreferrer">Registration</a>
                 {% endif %}
                 {% if event.startlist contains '://' %}
-            - <a href="{{ event.startlist }}" target="_blank" rel="noopener noreferrer">Start List</a></h5>
+                - <a href="{{ event.startlist }}" target="_blank" rel="noopener noreferrer">Start List</a>
                 {% endif %}
             </h5>
             {% else %}
