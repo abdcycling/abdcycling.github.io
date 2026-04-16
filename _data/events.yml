@@ -8,7 +8,7 @@
   # reglink: "https://www.bikereg.com/johnfrasermemorialtt26"
   url: "/public/pdf/Flyer-2026-JFMTT.pdf"
 - slug: mattsabdtt2
-  name: "MATTS TT # 2 p/b ABD Cycling"
+  name: "MATTS TT # 2"
   lead: "Stage 2 of 5 TT Series"
   dates:
     - 2026-05-24
@@ -16,7 +16,7 @@
   reglink: "https://www.bikereg.com/johnfrasermemorialtt2026"
   url: "/public/pdf/Flyer-2026-MATTSTT2.pdf"
 - slug: mattsabdtt3
-  name: "MATTS TT # 3 p/b ABD Cycling"
+  name: "MATTS TT # 3"
   lead: "Stage 3 of 5 TT Series"
   dates:
     - 2026-06-07
@@ -32,7 +32,7 @@
   url: "/public/pdf/Flyer-2026-VelodromeTT.pdf"
   reglink: "https://www.bikereg.com/26abdpacttracktt"
 - slug: mattsabdtt4
-  name: "MATTS TT # 4 p/b ABD Cycling"
+  name: "MATTS TT # 4"
   lead: "Stage 4 of 5 TT Series"
   dates:
     - 2026-08-16
@@ -40,7 +40,7 @@
   reglink: "https://www.bikereg.com/75164"
   url: "/public/pdf/Flyer-2026-MATTSTT4.pdf"
 - slug: mattsabdtt5
-  name: "MATTS TT # 5 p/b ABD Cycling"
+  name: "MATTS TT # 5"
   lead: "Stage 5 of 5 TT Series"
   dates:
     - 2026-09-13
