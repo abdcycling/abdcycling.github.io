@@ -21,7 +21,7 @@
   dates:
     - 2026-06-07
   startlist: "https://docs.google.com/spreadsheets/d/1prkMOqO5nDDjm056GUHOX9_fgGdJnDIGBHQAqx8ZEcU/edit?usp=sharing"
-  # reglink: ""
+  reglink: "https://www.bikereg.com/mattsabdtt"
   url: "/public/pdf/Flyer-2026-MATTSTT3.pdf"
 - slug: velodromett
   name: "Velodrome 4K Time Trial"
@@ -29,15 +29,15 @@
   dates:
     - 2026-08-08
   startlist: "https://docs.google.com/spreadsheets/d/1ZjXJdyNUlezqCh5fQYqDlTdFAYBYIve5HrOChYtdHR8/edit?usp=sharing_eil&ts=69dd45fb"
-  # url: "/public/pdf/Flyer-2026-VelodromeTT.pdf"
-  # reglink: "https://www.bikereg.com/25abdpacttracktt"
+  url: "/public/pdf/Flyer-2026-VelodromeTT.pdf"
+  reglink: "https://www.bikereg.com/26abdpacttracktt"
 - slug: mattsabdtt4
   name: "MATTS TT # 4 p/b ABD Cycling"
   lead: "Stage 4 of 5 TT Series"
   dates:
     - 2026-08-16
   startlist: "https://docs.google.com/spreadsheets/d/1wQgDWeJZJV-hn3OW4nedOM3AZX0W4YtmfEgIxuzBlfs/edit?usp=sharing"
-  # reglink: ""
+  reglink: "https://www.bikereg.com/75164"
   url: "/public/pdf/Flyer-2026-MATTSTT4.pdf"
 - slug: mattsabdtt5
   name: "MATTS TT # 5 p/b ABD Cycling"
@@ -45,7 +45,7 @@
   dates:
     - 2026-09-13
   startlist: "https://docs.google.com/spreadsheets/d/1OQtQYKCGDWxZh4J-LVNBOj_5rTjRLEp158otsZAiZVM/edit?usp=sharing"
-  # reglink: ""
+  reglink: "https://www.bikereg.com/75167"
   url: "/public/pdf/Flyer-2026-MATTSTT5.pdf"
 - slug: memorialdayweekend1
   name: "Memorial Day Weekend Omnium Stage 1"
