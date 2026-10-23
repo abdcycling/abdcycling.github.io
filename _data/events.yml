@@ -115,20 +115,21 @@
   url: "/public/pdf/Flyer-2026-FallFling.pdf"
 - slug: sycamorecxpreview
   name: "Sycamore Speedway Cyclocross Preview"
-  lead: "Sycamre Speedway Cat 5 WORLDS & Preview Race #3"
+  lead: "Sycamore Speedway Cat 5 WORLDS & Preview Race"
   dates:
-    - TBD
-  url: "/public/pdf/Flyer-2026-SycamoreCXPreview.pdf"
-  reglink: "https://www.bikereg.com/abdsscxsat2026"
+    - 2026-10-24
+  url: "https://www.ambikerace.com/2026/flyers/ABD%20Syc%20Speed%20Cross%20flyer%202026.pdf"
+  reglink: "https://www.bikereg.com/abdcycling-2026"
+- slug: abdcross
+  name: "ABD Sycamore Speedway Chi Cross Cup"
+  lead: "Part of the Chicago Cyclocross Cup Series"
+  dates:
+    - 2026-10-25
+  url: "https://chicrosscup.com/race/abd-sunrise-park/"
+  reglink: "https://www.bikereg.com/abdcycling"
 - slug: wiilbanquet
   name: "WI/IL 2026 Season Awards Party @ Sycamore Speedway"
   lead: "2026 Wisconsin &amp; Illinois Bicycle Racing Awards Banquet"
   dates:
     - TBD
   url: "https://www.wiilcycle.org/event/wi-il-2026-season-awards-party/"
-- slug: abdcross
-  name: "ABD Sycamore Speedway Chi Cross Cup"
-  lead: "Part of the Chicago Cyclocross Cup Series"
-  dates:
-    - TBD
-  url: "https://www.chicrosscup.com/race/abd-sunrise-park/"
